@@ -66,21 +66,9 @@ export class ImageSeedingPipeline {
     
     try {
       // Step 1: Map species to iNaturalist taxa
-      let taxa: INatTaxon[];
-      
-      if (options.species) {
-        // Filter to just the requested species
-        console.log(`🎯 Processing single species: ${options.species}`);
-        taxa = await this.inatHarvester.mapTaxa(
-          path.join(__dirname, 'taxonomy/species_taxonomy.csv'),
-          options.species
-        );
-      } else {
-        // Process all species
-        taxa = await this.inatHarvester.mapTaxa(
-          path.join(__dirname, 'taxonomy/species_taxonomy.csv')
-        );
-      }
+      const taxa = await this.inatHarvester.mapTaxa(
+        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
+      );
       
       if (taxa.length === 0) {
         throw new Error('No taxa were mapped successfully. Cannot proceed with image harvesting.');
@@ -89,6 +77,8 @@ export class ImageSeedingPipeline {
       console.log(`✅ Successfully mapped ${taxa.length} species to iNaturalist taxa`);
       
       // Step 2: Harvest images from all sources
+      console.log(`🔍 Debug: taxa array has ${taxa.length} items`);
+      console.log(`🔍 Debug: first taxon: ${JSON.stringify(taxa[0])}`);
       const allCandidates = await this.harvestFromAllSources(taxa);
       
       // Step 3: Process and select images
@@ -125,16 +115,16 @@ export class ImageSeedingPipeline {
     }
   }
 
-  private async harvestFromAllSources(): Promise<MediaCandidate[]> {
+  private async harvestFromAllSources(taxa: INatTaxon[]): Promise<MediaCandidate[]> {
     console.log('\n📥 Harvesting images from all sources...');
+    console.log(`🔍 Debug: harvestFromAllSources received ${taxa.length} taxa`);
+    console.log(`🔍 Debug: first taxon in harvest: ${JSON.stringify(taxa[0])}`);
     
     const allCandidates: MediaCandidate[] = [];
     
     // Harvest from iNaturalist
     try {
-      const inatCandidates = await this.inatHarvester.harvestImages(
-        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
-      );
+      const inatCandidates = await this.inatHarvester.harvestImages(taxa);
       allCandidates.push(...inatCandidates);
       console.log(`✅ iNaturalist: ${inatCandidates.length} images`);
     } catch (error) {
@@ -144,9 +134,7 @@ export class ImageSeedingPipeline {
     
     // Harvest from Wikimedia Commons
     try {
-      const commonsCandidates = await this.commonsHarvester.harvestImages(
-        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
-      );
+      const commonsCandidates = await this.commonsHarvester.harvestImages(taxa);
       allCandidates.push(...commonsCandidates);
       console.log(`✅ Wikimedia Commons: ${commonsCandidates.length} images`);
     } catch (error) {
@@ -156,9 +144,7 @@ export class ImageSeedingPipeline {
     
     // Harvest from GBIF
     try {
-      const gbifCandidates = await this.gbifHarvester.harvestImages(
-        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
-      );
+      const gbifCandidates = await this.gbifHarvester.harvestImages(taxa);
       allCandidates.push(...gbifCandidates);
       console.log(`✅ GBIF: ${gbifCandidates.length} images`);
     } catch (error) {

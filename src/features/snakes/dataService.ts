@@ -1,4 +1,3 @@
-import { Asset } from 'expo-asset';
 import { computeBoundingBox, haversineMiles, isWithinBoundingBox } from './distance';
 
 export type Occurrence = { lat: number; lon: number };

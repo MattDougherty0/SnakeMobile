@@ -12,7 +12,7 @@ type Props = {
 export const SpeciesCard: React.FC<Props> = ({
   scientificName,
   commonName,
-  image,
+  image: _image,
   safetyBlurb,
   nearestMiles,
 }) => {
@@ -22,14 +22,7 @@ export const SpeciesCard: React.FC<Props> = ({
   return (
     <View style={styles.card} accessible accessibilityLabel={accessibilityLabel}>
       <View style={styles.thumbWrap}>
-        {image ? (
-          <Image
-            source={{ uri: Image.resolveAssetSource(require('../../assets/images/placeholder.png')).uri }}
-            style={styles.thumb}
-          />
-        ) : (
-          <View style={[styles.thumb, styles.thumbPlaceholder]} />
-        )}
+        <Image source={require('../../assets/icon.png')} style={styles.thumb} />
       </View>
       <View style={styles.textWrap}>
         <Text style={styles.title} numberOfLines={1}>

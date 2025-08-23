@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943885292,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "150258558": {
+          "pageid": 150258558,
+          "ns": 6,
+          "title": "File:No evidence of male-biased sexual selection in a snake with conventional Darwinian sex roles.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 695755,
+              "width": 1085,
+              "height": 1575,
+              "pagecount": 10,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/No_evidence_of_male-biased_sexual_selection_in_a_snake_with_conventional_Darwinian_sex_roles.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:No_evidence_of_male-biased_sexual_selection_in_a_snake_with_conventional_Darwinian_sex_roles.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150258558"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

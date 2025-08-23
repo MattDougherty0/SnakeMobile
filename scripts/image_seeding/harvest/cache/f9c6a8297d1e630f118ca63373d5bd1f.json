@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944398668,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91898314": {
+          "pageid": 91898314,
+          "ns": 6,
+          "title": "File:On the serpents of New York; with a notice of a species not hitherto included in the fauna of the state (IA onserpentsofnewy00bair).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2318903,
+              "width": 1208,
+              "height": 1625,
+              "pagecount": 48,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/On_the_serpents_of_New_York%3B_with_a_notice_of_a_species_not_hitherto_included_in_the_fauna_of_the_state_%28IA_onserpentsofnewy00bair%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:On_the_serpents_of_New_York;_with_a_notice_of_a_species_not_hitherto_included_in_the_fauna_of_the_state_(IA_onserpentsofnewy00bair).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91898314"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

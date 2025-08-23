@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946798779,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "94443532": {
+          "pageid": 94443532,
+          "ns": 6,
+          "title": "File:Crotalus molossus ssp. nigrescens (Viperidae) - Scales.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12987273,
+              "width": 6766,
+              "height": 5075,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Crotalus_molossus_ssp._nigrescens_%28Viperidae%29_-_Scales.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_molossus_ssp._nigrescens_(Viperidae)_-_Scales.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94443532"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

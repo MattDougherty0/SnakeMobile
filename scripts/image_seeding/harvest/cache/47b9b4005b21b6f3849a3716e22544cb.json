@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946096999,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "43382552": {
+          "pageid": 43382552,
+          "ns": 6,
+          "title": "File:Venoms; venomous animals and antivenomous serum-therapeutics (1908) (14783102535).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 863038,
+              "width": 1586,
+              "height": 2262,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%281908%29_%2814783102535%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venoms;_venomous_animals_and_antivenomous_serum-therapeutics_(1908)_(14783102535).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43382552"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

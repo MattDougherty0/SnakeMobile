@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946842811,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92041564": {
+          "pageid": 92041564,
+          "ns": 6,
+          "title": "File:Occasional papers of the Boston Society of Natural History (IA occasionalpapers08bost).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22019568,
+              "width": 885,
+              "height": 1337,
+              "pagecount": 432,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Occasional_papers_of_the_Boston_Society_of_Natural_History_%28IA_occasionalpapers08bost%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Occasional_papers_of_the_Boston_Society_of_Natural_History_(IA_occasionalpapers08bost).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92041564"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

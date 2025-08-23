@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943630163,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "73443892": {
+          "pageid": 73443892,
+          "ns": 6,
+          "title": "File:Adder . Hen snake. Vipera berus (24590609487).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 254085,
+              "width": 1920,
+              "height": 1080,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Adder_._Hen_snake._Vipera_berus_%2824590609487%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adder_._Hen_snake._Vipera_berus_(24590609487).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73443892"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

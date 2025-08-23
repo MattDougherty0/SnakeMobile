@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944660876,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "25362168": {
+          "pageid": 25362168,
+          "ns": 6,
+          "title": "File:Vipera aspis vipere aspic 17.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 66352,
+              "width": 827,
+              "height": 591,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Vipera_aspis_vipere_aspic_17.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_aspis_vipere_aspic_17.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25362168"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

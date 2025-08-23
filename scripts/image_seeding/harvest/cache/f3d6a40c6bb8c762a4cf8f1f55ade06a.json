@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944416678,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91976317": {
+          "pageid": 91976317,
+          "ns": 6,
+          "title": "File:Field and forest (IA fieldforest01poto).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7724009,
+              "width": 739,
+              "height": 1185,
+              "pagecount": 138,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Field_and_forest_%28IA_fieldforest01poto%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Field_and_forest_(IA_fieldforest01poto).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91976317"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

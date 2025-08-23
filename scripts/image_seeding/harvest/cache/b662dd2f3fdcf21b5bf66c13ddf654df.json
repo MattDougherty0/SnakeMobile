@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944460778,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "7914519": {
+          "pageid": 7914519,
+          "ns": 6,
+          "title": "File:Watersnake cottonmouth tennessee.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1454254,
+              "width": 1112,
+              "height": 944,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Watersnake_cottonmouth_tennessee.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Watersnake_cottonmouth_tennessee.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7914519"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946117166,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91700603": {
+          "pageid": 91700603,
+          "ns": 6,
+          "title": "File:Distribution, ecology, and habitat management of the reptiles and amphibians of the Hualapi-Aquarius planning area, Mohave and Yavapai Counties, Arizona (IA distributionecol00jone).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7581595,
+              "width": 1179,
+              "height": 1587,
+              "pagecount": 144,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Distribution%2C_ecology%2C_and_habitat_management_of_the_reptiles_and_amphibians_of_the_Hualapi-Aquarius_planning_area%2C_Mohave_and_Yavapai_Counties%2C_Arizona_%28IA_distributionecol00jone%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Distribution,_ecology,_and_habitat_management_of_the_reptiles_and_amphibians_of_the_Hualapi-Aquarius_planning_area,_Mohave_and_Yavapai_Counties,_Arizona_(IA_distributionecol00jone).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91700603"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

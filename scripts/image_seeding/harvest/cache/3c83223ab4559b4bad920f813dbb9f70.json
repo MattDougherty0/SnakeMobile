@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944433762,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "83670082": {
+          "pageid": 83670082,
+          "ns": 6,
+          "title": "File:Cottonmouth (Agkistrodon piscivorus) photographed in Liberty Co., Texas. W. L. Farr.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1406591,
+              "width": 1800,
+              "height": 900,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Cottonmouth_%28Agkistrodon_piscivorus%29_photographed_in_Liberty_Co.%2C_Texas._W._L._Farr.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cottonmouth_(Agkistrodon_piscivorus)_photographed_in_Liberty_Co.,_Texas._W._L._Farr.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=83670082"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

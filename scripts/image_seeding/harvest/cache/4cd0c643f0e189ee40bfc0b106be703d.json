@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947373275,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "116320424": {
+          "pageid": 116320424,
+          "ns": 6,
+          "title": "File:Eastern diamondback rattlesnake lying in grass - DPLA - 4f1bdbb9fd287c0432c9752f3d647a50.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 541687,
+              "width": 1574,
+              "height": 1064,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Eastern_diamondback_rattlesnake_lying_in_grass_-_DPLA_-_4f1bdbb9fd287c0432c9752f3d647a50.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastern_diamondback_rattlesnake_lying_in_grass_-_DPLA_-_4f1bdbb9fd287c0432c9752f3d647a50.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116320424"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

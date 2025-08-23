@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945179168,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "163852442": {
+          "pageid": 163852442,
+          "ns": 6,
+          "title": "File:Prairie rattlesnake (Crotalus viridis) (52092831337).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 20505883,
+              "width": 7642,
+              "height": 5097,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Prairie_rattlesnake_%28Crotalus_viridis%29_%2852092831337%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prairie_rattlesnake_(Crotalus_viridis)_(52092831337).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=163852442"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

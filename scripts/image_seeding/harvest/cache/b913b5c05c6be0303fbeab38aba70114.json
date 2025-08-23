@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944441770,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "20066453": {
+          "pageid": 20066453,
+          "ns": 6,
+          "title": "File:Agkistrodon piscivorus leucostoma.tiff",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6790868,
+              "width": 1632,
+              "height": 1224,
+              "pagecount": 1,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Agkistrodon_piscivorus_leucostoma.tiff",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agkistrodon_piscivorus_leucostoma.tiff",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20066453"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

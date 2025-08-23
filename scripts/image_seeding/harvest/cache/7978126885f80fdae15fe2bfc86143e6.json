@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945896758,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "150081084": {
+          "pageid": 150081084,
+          "ns": 6,
+          "title": "File:Mojave desert sidewinder (Crotalus cerastes cerastes) (cropped).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2856411,
+              "width": 3663,
+              "height": 2678,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mojave_desert_sidewinder_%28Crotalus_cerastes_cerastes%29_%28cropped%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mojave_desert_sidewinder_(Crotalus_cerastes_cerastes)_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150081084"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

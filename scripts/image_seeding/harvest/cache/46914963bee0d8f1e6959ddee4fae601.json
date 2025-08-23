@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945762613,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "120787248": {
+          "pageid": 120787248,
+          "ns": 6,
+          "title": "File:Rattlesnake springs larger.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 318431,
+              "width": 851,
+              "height": 603,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rattlesnake_springs_larger.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_springs_larger.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120787248"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

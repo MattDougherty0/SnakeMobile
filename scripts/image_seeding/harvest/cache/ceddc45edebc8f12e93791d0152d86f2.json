@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944445785,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "57044029": {
+          "pageid": 57044029,
+          "ns": 6,
+          "title": "File:WESTERN COTTONMOUTH (Agkistrodon piscivorus leucostoma) (11-2-2016) lacassine n w r, cameron parrish, la (2) (30642037544).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9511580,
+              "width": 5484,
+              "height": 1770,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/WESTERN_COTTONMOUTH_%28Agkistrodon_piscivorus_leucostoma%29_%2811-2-2016%29_lacassine_n_w_r%2C_cameron_parrish%2C_la_%282%29_%2830642037544%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:WESTERN_COTTONMOUTH_(Agkistrodon_piscivorus_leucostoma)_(11-2-2016)_lacassine_n_w_r,_cameron_parrish,_la_(2)_(30642037544).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57044029"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

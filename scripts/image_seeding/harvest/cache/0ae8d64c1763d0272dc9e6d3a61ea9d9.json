@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946323150,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24804295": {
+          "pageid": 24804295,
+          "ns": 6,
+          "title": "File:Crotalus ruber distribution.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1985173,
+              "width": 1259,
+              "height": 944,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Crotalus_ruber_distribution.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_ruber_distribution.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24804295"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

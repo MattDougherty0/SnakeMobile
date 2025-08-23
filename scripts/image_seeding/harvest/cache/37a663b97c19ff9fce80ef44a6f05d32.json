@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943640164,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24274945": {
+          "pageid": 24274945,
+          "ns": 6,
+          "title": "File:Natrix natrix and Vipera berus IMG 5117 Buorm Huggorm.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4108713,
+              "width": 3456,
+              "height": 1825,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Natrix_natrix_and_Vipera_berus_IMG_5117_Buorm_Huggorm.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Natrix_natrix_and_Vipera_berus_IMG_5117_Buorm_Huggorm.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24274945"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945183176,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "105405183": {
+          "pageid": 105405183,
+          "ns": 6,
+          "title": "File:File-Rattlesnake skin;-Jim Peaco;-July 1987 (e3121b4a-46f3-4486-97aa-958ab07e8de3).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1133814,
+              "width": 1999,
+              "height": 1371,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/File-Rattlesnake_skin%3B-Jim_Peaco%3B-July_1987_%28e3121b4a-46f3-4486-97aa-958ab07e8de3%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:File-Rattlesnake_skin;-Jim_Peaco;-July_1987_(e3121b4a-46f3-4486-97aa-958ab07e8de3).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105405183"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

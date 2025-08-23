@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946523297,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92100224": {
+          "pageid": 92100224,
+          "ns": 6,
+          "title": "File:The aquarium (IA aquarium3361895mule).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1817186,
+              "width": 822,
+              "height": 1239,
+              "pagecount": 20,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_aquarium_%28IA_aquarium3361895mule%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_aquarium_(IA_aquarium3361895mule).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92100224"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

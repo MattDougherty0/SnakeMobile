@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946321130,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9387240": {
+          "pageid": 9387240,
+          "ns": 6,
+          "title": "File:Rattlesnake threat display.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 926745,
+              "width": 1600,
+              "height": 1200,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Rattlesnake_threat_display.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_threat_display.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9387240"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

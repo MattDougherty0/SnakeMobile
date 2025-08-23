@@ -1,0 +1,76 @@
+{
+  "timestamp": 1755946764240,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "searchinfo": {
+        "totalhits": 7
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso70usfi).pdf",
+          "pageid": 93933758,
+          "size": 1179,
+          "wordcount": 33,
+          "snippet": "United States Fish and Wildlife Service: Poisonous <span class=\"searchmatch\">snakes</span> of the United States    Author U.S. Fish and Wildlife Service United States. Bureau of Biological",
+          "timestamp": "2025-01-05T21:38:08Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptile book (Ditmars, 1915) (IA reptilebookcompr1915ditm).pdf",
+          "pageid": 96020661,
+          "size": 1111,
+          "wordcount": 7,
+          "snippet": "structure and habits of the turtles, tortoises, crocodilians, lizards and <span class=\"searchmatch\">snakes</span> which inhabit the United States and northern Mexico   (  ) Author Ditmars",
+          "timestamp": "2024-12-16T23:36:07Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bi - United States. Bureau of Biological Survey (IA CAT11088674123).pdf",
+          "pageid": 93146050,
+          "size": 1205,
+          "wordcount": 39,
+          "snippet": "rattle..... <span class=\"searchmatch\">Sistrurus</span> and Crotalus.\nA single large scale on top of head between supraocular scales\n(those over eyes).............<span class=\"searchmatch\">Sistrurus</span>.\nSize small;",
+          "timestamp": "2024-08-18T17:29:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Transactions of the Texas Academy of Science (IA transaction5719021904texa).pdf",
+          "pageid": 92498030,
+          "size": 890,
+          "wordcount": 1,
+          "snippet": "(Copperhead).\n<span class=\"searchmatch\">Sistrurus</span> catenatus consors (Gulf Coast Massasauga).\n<span class=\"searchmatch\">Sistrurus</span> catenatus edwardsii (Edward’s Massasauga).\n\n<span class=\"searchmatch\">Sistrurus</span> <span class=\"searchmatch\">miliarius</span> (Ground Rattlesnake)",
+          "timestamp": "2024-04-29T16:31:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report (IA annualreport3919zool).pdf",
+          "pageid": 91909561,
+          "size": 1048,
+          "wordcount": 7,
+          "snippet": "(Ancistrodon contdrtrix), September 24th.\n5 ground rattlesnakes (<span class=\"searchmatch\">Sistrurus</span> <span class=\"searchmatch\">miliarius</span>), September 24th.\nIt is gratifying to be able to report that there",
+          "timestamp": "2023-08-26T16:28:38Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report (IA annualreport3319zool).pdf",
+          "pageid": 91909509,
+          "size": 1048,
+          "wordcount": 7,
+          "snippet": "10\n\n10th.\n\n12 Marcy&#039;s garter <span class=\"searchmatch\">snakes</span>\n\n{Eutaenia marciana),\n\nNovember\n\n19th.\n\n7 ground rattlesnakes (<span class=\"searchmatch\">Sistrurus</span> <span class=\"searchmatch\">miliarius</span>), August 5th.\n14 western diamond",
+          "timestamp": "2023-08-26T16:28:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report (IA annualreport4319zool).pdf",
+          "pageid": 91909624,
+          "size": 1048,
+          "wordcount": 7,
+          "snippet": "snakes (Ancistrodon controtrix), October\n29th.\n7 ground rattlesnakes (<span class=\"searchmatch\">Sistrurus</span> <span class=\"searchmatch\">miliarius</span>), August 30th.\n4 banded rattlesnakes (Crotalus horridus), November",
+          "timestamp": "2023-08-26T16:28:50Z"
+        }
+      ]
+    }
+  }
+}

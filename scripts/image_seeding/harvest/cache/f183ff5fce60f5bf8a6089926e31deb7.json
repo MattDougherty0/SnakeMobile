@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943897305,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95995599": {
+          "pageid": 95995599,
+          "ns": 6,
+          "title": "File:Carnegie Institution of Washington publication (IA carnegieinstitut1909111carn).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26169086,
+              "width": 943,
+              "height": 1412,
+              "pagecount": 416,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Carnegie_Institution_of_Washington_publication_%28IA_carnegieinstitut1909111carn%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carnegie_Institution_of_Washington_publication_(IA_carnegieinstitut1909111carn).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95995599"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

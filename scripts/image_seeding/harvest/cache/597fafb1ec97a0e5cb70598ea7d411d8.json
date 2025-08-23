@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945782705,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "13438098": {
+          "pageid": 13438098,
+          "ns": 6,
+          "title": "File:Sidewinder by JS Chase.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 154276,
+              "width": 530,
+              "height": 319,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sidewinder_by_JS_Chase.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_by_JS_Chase.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13438098"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

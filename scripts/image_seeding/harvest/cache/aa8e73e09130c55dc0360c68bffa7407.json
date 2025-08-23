@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946313135,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "54650620": {
+          "pageid": 54650620,
+          "ns": 6,
+          "title": "File:Rattle Snake On Road - panoramio.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1098664,
+              "width": 1636,
+              "height": 965,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Rattle_Snake_On_Road_-_panoramio.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattle_Snake_On_Road_-_panoramio.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=54650620"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946324134,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "48434408": {
+          "pageid": 48434408,
+          "ns": 6,
+          "title": "File:Crotalus ruber male cropped.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 786923,
+              "width": 884,
+              "height": 704,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Crotalus_ruber_male_cropped.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_ruber_male_cropped.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48434408"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

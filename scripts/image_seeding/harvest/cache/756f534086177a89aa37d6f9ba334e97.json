@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943890305,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92218133": {
+          "pageid": 92218133,
+          "ns": 6,
+          "title": "File:Guide to the Galleries of Reptiles and fishes (IA guidetogalleries98brit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8967882,
+              "width": 616,
+              "height": 987,
+              "pagecount": 136,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Guide_to_the_Galleries_of_Reptiles_and_fishes_%28IA_guidetogalleries98brit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Guide_to_the_Galleries_of_Reptiles_and_fishes_(IA_guidetogalleries98brit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92218133"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

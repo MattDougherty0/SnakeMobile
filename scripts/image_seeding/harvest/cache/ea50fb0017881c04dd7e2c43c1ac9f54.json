@@ -1,0 +1,35 @@
+{
+  "timestamp": 1755943886307,
+  "data": {
+    "continue": {
+      "iistart": "2021-03-01T02:24:54Z",
+      "continue": "||"
+    },
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "100600587": {
+          "pageid": 100600587,
+          "ns": 6,
+          "title": "File:Experiments Made on the Poison of the Rattlesnake; In Which the Powers of the Hieraceum Venosum, as a Specific, Were Tested; Together with Some Anatomical Observations on This Animal (IA jstor-1005141).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 609200,
+              "width": 900,
+              "height": 1325,
+              "pagecount": 15,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Experiments_Made_on_the_Poison_of_the_Rattlesnake%3B_In_Which_the_Powers_of_the_Hieraceum_Venosum%2C_as_a_Specific%2C_Were_Tested%3B_Together_with_Some_Anatomical_Observations_on_This_Animal_%28IA_jstor-1005141%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Experiments_Made_on_the_Poison_of_the_Rattlesnake;_In_Which_the_Powers_of_the_Hieraceum_Venosum,_as_a_Specific,_Were_Tested;_Together_with_Some_Anatomical_Observations_on_This_Animal_(IA_jstor-1005141).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=100600587"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

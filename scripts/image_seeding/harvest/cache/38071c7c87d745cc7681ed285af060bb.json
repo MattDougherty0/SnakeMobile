@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943898309,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95544842": {
+          "pageid": 95544842,
+          "ns": 6,
+          "title": "File:An introduction to zoology (IA introductiontozo02gossrich).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 43590820,
+              "width": 658,
+              "height": 1104,
+              "pagecount": 448,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/An_introduction_to_zoology_%28IA_introductiontozo02gossrich%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_introduction_to_zoology_(IA_introductiontozo02gossrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95544842"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

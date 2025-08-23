@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946340155,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "20435938": {
+          "pageid": 20435938,
+          "ns": 6,
+          "title": "File:Red Diamondback Rattlesnake.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1292426,
+              "width": 3590,
+              "height": 2610,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Red_Diamondback_Rattlesnake.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Red_Diamondback_Rattlesnake.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=20435938"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

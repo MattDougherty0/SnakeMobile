@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945891752,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "154252853": {
+          "pageid": 154252853,
+          "ns": 6,
+          "title": "File:Crotalus cerastes Stanton 1.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10707466,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Crotalus_cerastes_Stanton_1.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_Stanton_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=154252853"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

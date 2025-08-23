@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945670563,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92065439": {
+          "pageid": 92065439,
+          "ns": 6,
+          "title": "File:The thanatophidia of India - being a description of the venomous snakes of the Indian Peninsula, with an account of the influence of their poison on life and a series of experiments (IA thanatophidiain00fayr).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 42379390,
+              "width": 2160,
+              "height": 2831,
+              "pagecount": 258,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/The_thanatophidia_of_India_-_being_a_description_of_the_venomous_snakes_of_the_Indian_Peninsula%2C_with_an_account_of_the_influence_of_their_poison_on_life_and_a_series_of_experiments_%28IA_thanatophidiain00fayr%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_thanatophidia_of_India_-_being_a_description_of_the_venomous_snakes_of_the_Indian_Peninsula,_with_an_account_of_the_influence_of_their_poison_on_life_and_a_series_of_experiments_(IA_thanatophidiain00fayr).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92065439"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

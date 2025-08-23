@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945817712,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "142931773": {
+          "pageid": 142931773,
+          "ns": 6,
+          "title": "File:Holiday Sidewinder performing in 2018.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1232908,
+              "width": 708,
+              "height": 1144,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Holiday_Sidewinder_performing_in_2018.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Holiday_Sidewinder_performing_in_2018.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=142931773"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

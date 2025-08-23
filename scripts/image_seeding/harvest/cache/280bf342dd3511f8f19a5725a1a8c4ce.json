@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945404317,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91554519": {
+          "pageid": 91554519,
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA naturalhistoryc2cate).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 60199962,
+              "width": 2022,
+              "height": 2870,
+              "pagecount": 378,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Books_from_the_Biodiversity_Heritage_Library_%28IA_naturalhistoryc2cate%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Books_from_the_Biodiversity_Heritage_Library_(IA_naturalhistoryc2cate).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91554519"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

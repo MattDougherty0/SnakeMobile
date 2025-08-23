@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945682573,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "121213214": {
+          "pageid": 121213214,
+          "ns": 6,
+          "title": "File:Fayrer - The Thanatophidia of India, 1872.djvu",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 28888341,
+              "width": 6030,
+              "height": 8692,
+              "pagecount": 203,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Fayrer_-_The_Thanatophidia_of_India%2C_1872.djvu",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fayrer_-_The_Thanatophidia_of_India,_1872.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=121213214"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

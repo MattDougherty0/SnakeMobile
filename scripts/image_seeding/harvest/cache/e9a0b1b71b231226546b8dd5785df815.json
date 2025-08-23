@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946833803,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91589426": {
+          "pageid": 91589426,
+          "ns": 6,
+          "title": "File:Food habits of coyotes in a semidesert grass-shrub habitat (IA IND79040064).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 415341,
+              "width": 1433,
+              "height": 1989,
+              "pagecount": 6,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Food_habits_of_coyotes_in_a_semidesert_grass-shrub_habitat_%28IA_IND79040064%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Food_habits_of_coyotes_in_a_semidesert_grass-shrub_habitat_(IA_IND79040064).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91589426"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

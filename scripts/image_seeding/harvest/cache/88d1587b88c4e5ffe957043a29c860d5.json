@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944474798,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "116298476": {
+          "pageid": 116298476,
+          "ns": 6,
+          "title": "File:Water moccasin coiled among branches - DPLA - b3cc535e81b9487f71e05cd37996a1b1.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 540813,
+              "width": 1578,
+              "height": 1054,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Water_moccasin_coiled_among_branches_-_DPLA_-_b3cc535e81b9487f71e05cd37996a1b1.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Water_moccasin_coiled_among_branches_-_DPLA_-_b3cc535e81b9487f71e05cd37996a1b1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116298476"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

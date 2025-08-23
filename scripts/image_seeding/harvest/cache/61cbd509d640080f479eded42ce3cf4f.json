@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943650178,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "33502846": {
+          "pageid": 33502846,
+          "ns": 6,
+          "title": "File:Kreuzotter Vipera berus weibl Dornacher Ried Bad-Wuertt 2011.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4589870,
+              "width": 2674,
+              "height": 1825,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Kreuzotter_Vipera_berus_weibl_Dornacher_Ried_Bad-Wuertt_2011.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kreuzotter_Vipera_berus_weibl_Dornacher_Ried_Bad-Wuertt_2011.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33502846"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

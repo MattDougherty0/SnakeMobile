@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944126449,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "98008150": {
+          "pageid": 98008150,
+          "ns": 6,
+          "title": "File:Western field (IA westernfield101907olym).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25985429,
+              "width": 606,
+              "height": 922,
+              "pagecount": 488,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Western_field_%28IA_westernfield101907olym%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Western_field_(IA_westernfield101907olym).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98008150"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

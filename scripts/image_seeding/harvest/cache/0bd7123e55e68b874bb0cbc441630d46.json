@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944694881,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "99186669": {
+          "pageid": 99186669,
+          "ns": 6,
+          "title": "File:Report of Curator, Zoological Department (IA biostor-240884).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4230877,
+              "width": 700,
+              "height": 1202,
+              "pagecount": 10,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Report_of_Curator%2C_Zoological_Department_%28IA_biostor-240884%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Report_of_Curator,_Zoological_Department_(IA_biostor-240884).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99186669"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

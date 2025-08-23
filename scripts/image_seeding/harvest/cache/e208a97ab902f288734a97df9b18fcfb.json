@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945151082,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91643313": {
+          "pageid": 91643313,
+          "ns": 6,
+          "title": "File:Proposed development of coal resources, west-central Colorado - draft environmental statement, v. 3 appndxes (IA proposeddevelopm7756bure).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 24518279,
+              "width": 1162,
+              "height": 1541,
+              "pagecount": 134,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Proposed_development_of_coal_resources%2C_west-central_Colorado_-_draft_environmental_statement%2C_v._3_appndxes_%28IA_proposeddevelopm7756bure%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proposed_development_of_coal_resources,_west-central_Colorado_-_draft_environmental_statement,_v._3_appndxes_(IA_proposeddevelopm7756bure).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91643313"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

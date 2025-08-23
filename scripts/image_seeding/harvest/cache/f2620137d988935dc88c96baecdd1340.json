@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946106016,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92069099": {
+          "pageid": 92069099,
+          "ns": 6,
+          "title": "File:Reptile & amphibian list - BLM Nevada, Las Vegas District (IA reptileamphibian23unit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2913701,
+              "width": 581,
+              "height": 1366,
+              "pagecount": 12,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Reptile_%26_amphibian_list_-_BLM_Nevada%2C_Las_Vegas_District_%28IA_reptileamphibian23unit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptile_%26_amphibian_list_-_BLM_Nevada,_Las_Vegas_District_(IA_reptileamphibian23unit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92069099"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

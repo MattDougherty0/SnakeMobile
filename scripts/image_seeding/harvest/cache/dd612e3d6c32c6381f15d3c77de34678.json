@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944926972,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "43421048": {
+          "pageid": 43421048,
+          "ns": 6,
+          "title": "File:Reptiles and birds - a popular account of the various orders; with a description of the habits and economy of the most interesting (1869) (14562073380).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 368987,
+              "width": 1492,
+              "height": 1120,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Reptiles_and_birds_-_a_popular_account_of_the_various_orders%3B_with_a_description_of_the_habits_and_economy_of_the_most_interesting_%281869%29_%2814562073380%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptiles_and_birds_-_a_popular_account_of_the_various_orders;_with_a_description_of_the_habits_and_economy_of_the_most_interesting_(1869)_(14562073380).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43421048"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

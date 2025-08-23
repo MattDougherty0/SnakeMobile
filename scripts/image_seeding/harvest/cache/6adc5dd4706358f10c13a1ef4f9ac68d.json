@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946104002,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91947936": {
+          "pageid": 91947936,
+          "ns": 6,
+          "title": "File:Bulletin of the Essex Institute (IA bulletinofess161884unse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11168311,
+              "width": 908,
+              "height": 1420,
+              "pagecount": 182,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bulletin_of_the_Essex_Institute_%28IA_bulletinofess161884unse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_of_the_Essex_Institute_(IA_bulletinofess161884unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91947936"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

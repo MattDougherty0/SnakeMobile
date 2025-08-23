@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943934394,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "25199065": {
+          "pageid": 25199065,
+          "ns": 6,
+          "title": "File:Western Diamondback Rattlesnake (Cortalus atrox) (1750367431).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5286674,
+              "width": 3008,
+              "height": 2000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Western_Diamondback_Rattlesnake_%28Cortalus_atrox%29_%281750367431%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Western_Diamondback_Rattlesnake_(Cortalus_atrox)_(1750367431).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25199065"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

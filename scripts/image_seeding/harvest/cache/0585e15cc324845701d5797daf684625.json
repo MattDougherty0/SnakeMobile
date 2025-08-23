@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946346165,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "42159591": {
+          "pageid": 42159591,
+          "ns": 6,
+          "title": "File:Crotalus ruber in Burgers' Zoo (Desert).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2608054,
+              "width": 2816,
+              "height": 2112,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Crotalus_ruber_in_Burgers%27_Zoo_%28Desert%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_ruber_in_Burgers%27_Zoo_(Desert).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42159591"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

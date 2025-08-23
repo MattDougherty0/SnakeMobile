@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943662188,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "90760920": {
+          "pageid": 90760920,
+          "ns": 6,
+          "title": "File:Détails-mue de vipère péliade.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 387194,
+              "width": 781,
+              "height": 533,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/D%C3%A9tails-mue_de_vip%C3%A8re_p%C3%A9liade.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%A9tails-mue_de_vip%C3%A8re_p%C3%A9liade.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90760920"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

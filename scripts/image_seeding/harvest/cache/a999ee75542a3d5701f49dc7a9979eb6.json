@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943862289,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "105171533": {
+          "pageid": 105171533,
+          "ns": 6,
+          "title": "File:Viperidae Vipera berus 1.1.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1523285,
+              "width": 2450,
+              "height": 1630,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Viperidae_Vipera_berus_1.1.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Viperidae_Vipera_berus_1.1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105171533"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

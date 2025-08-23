@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943754277,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "89662658": {
+          "pageid": 89662658,
+          "ns": 6,
+          "title": "File:Vipera berus-Zmije obecná.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1847330,
+              "width": 3832,
+              "height": 2418,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Vipera_berus-Zmije_obecn%C3%A1.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus-Zmije_obecn%C3%A1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89662658"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943762239,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "106007154": {
+          "pageid": 106007154,
+          "ns": 6,
+          "title": "File:Vipera berus Münsterland.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2785280,
+              "width": 3872,
+              "height": 2592,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vipera_berus_M%C3%BCnsterland.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_M%C3%BCnsterland.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106007154"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

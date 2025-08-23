@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945150073,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91604783": {
+          "pageid": 91604783,
+          "ns": 6,
+          "title": "File:Proposed Big Butte timber sale, California - draft environmental statement (IA proposedbigbutte09unit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13844423,
+              "width": 608,
+              "height": 795,
+              "pagecount": 107,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Proposed_Big_Butte_timber_sale%2C_California_-_draft_environmental_statement_%28IA_proposedbigbutte09unit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proposed_Big_Butte_timber_sale,_California_-_draft_environmental_statement_(IA_proposedbigbutte09unit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91604783"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

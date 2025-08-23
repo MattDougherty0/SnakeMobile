@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943906317,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92218148": {
+          "pageid": 92218148,
+          "ns": 6,
+          "title": "File:Guide to the Gallery of Reptilia (IA guidetogalleryof85brit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2225827,
+              "width": 606,
+              "height": 997,
+              "pagecount": 48,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Guide_to_the_Gallery_of_Reptilia_%28IA_guidetogalleryof85brit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Guide_to_the_Gallery_of_Reptilia_(IA_guidetogalleryof85brit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92218148"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

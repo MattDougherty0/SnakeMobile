@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945500480,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "36067219": {
+          "pageid": 36067219,
+          "ns": 6,
+          "title": "File:Rattle-snake with section of rattle and tooth, 1731 Wellcome L0035356.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6113304,
+              "width": 5068,
+              "height": 3800,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Rattle-snake_with_section_of_rattle_and_tooth%2C_1731_Wellcome_L0035356.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattle-snake_with_section_of_rattle_and_tooth,_1731_Wellcome_L0035356.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36067219"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

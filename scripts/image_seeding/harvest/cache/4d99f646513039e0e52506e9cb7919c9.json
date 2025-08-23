@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944915964,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "66209692": {
+          "pageid": 66209692,
+          "ns": 6,
+          "title": "File:577 of 'Amerika- eine allgemeine Landeskunde. In Gemeinschaft mit Dr. E. Deckert und Prof. Dr. W. Kükenthal herausgegeben von Prof. Dr. W. Sievers. Mit 201 Abbildungen, etc' (11227236623).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 802694,
+              "width": 1805,
+              "height": 1366,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/577_of_%27Amerika-_eine_allgemeine_Landeskunde._In_Gemeinschaft_mit_Dr._E._Deckert_und_Prof._Dr._W._K%C3%BCkenthal_herausgegeben_von_Prof._Dr._W._Sievers._Mit_201_Abbildungen%2C_etc%27_%2811227236623%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:577_of_%27Amerika-_eine_allgemeine_Landeskunde._In_Gemeinschaft_mit_Dr._E._Deckert_und_Prof._Dr._W._K%C3%BCkenthal_herausgegeben_von_Prof._Dr._W._Sievers._Mit_201_Abbildungen,_etc%27_(11227236623).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66209692"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

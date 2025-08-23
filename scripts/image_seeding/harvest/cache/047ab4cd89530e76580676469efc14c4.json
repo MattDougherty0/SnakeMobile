@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943771242,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "106511729": {
+          "pageid": 106511729,
+          "ns": 6,
+          "title": "File:Vipera berus TK 2021-06-12 1.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6207884,
+              "width": 4272,
+              "height": 2848,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vipera_berus_TK_2021-06-12_1.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_TK_2021-06-12_1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106511729"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

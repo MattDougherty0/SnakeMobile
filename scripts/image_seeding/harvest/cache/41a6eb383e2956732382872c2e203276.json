@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943659161,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "123886": {
+          "pageid": 123886,
+          "ns": 6,
+          "title": "File:Vipera berus (Marek Szczepanek).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 99962,
+              "width": 650,
+              "height": 435,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Vipera_berus_%28Marek_Szczepanek%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_(Marek_Szczepanek).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=123886"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

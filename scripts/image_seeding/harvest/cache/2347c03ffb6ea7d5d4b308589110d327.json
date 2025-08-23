@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946343151,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "63161138": {
+          "pageid": 63161138,
+          "ns": 6,
+          "title": "File:Crotalus adamanteus 15zz.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 411677,
+              "width": 1000,
+              "height": 2245,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Crotalus_adamanteus_15zz.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_adamanteus_15zz.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63161138"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

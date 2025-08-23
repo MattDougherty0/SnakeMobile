@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943653166,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "1719515": {
+          "pageid": 1719515,
+          "ns": 6,
+          "title": "File:ViperaBerusFang.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1390655,
+              "width": 2272,
+              "height": 1704,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/ViperaBerusFang.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:ViperaBerusFang.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1719515"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

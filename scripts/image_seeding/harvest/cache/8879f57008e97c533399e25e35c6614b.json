@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945459386,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152954139": {
+          "pageid": 152954139,
+          "ns": 6,
+          "title": "File:The herpetology of Jackson and Josephine Counties, Oregon - USACE-p16021coll3-303.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2965990,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 82,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_herpetology_of_Jackson_and_Josephine_Counties%2C_Oregon_-_USACE-p16021coll3-303.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_herpetology_of_Jackson_and_Josephine_Counties,_Oregon_-_USACE-p16021coll3-303.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152954139"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

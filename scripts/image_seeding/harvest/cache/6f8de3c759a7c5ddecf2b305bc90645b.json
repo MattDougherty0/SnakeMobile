@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944917965,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "1102410": {
+          "pageid": 1102410,
+          "ns": 6,
+          "title": "File:Rattlesnake (Marshal Hedin).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 162536,
+              "width": 640,
+              "height": 480,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Rattlesnake_%28Marshal_Hedin%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_(Marshal_Hedin).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1102410"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943910388,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24527230": {
+          "pageid": 24527230,
+          "ns": 6,
+          "title": "File:Crotalus atrox diamantklapperschlange kopf.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4382365,
+              "width": 3000,
+              "height": 2000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Crotalus_atrox_diamantklapperschlange_kopf.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_atrox_diamantklapperschlange_kopf.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24527230"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

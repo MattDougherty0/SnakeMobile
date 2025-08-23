@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947192171,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "18081542": {
+          "pageid": 18081542,
+          "ns": 6,
+          "title": "File:Crotalus adamanteus (Indian River County).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 313982,
+              "width": 800,
+              "height": 600,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Crotalus_adamanteus_%28Indian_River_County%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_adamanteus_(Indian_River_County).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18081542"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

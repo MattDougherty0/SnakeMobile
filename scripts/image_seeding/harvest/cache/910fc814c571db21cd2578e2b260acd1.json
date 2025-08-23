@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944427691,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92434324": {
+          "pageid": 92434324,
+          "ns": 6,
+          "title": "File:Proceedings of the Indiana Academy of Science (IA proceedingsofind1891indi).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10328844,
+              "width": 825,
+              "height": 1306,
+              "pagecount": 200,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Proceedings_of_the_Indiana_Academy_of_Science_%28IA_proceedingsofind1891indi%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proceedings_of_the_Indiana_Academy_of_Science_(IA_proceedingsofind1891indi).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92434324"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

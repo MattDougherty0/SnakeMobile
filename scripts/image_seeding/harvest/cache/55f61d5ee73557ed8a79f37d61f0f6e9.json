@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945188181,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "125342190": {
+          "pageid": 125342190,
+          "ns": 6,
+          "title": "File:Summer weather attracts snakes on base (5531964).jpeg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 141566,
+              "width": 910,
+              "height": 607,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Summer_weather_attracts_snakes_on_base_%285531964%29.jpeg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Summer_weather_attracts_snakes_on_base_(5531964).jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125342190"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

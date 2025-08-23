@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945507487,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "69208833": {
+          "pageid": 69208833,
+          "ns": 6,
+          "title": "File:Timber Rattlesnake (16902705348).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 266003,
+              "width": 1920,
+              "height": 1080,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Timber_Rattlesnake_%2816902705348%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Timber_Rattlesnake_(16902705348).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69208833"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

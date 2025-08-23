@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945789704,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24297581": {
+          "pageid": 24297581,
+          "ns": 6,
+          "title": "File:Organ Pipe Cactus National Monument ORPI4898.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4228607,
+              "width": 3072,
+              "height": 2048,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Organ_Pipe_Cactus_National_Monument_ORPI4898.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Organ_Pipe_Cactus_National_Monument_ORPI4898.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24297581"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

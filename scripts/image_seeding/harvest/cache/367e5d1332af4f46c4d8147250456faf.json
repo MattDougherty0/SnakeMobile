@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944421676,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153202661": {
+          "pageid": 153202661,
+          "ns": 6,
+          "title": "File:Final environmental impact statement- Peacock Creek, Liberty County, Georgia - USACE-p16021coll7-10797.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2940555,
+              "width": 1218,
+              "height": 1604,
+              "pagecount": 68,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Final_environmental_impact_statement-_Peacock_Creek%2C_Liberty_County%2C_Georgia_-_USACE-p16021coll7-10797.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Final_environmental_impact_statement-_Peacock_Creek,_Liberty_County,_Georgia_-_USACE-p16021coll7-10797.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153202661"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947069044,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "19433644": {
+          "pageid": 19433644,
+          "ns": 6,
+          "title": "File:Bothrops asper - Tortuguero1.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 485984,
+              "width": 1456,
+              "height": 959,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bothrops_asper_-_Tortuguero1.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bothrops_asper_-_Tortuguero1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19433644"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943765227,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "71177150": {
+          "pageid": 71177150,
+          "ns": 6,
+          "title": "File:Vipera berus in Montenegro.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3966801,
+              "width": 4128,
+              "height": 3096,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vipera_berus_in_Montenegro.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_in_Montenegro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71177150"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

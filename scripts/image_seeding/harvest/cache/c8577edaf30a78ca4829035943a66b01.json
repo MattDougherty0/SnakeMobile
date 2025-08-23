@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944938976,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152954147": {
+          "pageid": 152954147,
+          "ns": 6,
+          "title": "File:The herpetology of the oak habitat of southwestern Klamath County, Oregon - USACE-p16021coll3-325.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3228885,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 52,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/The_herpetology_of_the_oak_habitat_of_southwestern_Klamath_County%2C_Oregon_-_USACE-p16021coll3-325.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_herpetology_of_the_oak_habitat_of_southwestern_Klamath_County,_Oregon_-_USACE-p16021coll3-325.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152954147"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

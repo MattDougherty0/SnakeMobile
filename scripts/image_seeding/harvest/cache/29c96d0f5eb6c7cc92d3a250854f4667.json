@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946017917,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92470224": {
+          "pageid": 92470224,
+          "ns": 6,
+          "title": "File:The royal natural history (IA royalnaturalhist59lyde).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 43143865,
+              "width": 979,
+              "height": 1462,
+              "pagecount": 320,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_royal_natural_history_%28IA_royalnaturalhist59lyde%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_royal_natural_history_(IA_royalnaturalhist59lyde).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92470224"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

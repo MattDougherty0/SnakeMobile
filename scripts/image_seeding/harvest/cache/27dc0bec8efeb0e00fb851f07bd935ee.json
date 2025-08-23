@@ -1,0 +1,34 @@
+{
+  "timestamp": 1755944925972,
+  "data": {
+    "continue": {
+      "iistart": "2008-04-11T09:25:44Z",
+      "continue": "||"
+    },
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3862738": {
+          "pageid": 3862738,
+          "ns": 6,
+          "title": "File:Pediocactus nigrispinus fh 10 OR B.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 176856,
+              "width": 393,
+              "height": 548,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pediocactus_nigrispinus_fh_10_OR_B.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pediocactus_nigrispinus_fh_10_OR_B.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3862738"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

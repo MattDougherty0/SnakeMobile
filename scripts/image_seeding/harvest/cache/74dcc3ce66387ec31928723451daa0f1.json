@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945187183,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "42085541": {
+          "pageid": 42085541,
+          "ns": 6,
+          "title": "File:My Public Lands Roadtrip- Wildlife in Wyoming (19904942602).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1174015,
+              "width": 2816,
+              "height": 2112,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/My_Public_Lands_Roadtrip-_Wildlife_in_Wyoming_%2819904942602%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Wildlife_in_Wyoming_(19904942602).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42085541"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

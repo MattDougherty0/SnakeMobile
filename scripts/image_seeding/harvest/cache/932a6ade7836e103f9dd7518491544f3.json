@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947075038,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "73513715": {
+          "pageid": 73513715,
+          "ns": 6,
+          "title": "File:Fer de lance (Borthrops asper).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 840654,
+              "width": 5908,
+              "height": 3700,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Fer_de_lance_%28Borthrops_asper%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fer_de_lance_(Borthrops_asper).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=73513715"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

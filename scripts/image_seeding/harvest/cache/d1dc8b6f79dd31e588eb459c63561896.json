@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946337144,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92064188": {
+          "pageid": 92064188,
+          "ns": 6,
+          "title": "File:The snakes of Australia - an illustrated and descriptive catalogue of all known species (IA snakesaustralia00kref).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10210031,
+              "width": 1229,
+              "height": 1593,
+              "pagecount": 158,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/The_snakes_of_Australia_-_an_illustrated_and_descriptive_catalogue_of_all_known_species_%28IA_snakesaustralia00kref%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_snakes_of_Australia_-_an_illustrated_and_descriptive_catalogue_of_all_known_species_(IA_snakesaustralia00kref).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92064188"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946529292,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93262045": {
+          "pageid": 93262045,
+          "ns": 6,
+          "title": "File:The imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet... (Vol. 35, Smuggling - Stricture) (IA imperialencyclop35unse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 52042717,
+              "width": 931,
+              "height": 1766,
+              "pagecount": 712,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_imperial_encyclopedia_and_dictionary%3Ba_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet..._%28Vol._35%2C_Smuggling_-_Stricture%29_%28IA_imperialencyclop35unse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_imperial_encyclopedia_and_dictionary;a_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet..._(Vol._35,_Smuggling_-_Stricture)_(IA_imperialencyclop35unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93262045"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

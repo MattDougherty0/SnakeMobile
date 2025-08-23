@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946801787,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "94443530": {
+          "pageid": 94443530,
+          "ns": 6,
+          "title": "File:Crotalus molossus ssp. nigrescens (Viperidae) - Chopped off rattle.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13243491,
+              "width": 5308,
+              "height": 5308,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Crotalus_molossus_ssp._nigrescens_%28Viperidae%29_-_Chopped_off_rattle.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_molossus_ssp._nigrescens_(Viperidae)_-_Chopped_off_rattle.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94443530"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944680877,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91530922": {
+          "pageid": 91530922,
+          "ns": 6,
+          "title": "File:Essai sur l'histoire naturelle des serpens de la Suisse (IA essaisurlhistoir00wyde).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9770700,
+              "width": 739,
+              "height": 1245,
+              "pagecount": 120,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Essai_sur_l%27histoire_naturelle_des_serpens_de_la_Suisse_%28IA_essaisurlhistoir00wyde%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Essai_sur_l%27histoire_naturelle_des_serpens_de_la_Suisse_(IA_essaisurlhistoir00wyde).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91530922"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

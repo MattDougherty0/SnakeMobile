@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945477466,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "144604702": {
+          "pageid": 144604702,
+          "ns": 6,
+          "title": "File:Timber Rattlesnake (Crotalus horridus) snake, Cornwall NY (31324457874).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1823666,
+              "width": 3648,
+              "height": 2432,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Timber_Rattlesnake_%28Crotalus_horridus%29_snake%2C_Cornwall_NY_%2831324457874%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Timber_Rattlesnake_(Crotalus_horridus)_snake,_Cornwall_NY_(31324457874).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=144604702"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

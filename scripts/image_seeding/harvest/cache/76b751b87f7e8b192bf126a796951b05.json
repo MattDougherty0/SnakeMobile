@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945152083,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153216475": {
+          "pageid": 153216475,
+          "ns": 6,
+          "title": "File:Section 2- Project setting and factors influencing management and development - USACE-p16021coll7-7336.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 97581336,
+              "width": 1650,
+              "height": 1275,
+              "pagecount": 41,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Section_2-_Project_setting_and_factors_influencing_management_and_development_-_USACE-p16021coll7-7336.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Section_2-_Project_setting_and_factors_influencing_management_and_development_-_USACE-p16021coll7-7336.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153216475"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

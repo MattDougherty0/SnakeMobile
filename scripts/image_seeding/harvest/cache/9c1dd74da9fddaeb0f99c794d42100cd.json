@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943959398,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "2380272": {
+          "pageid": 2380272,
+          "ns": 6,
+          "title": "File:Western Diamondback Rattlesnake.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3313640,
+              "width": 3008,
+              "height": 2000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Western_Diamondback_Rattlesnake.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Western_Diamondback_Rattlesnake.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2380272"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

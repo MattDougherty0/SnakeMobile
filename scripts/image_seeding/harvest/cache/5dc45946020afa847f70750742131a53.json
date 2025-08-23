@@ -1,0 +1,58 @@
+{
+  "timestamp": 1755944635345,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "searchinfo": {
+        "totalhits": 5
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Water moccasin coiled among branches - DPLA - b3cc535e81b9487f71e05cd37996a1b1.jpg",
+          "pageid": 116298476,
+          "size": 1992,
+          "wordcount": 795,
+          "snippet": "English determination method or standard: determined by GLAM institution <span class=\"searchmatch\">and</span> stated at its website author name string: Garst, Warren, 1922-2016, photographer",
+          "timestamp": "2024-04-27T00:12:38Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso70usfi).pdf",
+          "pageid": 93933758,
+          "size": 1179,
+          "wordcount": 33,
+          "snippet": "Mark 1.0falsefalse English applies to jurisdiction: United States determination method or standard: work of <span class=\"searchmatch\">the</span> federal government of <span class=\"searchmatch\">the</span> United States",
+          "timestamp": "2025-01-05T21:38:08Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso233usfi).pdf",
+          "pageid": 93933756,
+          "size": 1275,
+          "wordcount": 21,
+          "snippet": "States Fish <span class=\"searchmatch\">and</span> Wildlife Service: Poisonous <span class=\"searchmatch\">snakes</span> of <span class=\"searchmatch\">the</span> United States    Author U.S. Fish <span class=\"searchmatch\">and</span> Wildlife Service Title Poisonous <span class=\"searchmatch\">snakes</span> of <span class=\"searchmatch\">the</span> United States",
+          "timestamp": "2025-01-30T20:43:46Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The venomous reptiles of the United States, with the treatment of wounds inflicted by them (IA 101161760.nlm.nih.gov).pdf",
+          "pageid": 92709150,
+          "size": 1090,
+          "wordcount": 21,
+          "snippet": "bibliographical references Condition reviewed digitized Subjects: <span class=\"searchmatch\">Snakes</span>; <span class=\"searchmatch\">Snake</span> Bites; <span class=\"searchmatch\">Snake</span> <span class=\"searchmatch\">Venoms</span> Language English Publication date 1891 publication_date QS:P577",
+          "timestamp": "2024-12-15T16:14:54Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bi - United States. Bureau of Biological Survey (IA CAT11088674123).pdf",
+          "pageid": 93146050,
+          "size": 1205,
+          "wordcount": 39,
+          "snippet": "jurisdiction: United States determination method or standard: work of <span class=\"searchmatch\">the</span> federal government of <span class=\"searchmatch\">the</span> United States determination method or standard: SHA-1",
+          "timestamp": "2024-08-18T17:29:53Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944695879,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95913076": {
+          "pageid": 95913076,
+          "ns": 6,
+          "title": "File:\"On a sunshine holyday\" (IA onsunshineholyda00marsiala).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5843012,
+              "width": 547,
+              "height": 895,
+              "pagecount": 198,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%22On_a_sunshine_holyday%22_%28IA_onsunshineholyda00marsiala%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22On_a_sunshine_holyday%22_(IA_onsunshineholyda00marsiala).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95913076"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

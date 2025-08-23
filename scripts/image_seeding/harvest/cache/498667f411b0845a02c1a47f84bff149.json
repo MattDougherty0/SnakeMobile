@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944124442,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91652353": {
+          "pageid": 91652353,
+          "ns": 6,
+          "title": "File:United States Navy Medical News Letter Vol. 33 No. 9, 1 May 1959 (IA NavyMedicalNewsletter19590501).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11530246,
+              "width": 1150,
+              "height": 1645,
+              "pagecount": 40,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/United_States_Navy_Medical_News_Letter_Vol._33_No._9%2C_1_May_1959_%28IA_NavyMedicalNewsletter19590501%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:United_States_Navy_Medical_News_Letter_Vol._33_No._9,_1_May_1959_(IA_NavyMedicalNewsletter19590501).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91652353"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946007818,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93344925": {
+          "pageid": 93344925,
+          "ns": 6,
+          "title": "File:Descriptive catalogue of the specimens of natural history in spirit contained in the museum. Vertebrata- Pisces, Reptilia, Aves, Mammalia (IA b24758152).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10362177,
+              "width": 1206,
+              "height": 1637,
+              "pagecount": 180,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Descriptive_catalogue_of_the_specimens_of_natural_history_in_spirit_contained_in_the_museum._Vertebrata-_Pisces%2C_Reptilia%2C_Aves%2C_Mammalia_%28IA_b24758152%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Descriptive_catalogue_of_the_specimens_of_natural_history_in_spirit_contained_in_the_museum._Vertebrata-_Pisces,_Reptilia,_Aves,_Mammalia_(IA_b24758152).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93344925"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

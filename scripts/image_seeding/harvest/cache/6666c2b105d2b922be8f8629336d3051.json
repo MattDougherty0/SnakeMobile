@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944134442,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92146239": {
+          "pageid": 92146239,
+          "ns": 6,
+          "title": "File:Bulletin - United States National Museum (IA bulletinunitedst241882unit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13893317,
+              "width": 820,
+              "height": 1285,
+              "pagecount": 280,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bulletin_-_United_States_National_Museum_%28IA_bulletinunitedst241882unit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_-_United_States_National_Museum_(IA_bulletinunitedst241882unit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92146239"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

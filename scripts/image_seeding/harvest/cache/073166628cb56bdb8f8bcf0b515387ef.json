@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943652175,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "48702746": {
+          "pageid": 48702746,
+          "ns": 6,
+          "title": "File:Our reptiles and batrachians; a plain and easy account of the lizards, snakes, newts, toads, frogs and tortoises indigenous to Great Britain (1893) (Vipera berus).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 102539,
+              "width": 721,
+              "height": 434,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Our_reptiles_and_batrachians%3B_a_plain_and_easy_account_of_the_lizards%2C_snakes%2C_newts%2C_toads%2C_frogs_and_tortoises_indigenous_to_Great_Britain_%281893%29_%28Vipera_berus%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Our_reptiles_and_batrachians;_a_plain_and_easy_account_of_the_lizards,_snakes,_newts,_toads,_frogs_and_tortoises_indigenous_to_Great_Britain_(1893)_(Vipera_berus).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48702746"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945684581,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91449128": {
+          "pageid": 91449128,
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA benjaminsmithbar00bart).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10092041,
+              "width": 985,
+              "height": 1691,
+              "pagecount": 136,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Books_from_the_Biodiversity_Heritage_Library_%28IA_benjaminsmithbar00bart%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Books_from_the_Biodiversity_Heritage_Library_(IA_benjaminsmithbar00bart).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91449128"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

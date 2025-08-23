@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943761240,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "7453793": {
+          "pageid": 7453793,
+          "ns": 6,
+          "title": "File:Kyy (Vipera berus).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4683597,
+              "width": 2160,
+              "height": 3330,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Kyy_%28Vipera_berus%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kyy_(Vipera_berus).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7453793"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

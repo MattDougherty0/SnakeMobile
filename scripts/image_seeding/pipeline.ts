@@ -66,12 +66,19 @@ export class ImageSeedingPipeline {
     
     try {
       // Step 1: Map species to iNaturalist taxa
-      const taxa = await this.inatHarvester.mapTaxa(
+      let taxa = await this.inatHarvester.mapTaxa(
         path.join(__dirname, 'taxonomy/species_taxonomy.csv')
       );
       
       if (taxa.length === 0) {
         throw new Error('No taxa were mapped successfully. Cannot proceed with image harvesting.');
+      }
+      
+      // Apply testing limit if enabled
+      if (this.config.testing?.enable_testing_mode && this.config.testing?.max_species_to_process) {
+        const limit = this.config.testing.max_species_to_process;
+        taxa = taxa.slice(0, limit);
+        console.log(`🧪 TESTING MODE: Limited to first ${limit} species`);
       }
       
       console.log(`✅ Successfully mapped ${taxa.length} species to iNaturalist taxa`);

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944437770,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "17188733": {
+          "pageid": 17188733,
+          "ns": 6,
+          "title": "File:Snake Cottonmouth, Agkistrodon piscivorus by Scott Zona.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4173920,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Snake_Cottonmouth%2C_Agkistrodon_piscivorus_by_Scott_Zona.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_Cottonmouth,_Agkistrodon_piscivorus_by_Scott_Zona.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17188733"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

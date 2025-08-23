@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944120449,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92187800": {
+          "pageid": 92187800,
+          "ns": 6,
+          "title": "File:Die Vergiftungen durch Schlangen (IA dievergiftungend00bren).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9945299,
+              "width": 760,
+              "height": 1235,
+              "pagecount": 196,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Die_Vergiftungen_durch_Schlangen_%28IA_dievergiftungend00bren%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Die_Vergiftungen_durch_Schlangen_(IA_dievergiftungend00bren).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92187800"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

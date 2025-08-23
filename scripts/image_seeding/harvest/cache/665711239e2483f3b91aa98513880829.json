@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944650928,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93995594": {
+          "pageid": 93995594,
+          "ns": 6,
+          "title": "File:Silvical characteristics of slash pine (Pinus elliottii, Engelm. var. elliottii (IA silvicalcharacte81coop).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 919292,
+              "width": 1152,
+              "height": 1614,
+              "pagecount": 18,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Silvical_characteristics_of_slash_pine_%28Pinus_elliottii%2C_Engelm._var._elliottii_%28IA_silvicalcharacte81coop%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Silvical_characteristics_of_slash_pine_(Pinus_elliottii,_Engelm._var._elliottii_(IA_silvicalcharacte81coop).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93995594"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

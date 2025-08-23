@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947065033,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "18768557": {
+          "pageid": 18768557,
+          "ns": 6,
+          "title": "File:Bothrops asper on the trail (Panama).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 14493255,
+              "width": 4771,
+              "height": 3181,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bothrops_asper_on_the_trail_%28Panama%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bothrops_asper_on_the_trail_(Panama).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18768557"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945683582,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92855225": {
+          "pageid": 92855225,
+          "ns": 6,
+          "title": "File:Report on the yellow fever of 1867 - made by request to the American Institute of Homoeopathy (IA 65021390R.nlm.nih.gov).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1404897,
+              "width": 756,
+              "height": 1277,
+              "pagecount": 36,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Report_on_the_yellow_fever_of_1867_-_made_by_request_to_the_American_Institute_of_Homoeopathy_%28IA_65021390R.nlm.nih.gov%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Report_on_the_yellow_fever_of_1867_-_made_by_request_to_the_American_Institute_of_Homoeopathy_(IA_65021390R.nlm.nih.gov).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92855225"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

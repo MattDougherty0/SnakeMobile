@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943907308,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93493659": {
+          "pageid": 93493659,
+          "ns": 6,
+          "title": "File:Venomous animals (IA b28709639).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1703736,
+              "width": 747,
+              "height": 1243,
+              "pagecount": 26,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venomous_animals_%28IA_b28709639%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venomous_animals_(IA_b28709639).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93493659"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

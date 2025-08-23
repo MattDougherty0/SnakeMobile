@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755947083044,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "98735855": {
+          "pageid": 98735855,
+          "ns": 6,
+          "title": "File:EUR 1988-3188.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 701489,
+              "width": 1270,
+              "height": 1768,
+              "pagecount": 14,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/EUR_1988-3188.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:EUR_1988-3188.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98735855"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

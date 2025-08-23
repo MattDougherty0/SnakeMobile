@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944227589,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "149842797": {
+          "pageid": 149842797,
+          "ns": 6,
+          "title": "File:Handling serpents at the Pentecostal Church of God. (Kentucky) by Russell Lee. - NARA - 541335.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2854797,
+              "width": 2949,
+              "height": 2261,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Handling_serpents_at_the_Pentecostal_Church_of_God._%28Kentucky%29_by_Russell_Lee._-_NARA_-_541335.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Handling_serpents_at_the_Pentecostal_Church_of_God._(Kentucky)_by_Russell_Lee._-_NARA_-_541335.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=149842797"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

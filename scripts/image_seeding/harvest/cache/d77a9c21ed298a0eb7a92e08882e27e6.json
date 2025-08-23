@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943954407,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "36023295": {
+          "pageid": 36023295,
+          "ns": 6,
+          "title": "File:Randolph B. Marcy, Exploration of the red river of Louisiana Wellcome L0027730.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1239810,
+              "width": 1066,
+              "height": 1788,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Randolph_B._Marcy%2C_Exploration_of_the_red_river_of_Louisiana_Wellcome_L0027730.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Randolph_B._Marcy,_Exploration_of_the_red_river_of_Louisiana_Wellcome_L0027730.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36023295"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

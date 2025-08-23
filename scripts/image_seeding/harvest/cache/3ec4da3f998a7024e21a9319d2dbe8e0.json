@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947195121,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "159059888": {
+          "pageid": 159059888,
+          "ns": 6,
+          "title": "File:Diamant-Klapperschlange (Crotalus adamanteus), Abwehrhaltung.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12566869,
+              "width": 4665,
+              "height": 3311,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Diamant-Klapperschlange_%28Crotalus_adamanteus%29%2C_Abwehrhaltung.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Diamant-Klapperschlange_(Crotalus_adamanteus),_Abwehrhaltung.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159059888"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

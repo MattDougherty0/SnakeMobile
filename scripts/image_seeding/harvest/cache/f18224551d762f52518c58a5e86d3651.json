@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943941401,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "6324388": {
+          "pageid": 6324388,
+          "ns": 6,
+          "title": "File:PDB 1htd EBI.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 39102,
+              "width": 800,
+              "height": 600,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/PDB_1htd_EBI.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:PDB_1htd_EBI.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6324388"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

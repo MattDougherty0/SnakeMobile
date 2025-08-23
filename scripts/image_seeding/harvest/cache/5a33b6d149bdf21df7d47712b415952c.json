@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946640694,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "2084400": {
+          "pageid": 2084400,
+          "ns": 6,
+          "title": "File:Sistrurus miliaris barbouri CDC.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4635157,
+              "width": 1826,
+              "height": 1205,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Sistrurus_miliaris_barbouri_CDC.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sistrurus_miliaris_barbouri_CDC.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2084400"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

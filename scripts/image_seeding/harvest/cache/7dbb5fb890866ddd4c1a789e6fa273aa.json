@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945689583,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93003446": {
+          "pageid": 93003446,
+          "ns": 6,
+          "title": "File:The figures, description, and history of exotic animals, comprised under the classes Amphibia and Pisces of Linn?us (IA figuresdescripti00john).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4922561,
+              "width": 1187,
+              "height": 1508,
+              "pagecount": 144,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/The_figures%2C_description%2C_and_history_of_exotic_animals%2C_comprised_under_the_classes_Amphibia_and_Pisces_of_Linn%3Fus_%28IA_figuresdescripti00john%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_figures,_description,_and_history_of_exotic_animals,_comprised_under_the_classes_Amphibia_and_Pisces_of_Linn%3Fus_(IA_figuresdescripti00john).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93003446"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

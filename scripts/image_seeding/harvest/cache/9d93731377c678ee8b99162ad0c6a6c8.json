@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946074998,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117681638": {
+          "pageid": 117681638,
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 22637508.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1401775,
+              "width": 2048,
+              "height": 1365,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Crotalus_scutulatus_22637508.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_scutulatus_22637508.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117681638"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

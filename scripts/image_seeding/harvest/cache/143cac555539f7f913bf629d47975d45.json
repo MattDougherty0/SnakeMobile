@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943667189,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "12317502": {
+          "pageid": 12317502,
+          "ns": 6,
+          "title": "File:Basking adder - geograph.org.uk - 283558.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 215794,
+              "width": 640,
+              "height": 567,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Basking_adder_-_geograph.org.uk_-_283558.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Basking_adder_-_geograph.org.uk_-_283558.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12317502"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

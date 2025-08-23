@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945499476,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "118857100": {
+          "pageid": 118857100,
+          "ns": 6,
+          "title": "File:Venomous snakes of Russell Cave (05a9c9fd-e165-42e3-9e5e-f2f026e05c85).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13955221,
+              "width": 6000,
+              "height": 4000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Venomous_snakes_of_Russell_Cave_%2805a9c9fd-e165-42e3-9e5e-f2f026e05c85%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venomous_snakes_of_Russell_Cave_(05a9c9fd-e165-42e3-9e5e-f2f026e05c85).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118857100"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

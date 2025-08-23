@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945794698,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "36921916": {
+          "pageid": 36921916,
+          "ns": 6,
+          "title": "File:Sidewinder Fin.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1377957,
+              "width": 3480,
+              "height": 2732,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sidewinder_Fin.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_Fin.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36921916"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

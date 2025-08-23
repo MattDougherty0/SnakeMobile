@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944472917,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "51839487": {
+          "pageid": 51839487,
+          "ns": 6,
+          "title": "File:Cottonmouth at Back Bay National Wildlife Refuge in Virginia. (5343675070).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2510599,
+              "width": 2736,
+              "height": 3648,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cottonmouth_at_Back_Bay_National_Wildlife_Refuge_in_Virginia._%285343675070%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cottonmouth_at_Back_Bay_National_Wildlife_Refuge_in_Virginia._(5343675070).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51839487"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944220587,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "103978407": {
+          "pageid": 103978407,
+          "ns": 6,
+          "title": "File:Eastern Copperhead (Agkistrodon contortrix) - Flickr - 2ndPeter (1).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8935181,
+              "width": 3993,
+              "height": 3157,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Eastern_Copperhead_%28Agkistrodon_contortrix%29_-_Flickr_-_2ndPeter_%281%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastern_Copperhead_(Agkistrodon_contortrix)_-_Flickr_-_2ndPeter_(1).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103978407"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945197181,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92514737": {
+          "pageid": 92514737,
+          "ns": 6,
+          "title": "File:Movements and habitat selection of the longnose snake (Rhinocheilus lecontei) in southwestern Idaho (IA movementshabitat00beck).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6648659,
+              "width": 637,
+              "height": 822,
+              "pagecount": 40,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Movements_and_habitat_selection_of_the_longnose_snake_%28Rhinocheilus_lecontei%29_in_southwestern_Idaho_%28IA_movementshabitat00beck%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Movements_and_habitat_selection_of_the_longnose_snake_(Rhinocheilus_lecontei)_in_southwestern_Idaho_(IA_movementshabitat00beck).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92514737"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943628157,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "12570624": {
+          "pageid": 12570624,
+          "ns": 6,
+          "title": "File:Benny Trapp Vipera berus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6229712,
+              "width": 4256,
+              "height": 2832,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Benny_Trapp_Vipera_berus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Benny_Trapp_Vipera_berus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=12570624"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

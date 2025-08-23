@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944699878,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "97742971": {
+          "pageid": 97742971,
+          "ns": 6,
+          "title": "File:Venoms; venomous animals and antivenomous serum-therapeutics (IA venomsvenomousan00calm).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26960076,
+              "width": 950,
+              "height": 1320,
+              "pagecount": 428,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Venoms%3B_venomous_animals_and_antivenomous_serum-therapeutics_%28IA_venomsvenomousan00calm%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Venoms;_venomous_animals_and_antivenomous_serum-therapeutics_(IA_venomsvenomousan00calm).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97742971"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

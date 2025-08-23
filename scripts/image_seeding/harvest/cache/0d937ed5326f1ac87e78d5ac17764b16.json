@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943925483,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "159031120": {
+          "pageid": 159031120,
+          "ns": 6,
+          "title": "File:Texas-Klapperschlange (Crotalus atrox), Kopf und Schwanzrassel.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13452491,
+              "width": 5064,
+              "height": 3520,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Texas-Klapperschlange_%28Crotalus_atrox%29%2C_Kopf_und_Schwanzrassel.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Texas-Klapperschlange_(Crotalus_atrox),_Kopf_und_Schwanzrassel.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159031120"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

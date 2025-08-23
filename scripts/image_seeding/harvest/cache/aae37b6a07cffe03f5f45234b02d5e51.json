@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946445226,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "105006465": {
+          "pageid": 105006465,
+          "ns": 6,
+          "title": "File:DSC 0162 (51160687054).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7664035,
+              "width": 3361,
+              "height": 2413,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/DSC_0162_%2851160687054%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:DSC_0162_(51160687054).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105006465"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

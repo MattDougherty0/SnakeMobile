@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755947388269,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91612690": {
+          "pageid": 91612690,
+          "ns": 6,
+          "title": "File:Eastern States endangered wildlife (IA easternstatesend13meri).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 29367462,
+              "width": 625,
+              "height": 820,
+              "pagecount": 164,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Eastern_States_endangered_wildlife_%28IA_easternstatesend13meri%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastern_States_endangered_wildlife_(IA_easternstatesend13meri).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91612690"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

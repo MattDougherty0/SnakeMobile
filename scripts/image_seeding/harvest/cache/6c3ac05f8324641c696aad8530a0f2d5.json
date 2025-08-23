@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944443776,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "122436421": {
+          "pageid": 122436421,
+          "ns": 6,
+          "title": "File:Northern Cottonmouth (Agkistrodon piscivorus) - Flickr - 2ndPeter.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6663136,
+              "width": 4720,
+              "height": 3664,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Northern_Cottonmouth_%28Agkistrodon_piscivorus%29_-_Flickr_-_2ndPeter.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Northern_Cottonmouth_(Agkistrodon_piscivorus)_-_Flickr_-_2ndPeter.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=122436421"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

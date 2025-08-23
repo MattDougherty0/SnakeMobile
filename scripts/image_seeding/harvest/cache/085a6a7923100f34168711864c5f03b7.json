@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943883311,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92171597": {
+          "pageid": 92171597,
+          "ns": 6,
+          "title": "File:On snake-poison; its action and its antidote (IA cu31924003462276).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3028421,
+              "width": 829,
+              "height": 1356,
+              "pagecount": 110,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/On_snake-poison%3B_its_action_and_its_antidote_%28IA_cu31924003462276%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:On_snake-poison;_its_action_and_its_antidote_(IA_cu31924003462276).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92171597"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

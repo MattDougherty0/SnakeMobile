@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943888306,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "97495636": {
+          "pageid": 97495636,
+          "ns": 6,
+          "title": "File:Reptiles of the world- tortoises and turtles, crocodilians, lizards and snakes of the eastern and western hemispheres (IA cu31924003099953).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 18456073,
+              "width": 750,
+              "height": 1281,
+              "pagecount": 502,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Reptiles_of_the_world-_tortoises_and_turtles%2C_crocodilians%2C_lizards_and_snakes_of_the_eastern_and_western_hemispheres_%28IA_cu31924003099953%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptiles_of_the_world-_tortoises_and_turtles,_crocodilians,_lizards_and_snakes_of_the_eastern_and_western_hemispheres_(IA_cu31924003099953).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97495636"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

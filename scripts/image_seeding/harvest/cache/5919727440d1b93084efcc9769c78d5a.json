@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945979806,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93217870": {
+          "pageid": 93217870,
+          "ns": 6,
+          "title": "File:On the nature of snake-poison - its effects on living creatures, and the present aspect of 'treatment of the poisoned' - read at a meeting of the Medical Society of London, Monday, January, 28th, 1884 (IA b22273013).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1251803,
+              "width": 1091,
+              "height": 1697,
+              "pagecount": 32,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/On_the_nature_of_snake-poison_-_its_effects_on_living_creatures%2C_and_the_present_aspect_of_%27treatment_of_the_poisoned%27_-_read_at_a_meeting_of_the_Medical_Society_of_London%2C_Monday%2C_January%2C_28th%2C_1884_%28IA_b22273013%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:On_the_nature_of_snake-poison_-_its_effects_on_living_creatures,_and_the_present_aspect_of_%27treatment_of_the_poisoned%27_-_read_at_a_meeting_of_the_Medical_Society_of_London,_Monday,_January,_28th,_1884_(IA_b22273013).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93217870"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

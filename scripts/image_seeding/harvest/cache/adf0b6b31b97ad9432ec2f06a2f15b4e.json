@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947073033,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "1290833": {
+          "pageid": 1290833,
+          "ns": 6,
+          "title": "File:Bothrops asper Area.PNG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5553,
+              "width": 335,
+              "height": 220,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Bothrops_asper_Area.PNG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bothrops_asper_Area.PNG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1290833"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

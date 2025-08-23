@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944923970,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "33296193": {
+          "pageid": 33296193,
+          "ns": 6,
+          "title": "File:2014-06-01 14 12 26 A Great Basin Rattlesnake curled up under a sagebrush at around 5560 feet along a dirt road on the western slopes of Elko Mountain.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4705180,
+              "width": 3264,
+              "height": 2448,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/2014-06-01_14_12_26_A_Great_Basin_Rattlesnake_curled_up_under_a_sagebrush_at_around_5560_feet_along_a_dirt_road_on_the_western_slopes_of_Elko_Mountain.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2014-06-01_14_12_26_A_Great_Basin_Rattlesnake_curled_up_under_a_sagebrush_at_around_5560_feet_along_a_dirt_road_on_the_western_slopes_of_Elko_Mountain.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=33296193"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

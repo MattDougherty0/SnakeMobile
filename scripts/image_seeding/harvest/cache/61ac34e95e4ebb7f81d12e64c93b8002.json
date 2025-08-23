@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943757237,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "52428487": {
+          "pageid": 52428487,
+          "ns": 6,
+          "title": "File:Vipera berus bosniensis.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 376883,
+              "width": 800,
+              "height": 600,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vipera_berus_bosniensis.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_bosniensis.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52428487"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944696887,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "98952197": {
+          "pageid": 98952197,
+          "ns": 6,
+          "title": "File:Jahresbericht über die Leistungen und Fortschritte in der gesammten Medicin (IA bub gb w7IBAAAAYAAJ).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 57654926,
+              "width": 433,
+              "height": 625,
+              "pagecount": 800,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Jahresbericht_%C3%BCber_die_Leistungen_und_Fortschritte_in_der_gesammten_Medicin_%28IA_bub_gb_w7IBAAAAYAAJ%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Jahresbericht_%C3%BCber_die_Leistungen_und_Fortschritte_in_der_gesammten_Medicin_(IA_bub_gb_w7IBAAAAYAAJ).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98952197"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

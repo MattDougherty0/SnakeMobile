@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946342149,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "63144133": {
+          "pageid": 63144133,
+          "ns": 6,
+          "title": "File:Crotalus atrox 9zz.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 113897,
+              "width": 841,
+              "height": 847,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Crotalus_atrox_9zz.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_atrox_9zz.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63144133"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

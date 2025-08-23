@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945793701,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "44119413": {
+          "pageid": 44119413,
+          "ns": 6,
+          "title": "File:Sidewinder (Crotalus cerastes) (14229016131).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1553831,
+              "width": 966,
+              "height": 1299,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sidewinder_%28Crotalus_cerastes%29_%2814229016131%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_(Crotalus_cerastes)_(14229016131).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44119413"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

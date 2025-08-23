@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946843797,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92309240": {
+          "pageid": 92309240,
+          "ns": 6,
+          "title": "File:Occasional papers of the California Academy of Sciences (IA occasionalpapers1021922cali).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 22173813,
+              "width": 614,
+              "height": 931,
+              "pagecount": 580,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Occasional_papers_of_the_California_Academy_of_Sciences_%28IA_occasionalpapers1021922cali%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Occasional_papers_of_the_California_Academy_of_Sciences_(IA_occasionalpapers1021922cali).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92309240"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

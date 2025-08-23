@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943895298,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91720815": {
+          "pageid": 91720815,
+          "ns": 6,
+          "title": "File:An introduction to zoology (IA introductiontozo02goss).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25165665,
+              "width": 647,
+              "height": 1108,
+              "pagecount": 448,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/An_introduction_to_zoology_%28IA_introductiontozo02goss%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_introduction_to_zoology_(IA_introductiontozo02goss).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91720815"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

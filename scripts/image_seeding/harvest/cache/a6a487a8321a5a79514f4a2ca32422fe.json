@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945777686,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117656916": {
+          "pageid": 117656916,
+          "ns": 6,
+          "title": "File:Crotalus cerastes cerastes 17487777.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 362459,
+              "width": 768,
+              "height": 1024,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Crotalus_cerastes_cerastes_17487777.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_cerastes_17487777.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117656916"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

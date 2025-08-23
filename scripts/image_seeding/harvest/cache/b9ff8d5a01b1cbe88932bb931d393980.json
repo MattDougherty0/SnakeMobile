@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944129451,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "106553247": {
+          "pageid": 106553247,
+          "ns": 6,
+          "title": "File:International record of medicine (IA internationalrec107wash).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 117556291,
+              "width": 818,
+              "height": 1233,
+              "pagecount": 1272,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/International_record_of_medicine_%28IA_internationalrec107wash%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:International_record_of_medicine_(IA_internationalrec107wash).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=106553247"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

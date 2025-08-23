@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945190190,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "114274269": {
+          "pageid": 114274269,
+          "ns": 6,
+          "title": "File:The prairie rattlesnakes in this area tend to have a green color to them. (2e7117a2-6ee9-4190-b0bc-239cc8149f9e).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1921770,
+              "width": 4416,
+              "height": 3312,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/The_prairie_rattlesnakes_in_this_area_tend_to_have_a_green_color_to_them._%282e7117a2-6ee9-4190-b0bc-239cc8149f9e%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_prairie_rattlesnakes_in_this_area_tend_to_have_a_green_color_to_them._(2e7117a2-6ee9-4190-b0bc-239cc8149f9e).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114274269"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

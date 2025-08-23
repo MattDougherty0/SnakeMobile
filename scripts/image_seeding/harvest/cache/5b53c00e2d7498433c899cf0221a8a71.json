@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944704882,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92103686": {
+          "pageid": 92103686,
+          "ns": 6,
+          "title": "File:Atti della Societ Italiana di Scienze Naturali e del Museo Civico di Storia Naturale in Milano (IA attidellasocieti1301unse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 13490070,
+              "width": 1177,
+              "height": 1720,
+              "pagecount": 256,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Atti_della_Societ_Italiana_di_Scienze_Naturali_e_del_Museo_Civico_di_Storia_Naturale_in_Milano_%28IA_attidellasocieti1301unse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Atti_della_Societ_Italiana_di_Scienze_Naturali_e_del_Museo_Civico_di_Storia_Naturale_in_Milano_(IA_attidellasocieti1301unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92103686"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

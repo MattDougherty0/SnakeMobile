@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944679899,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92509779": {
+          "pageid": 92509779,
+          "ns": 6,
+          "title": "File:Untersuchungen über die Lymphapophysen von Schlangen und schlangenähnlichen Sauriern (IA untersuchungenb00sall).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3064683,
+              "width": 827,
+              "height": 1262,
+              "pagecount": 54,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Untersuchungen_%C3%BCber_die_Lymphapophysen_von_Schlangen_und_schlangen%C3%A4hnlichen_Sauriern_%28IA_untersuchungenb00sall%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Untersuchungen_%C3%BCber_die_Lymphapophysen_von_Schlangen_und_schlangen%C3%A4hnlichen_Sauriern_(IA_untersuchungenb00sall).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92509779"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

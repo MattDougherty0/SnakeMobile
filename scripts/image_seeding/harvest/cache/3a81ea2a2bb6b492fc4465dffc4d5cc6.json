@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944393669,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "53760278": {
+          "pageid": 53760278,
+          "ns": 6,
+          "title": "File:Snake Copperhead - panoramio.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 851619,
+              "width": 2496,
+              "height": 1664,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Snake_Copperhead_-_panoramio.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_Copperhead_-_panoramio.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53760278"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

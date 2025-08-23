@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943769250,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "120240645": {
+          "pageid": 120240645,
+          "ns": 6,
+          "title": "File:Vipera berus (Senden, Coesfeld).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2459251,
+              "width": 2560,
+              "height": 2506,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Vipera_berus_%28Senden%2C_Coesfeld%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_(Senden,_Coesfeld).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=120240645"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

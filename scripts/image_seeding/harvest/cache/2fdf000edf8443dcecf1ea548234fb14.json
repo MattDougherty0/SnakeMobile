@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944686884,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92136087": {
+          "pageid": 92136087,
+          "ns": 6,
+          "title": "File:Bulletin du Muséum national d'histoire naturelle (IA bulletindumuseu40muse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 43262521,
+              "width": 843,
+              "height": 1333,
+              "pagecount": 1292,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bulletin_du_Mus%C3%A9um_national_d%27histoire_naturelle_%28IA_bulletindumuseu40muse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bulletin_du_Mus%C3%A9um_national_d%27histoire_naturelle_(IA_bulletindumuseu40muse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92136087"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945764602,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "48737251": {
+          "pageid": 48737251,
+          "ns": 6,
+          "title": "File:Rattlesnake Ledge, United States.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3251346,
+              "width": 4351,
+              "height": 2869,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rattlesnake_Ledge%2C_United_States.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_Ledge,_United_States.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48737251"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

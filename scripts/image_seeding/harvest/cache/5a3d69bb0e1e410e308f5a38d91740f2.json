@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944920960,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "57044052": {
+          "pageid": 57044052,
+          "ns": 6,
+          "title": "File:RATTLESNAKE, NORTHERN PACIFIC (crotalis oregonus) (7-22-08) montana de oro state park, slo co, ca -1 (3611970711).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9680050,
+              "width": 3456,
+              "height": 2304,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/RATTLESNAKE%2C_NORTHERN_PACIFIC_%28crotalis_oregonus%29_%287-22-08%29_montana_de_oro_state_park%2C_slo_co%2C_ca_-1_%283611970711%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:RATTLESNAKE,_NORTHERN_PACIFIC_(crotalis_oregonus)_(7-22-08)_montana_de_oro_state_park,_slo_co,_ca_-1_(3611970711).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57044052"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

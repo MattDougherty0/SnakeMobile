@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943947392,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9387088": {
+          "pageid": 9387088,
+          "ns": 6,
+          "title": "File:Copperhad diamondback.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 745165,
+              "width": 4288,
+              "height": 2848,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Copperhad_diamondback.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copperhad_diamondback.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9387088"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

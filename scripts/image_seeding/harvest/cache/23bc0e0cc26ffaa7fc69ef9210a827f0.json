@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945149072,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95983675": {
+          "pageid": 95983675,
+          "ns": 6,
+          "title": "File:Animal life in the Yosemite; an account of the mammals, birds, reptiles, and amphibians in a cross-section of the Sierra Nevada (IA animallifeinyose00grin).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 66473240,
+              "width": 979,
+              "height": 1545,
+              "pagecount": 812,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Animal_life_in_the_Yosemite%3B_an_account_of_the_mammals%2C_birds%2C_reptiles%2C_and_amphibians_in_a_cross-section_of_the_Sierra_Nevada_%28IA_animallifeinyose00grin%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Animal_life_in_the_Yosemite;_an_account_of_the_mammals,_birds,_reptiles,_and_amphibians_in_a_cross-section_of_the_Sierra_Nevada_(IA_animallifeinyose00grin).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95983675"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

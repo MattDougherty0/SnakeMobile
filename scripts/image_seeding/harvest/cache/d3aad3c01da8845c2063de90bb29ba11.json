@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946822850,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92432273": {
+          "pageid": 92432273,
+          "ns": 6,
+          "title": "File:Proceedings of the Academy of Natural Sciences of Philadelphia (IA proceedingsofaca35acad).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 24034511,
+              "width": 745,
+              "height": 1266,
+              "pagecount": 412,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Proceedings_of_the_Academy_of_Natural_Sciences_of_Philadelphia_%28IA_proceedingsofaca35acad%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proceedings_of_the_Academy_of_Natural_Sciences_of_Philadelphia_(IA_proceedingsofaca35acad).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92432273"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

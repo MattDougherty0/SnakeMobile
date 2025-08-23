@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944683876,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92297298": {
+          "pageid": 92297298,
+          "ns": 6,
+          "title": "File:Disputatio medica, de morsura serpentum ... (IA b31893193).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2668307,
+              "width": 1189,
+              "height": 1762,
+              "pagecount": 24,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Disputatio_medica%2C_de_morsura_serpentum_..._%28IA_b31893193%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Disputatio_medica,_de_morsura_serpentum_..._(IA_b31893193).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92297298"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

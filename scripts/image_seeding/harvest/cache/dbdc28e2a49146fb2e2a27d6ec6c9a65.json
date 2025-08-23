@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946804784,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "48291066": {
+          "pageid": 48291066,
+          "ns": 6,
+          "title": "File:RATTLESNAKE, BLACK-TAILED (crotalis molossus).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3660416,
+              "width": 6804,
+              "height": 4728,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/RATTLESNAKE%2C_BLACK-TAILED_%28crotalis_molossus%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:RATTLESNAKE,_BLACK-TAILED_(crotalis_molossus).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48291066"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

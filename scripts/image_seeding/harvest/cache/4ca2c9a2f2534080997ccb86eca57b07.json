@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944942982,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91690639": {
+          "pageid": 91690639,
+          "ns": 6,
+          "title": "File:Brothers EIS area in Central Oregon - wildlife habitat interrelationships - working draft (IA brotherseisareai00unse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4197492,
+              "width": 635,
+              "height": 831,
+              "pagecount": 77,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Brothers_EIS_area_in_Central_Oregon_-_wildlife_habitat_interrelationships_-_working_draft_%28IA_brotherseisareai00unse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Brothers_EIS_area_in_Central_Oregon_-_wildlife_habitat_interrelationships_-_working_draft_(IA_brotherseisareai00unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91690639"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

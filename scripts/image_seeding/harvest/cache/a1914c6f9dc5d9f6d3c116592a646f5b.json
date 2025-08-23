@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943957400,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9386994": {
+          "pageid": 9386994,
+          "ns": 6,
+          "title": "File:Rattlesnake copperhead.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3765316,
+              "width": 3008,
+              "height": 2000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rattlesnake_copperhead.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_copperhead.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9386994"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

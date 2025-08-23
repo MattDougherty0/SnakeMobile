@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944172461,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "162344434": {
+          "pageid": 162344434,
+          "ns": 6,
+          "title": "File:MiquelVillarreal ValleyView DiamondBackRattleSnake (6266856859).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 197839,
+              "width": 720,
+              "height": 480,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/MiquelVillarreal_ValleyView_DiamondBackRattleSnake_%286266856859%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:MiquelVillarreal_ValleyView_DiamondBackRattleSnake_(6266856859).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=162344434"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

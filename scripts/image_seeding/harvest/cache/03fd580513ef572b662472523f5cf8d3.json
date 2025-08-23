@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944240606,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9348249": {
+          "pageid": 9348249,
+          "ns": 6,
+          "title": "File:Copperhead2010.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2247393,
+              "width": 2612,
+              "height": 2236,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Copperhead2010.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copperhead2010.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9348249"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

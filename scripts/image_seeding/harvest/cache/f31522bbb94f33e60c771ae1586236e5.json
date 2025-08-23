@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944900964,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117658577": {
+          "pageid": 117658577,
+          "ns": 6,
+          "title": "File:Crotalus oreganus lutosus 168003644.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2688415,
+              "width": 2048,
+              "height": 1360,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Crotalus_oreganus_lutosus_168003644.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_oreganus_lutosus_168003644.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117658577"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

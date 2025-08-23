@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945894761,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117656722": {
+          "pageid": 117656722,
+          "ns": 6,
+          "title": "File:Crotalus cerastes cercobombus 133244862.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 884452,
+              "width": 2048,
+              "height": 1536,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Crotalus_cerastes_cercobombus_133244862.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_cercobombus_133244862.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117656722"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

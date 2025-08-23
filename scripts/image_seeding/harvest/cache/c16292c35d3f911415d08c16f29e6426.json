@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945808715,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29714484": {
+          "pageid": 29714484,
+          "ns": 6,
+          "title": "File:Sierra Sidewinder 1.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3743193,
+              "width": 4896,
+              "height": 2752,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sierra_Sidewinder_1.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sierra_Sidewinder_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29714484"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

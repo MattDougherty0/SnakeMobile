@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945482477,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "44425358": {
+          "pageid": 44425358,
+          "ns": 6,
+          "title": "File:Snake on a Log (22211091258).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4810716,
+              "width": 4657,
+              "height": 3105,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Snake_on_a_Log_%2822211091258%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_on_a_Log_(22211091258).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44425358"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

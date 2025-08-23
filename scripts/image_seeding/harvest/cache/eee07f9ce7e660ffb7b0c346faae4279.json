@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946803785,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "57044079": {
+          "pageid": 57044079,
+          "ns": 6,
+          "title": "File:RATTLESNAKE, BLACK-TAILED (Crotalus molossus) (8-22-10) grasslands south of patagonia lake, scc, az -01 (4917488985).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1322137,
+              "width": 3816,
+              "height": 2800,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/RATTLESNAKE%2C_BLACK-TAILED_%28Crotalus_molossus%29_%288-22-10%29_grasslands_south_of_patagonia_lake%2C_scc%2C_az_-01_%284917488985%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:RATTLESNAKE,_BLACK-TAILED_(Crotalus_molossus)_(8-22-10)_grasslands_south_of_patagonia_lake,_scc,_az_-01_(4917488985).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57044079"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

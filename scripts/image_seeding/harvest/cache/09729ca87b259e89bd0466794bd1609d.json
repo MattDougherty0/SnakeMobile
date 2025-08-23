@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945814714,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "2272469": {
+          "pageid": 2272469,
+          "ns": 6,
+          "title": "File:AIM 9M Sidewinder p1220807.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 366597,
+              "width": 2464,
+              "height": 1107,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/AIM_9M_Sidewinder_p1220807.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:AIM_9M_Sidewinder_p1220807.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2272469"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

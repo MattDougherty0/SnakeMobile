@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946422208,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3119737": {
+          "pageid": 3119737,
+          "ns": 6,
+          "title": "File:MP-Crotalus ruber 2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1415997,
+              "width": 2016,
+              "height": 1512,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/MP-Crotalus_ruber_2.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:MP-Crotalus_ruber_2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3119737"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

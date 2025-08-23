@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945805704,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "135892769": {
+          "pageid": 135892769,
+          "ns": 6,
+          "title": "File:Sidewinder Safari 2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2458667,
+              "width": 2736,
+              "height": 1824,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sidewinder_Safari_2.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_Safari_2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=135892769"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

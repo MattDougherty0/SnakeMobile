@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944935975,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152954135": {
+          "pageid": 152954135,
+          "ns": 6,
+          "title": "File:The herpetology of Curry County, Oregon - USACE-p16021coll3-305.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1681071,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 46,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_herpetology_of_Curry_County%2C_Oregon_-_USACE-p16021coll3-305.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_herpetology_of_Curry_County,_Oregon_-_USACE-p16021coll3-305.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152954135"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944449797,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29242872": {
+          "pageid": 29242872,
+          "ns": 6,
+          "title": "File:Snake (6070113113).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1705656,
+              "width": 2576,
+              "height": 1932,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Snake_%286070113113%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_(6070113113).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29242872"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

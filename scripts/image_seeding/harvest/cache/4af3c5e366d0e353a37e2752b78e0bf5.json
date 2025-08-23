@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946826794,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91585114": {
+          "pageid": 91585114,
+          "ns": 6,
+          "title": "File:Archeological reconnaissance of middle Havasu Canyon, Arizona (IA CAT82766170).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7257359,
+              "width": 920,
+              "height": 1535,
+              "pagecount": 118,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Archeological_reconnaissance_of_middle_Havasu_Canyon%2C_Arizona_%28IA_CAT82766170%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Archeological_reconnaissance_of_middle_Havasu_Canyon,_Arizona_(IA_CAT82766170).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91585114"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

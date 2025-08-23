@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944936983,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152954156": {
+          "pageid": 152954156,
+          "ns": 6,
+          "title": "File:The herpetology of the upper John Day River drainage, Oregon - USACE-p16021coll3-312.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1488801,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 30,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_herpetology_of_the_upper_John_Day_River_drainage%2C_Oregon_-_USACE-p16021coll3-312.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_herpetology_of_the_upper_John_Day_River_drainage,_Oregon_-_USACE-p16021coll3-312.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152954156"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

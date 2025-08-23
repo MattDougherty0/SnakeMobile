@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945193181,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "25012265": {
+          "pageid": 25012265,
+          "ns": 6,
+          "title": "File:Snakes Diversity.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1677999,
+              "width": 999,
+              "height": 1392,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Snakes_Diversity.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snakes_Diversity.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25012265"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945803704,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "66456805": {
+          "pageid": 66456805,
+          "ns": 6,
+          "title": "File:Sidewinder dogfight employment.svg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 365160,
+              "width": 1283,
+              "height": 692,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sidewinder_dogfight_employment.svg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_dogfight_employment.svg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=66456805"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944192559,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "14585073": {
+          "pageid": 14585073,
+          "ns": 6,
+          "title": "File:Agkistrodon-contortrix-kupferkopf.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5954721,
+              "width": 3504,
+              "height": 2412,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Agkistrodon-contortrix-kupferkopf.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agkistrodon-contortrix-kupferkopf.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14585073"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

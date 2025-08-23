@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945393304,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91556365": {
+          "pageid": 91556365,
+          "ns": 6,
+          "title": "File:The naturalist's miscellany - or coloured figures of natural objects; drawn and described immediately from nature (IA naturalistsmisc1shaw).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7957103,
+              "width": 785,
+              "height": 1414,
+              "pagecount": 268,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/The_naturalist%27s_miscellany_-_or_coloured_figures_of_natural_objects%3B_drawn_and_described_immediately_from_nature_%28IA_naturalistsmisc1shaw%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_naturalist%27s_miscellany_-_or_coloured_figures_of_natural_objects;_drawn_and_described_immediately_from_nature_(IA_naturalistsmisc1shaw).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91556365"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

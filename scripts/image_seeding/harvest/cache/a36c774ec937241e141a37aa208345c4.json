@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943774249,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117284221": {
+          "pageid": 117284221,
+          "ns": 6,
+          "title": "File:Vipera berus, 79837 St. Blasien.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 796935,
+              "width": 1600,
+              "height": 1071,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Vipera_berus%2C_79837_St._Blasien.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus,_79837_St._Blasien.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117284221"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

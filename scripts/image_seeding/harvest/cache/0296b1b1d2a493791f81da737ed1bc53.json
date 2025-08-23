@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945384298,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91455850": {
+          "pageid": 91455850,
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA catalogueofanim00fors).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3979979,
+              "width": 741,
+              "height": 1250,
+              "pagecount": 54,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Books_from_the_Biodiversity_Heritage_Library_%28IA_catalogueofanim00fors%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Books_from_the_Biodiversity_Heritage_Library_(IA_catalogueofanim00fors).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91455850"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

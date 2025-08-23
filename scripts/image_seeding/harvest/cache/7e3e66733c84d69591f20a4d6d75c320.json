@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945780703,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24872555": {
+          "pageid": 24872555,
+          "ns": 6,
+          "title": "File:Crotalus cerastes (Colorado Desert Sidewinder) (3583100567).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2876242,
+              "width": 1500,
+              "height": 1128,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Crotalus_cerastes_%28Colorado_Desert_Sidewinder%29_%283583100567%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_(Colorado_Desert_Sidewinder)_(3583100567).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24872555"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

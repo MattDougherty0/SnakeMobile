@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945812710,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "34407666": {
+          "pageid": 34407666,
+          "ns": 6,
+          "title": "File:Sidewinder at Hersheypark (2).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3474296,
+              "width": 4320,
+              "height": 2432,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sidewinder_at_Hersheypark_%282%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_at_Hersheypark_(2).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34407666"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

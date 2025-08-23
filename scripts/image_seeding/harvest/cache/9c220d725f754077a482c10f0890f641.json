@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946111006,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91911141": {
+          "pageid": 91911141,
+          "ns": 6,
+          "title": "File:Annual reports - Academy of Natural Sciences of Philadelphia (IA annualreportsaca1904acad).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1309859,
+              "width": 1045,
+              "height": 1585,
+              "pagecount": 32,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Annual_reports_-_Academy_of_Natural_Sciences_of_Philadelphia_%28IA_annualreportsaca1904acad%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_reports_-_Academy_of_Natural_Sciences_of_Philadelphia_(IA_annualreportsaca1904acad).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91911141"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

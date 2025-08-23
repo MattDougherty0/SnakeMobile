@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946311128,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "1731997": {
+          "pageid": 1731997,
+          "ns": 6,
+          "title": "File:Red Diamondback Rattle Snake Image 003.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1110867,
+              "width": 1587,
+              "height": 1104,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Red_Diamondback_Rattle_Snake_Image_003.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Red_Diamondback_Rattle_Snake_Image_003.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1731997"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

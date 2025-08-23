@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947074043,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "18771478": {
+          "pageid": 18771478,
+          "ns": 6,
+          "title": "File:Bothrops asper, Manzanillo, Limon Province, Costa Rica.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 444851,
+              "width": 1024,
+              "height": 684,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bothrops_asper%2C_Manzanillo%2C_Limon_Province%2C_Costa_Rica.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bothrops_asper,_Manzanillo,_Limon_Province,_Costa_Rica.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18771478"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

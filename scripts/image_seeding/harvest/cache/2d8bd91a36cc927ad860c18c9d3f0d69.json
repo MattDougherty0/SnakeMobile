@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944903962,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117658560": {
+          "pageid": 117658560,
+          "ns": 6,
+          "title": "File:Crotalus oreganus helleri 184505379.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1160672,
+              "width": 1536,
+              "height": 2048,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Crotalus_oreganus_helleri_184505379.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_oreganus_helleri_184505379.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117658560"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

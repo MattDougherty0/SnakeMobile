@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946091998,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "57044113": {
+          "pageid": 57044113,
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (9-9-12) san rafael grasslands, scc, az -04 (7966074106).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2007084,
+              "width": 3412,
+              "height": 2432,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/RATTLESNAKE%2C_MOJAVE_%28Crotalus_scutulatus%29_%289-9-12%29_san_rafael_grasslands%2C_scc%2C_az_-04_%287966074106%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:RATTLESNAKE,_MOJAVE_(Crotalus_scutulatus)_(9-9-12)_san_rafael_grasslands,_scc,_az_-04_(7966074106).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57044113"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

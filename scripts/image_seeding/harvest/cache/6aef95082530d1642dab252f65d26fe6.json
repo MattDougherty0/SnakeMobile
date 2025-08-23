@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944932974,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152953557": {
+          "pageid": 152953557,
+          "ns": 6,
+          "title": "File:Status and distribution of three species of snakes in north-central Oregon - USACE-p16021coll3-316.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1043167,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 24,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Status_and_distribution_of_three_species_of_snakes_in_north-central_Oregon_-_USACE-p16021coll3-316.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Status_and_distribution_of_three_species_of_snakes_in_north-central_Oregon_-_USACE-p16021coll3-316.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152953557"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

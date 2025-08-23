@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944944981,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92069122": {
+          "pageid": 92069122,
+          "ns": 6,
+          "title": "File:Reptile & amphibian list - BLM Nevada, Carson City District (IA reptileamphibian63unit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2048044,
+              "width": 568,
+              "height": 1339,
+              "pagecount": 8,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Reptile_%26_amphibian_list_-_BLM_Nevada%2C_Carson_City_District_%28IA_reptileamphibian63unit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptile_%26_amphibian_list_-_BLM_Nevada,_Carson_City_District_(IA_reptileamphibian63unit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92069122"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

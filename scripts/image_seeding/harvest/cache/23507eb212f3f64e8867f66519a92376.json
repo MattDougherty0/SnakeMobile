@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943777258,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "27589335": {
+          "pageid": 27589335,
+          "ns": 6,
+          "title": "File:Vipera berus after reveal.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2366764,
+              "width": 4608,
+              "height": 3456,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vipera_berus_after_reveal.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_after_reveal.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27589335"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

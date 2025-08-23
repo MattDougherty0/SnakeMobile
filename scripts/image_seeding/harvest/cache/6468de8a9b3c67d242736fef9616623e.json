@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944213588,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "159095985": {
+          "pageid": 159095985,
+          "ns": 6,
+          "title": "File:Nordamerikanischer Kupferkopf (Agkistrodon contortrix), Abwehrhaltung.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8311693,
+              "width": 4260,
+              "height": 2850,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Nordamerikanischer_Kupferkopf_%28Agkistrodon_contortrix%29%2C_Abwehrhaltung.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Nordamerikanischer_Kupferkopf_(Agkistrodon_contortrix),_Abwehrhaltung.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159095985"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946327143,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "44119416": {
+          "pageid": 44119416,
+          "ns": 6,
+          "title": "File:Rattlesnake on Pinto Wells Road (14045611310).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 980446,
+              "width": 1042,
+              "height": 646,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Rattlesnake_on_Pinto_Wells_Road_%2814045611310%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_on_Pinto_Wells_Road_(14045611310).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44119416"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

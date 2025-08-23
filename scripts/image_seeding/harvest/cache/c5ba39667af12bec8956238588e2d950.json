@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945476468,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "90954951": {
+          "pageid": 90954951,
+          "ns": 6,
+          "title": "File:Timber Rattlesnake (Crotalus horridus) - Flickr - 2ndPeter.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 9306869,
+              "width": 4554,
+              "height": 3102,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Timber_Rattlesnake_%28Crotalus_horridus%29_-_Flickr_-_2ndPeter.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Timber_Rattlesnake_(Crotalus_horridus)_-_Flickr_-_2ndPeter.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90954951"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

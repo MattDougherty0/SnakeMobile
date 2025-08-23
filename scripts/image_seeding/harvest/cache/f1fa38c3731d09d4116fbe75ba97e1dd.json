@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946802783,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "2079444": {
+          "pageid": 2079444,
+          "ns": 6,
+          "title": "File:Crotalus molossus molossus CDC.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3782453,
+              "width": 1815,
+              "height": 1206,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crotalus_molossus_molossus_CDC.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_molossus_molossus_CDC.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2079444"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

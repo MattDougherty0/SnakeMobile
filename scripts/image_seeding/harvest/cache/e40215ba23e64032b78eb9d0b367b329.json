@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945687571,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "19164127": {
+          "pageid": 19164127,
+          "ns": 6,
+          "title": "File:Scientific American - Series 1 - Volume 009 - Issue 48.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10633841,
+              "width": 1652,
+              "height": 2360,
+              "pagecount": 8,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Scientific_American_-_Series_1_-_Volume_009_-_Issue_48.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Scientific_American_-_Series_1_-_Volume_009_-_Issue_48.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19164127"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944469796,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29361712": {
+          "pageid": 29361712,
+          "ns": 6,
+          "title": "File:P6110035 (5857278945).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3375785,
+              "width": 4288,
+              "height": 3216,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/P6110035_%285857278945%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:P6110035_(5857278945).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29361712"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

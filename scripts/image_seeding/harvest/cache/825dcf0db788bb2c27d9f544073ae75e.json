@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945164159,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "110341562": {
+          "pageid": 110341562,
+          "ns": 6,
+          "title": "File:Crotalus viridis 150408576.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 153641,
+              "width": 514,
+              "height": 597,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Crotalus_viridis_150408576.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_viridis_150408576.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110341562"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

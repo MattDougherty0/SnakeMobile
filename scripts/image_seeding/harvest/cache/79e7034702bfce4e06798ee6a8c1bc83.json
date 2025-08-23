@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944136454,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "151164478": {
+          "pageid": 151164478,
+          "ns": 6,
+          "title": "File:Preying dangerously - black widow spider venom resistance in sympatric lizards.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1143680,
+              "width": 1085,
+              "height": 1575,
+              "pagecount": 14,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Preying_dangerously_-_black_widow_spider_venom_resistance_in_sympatric_lizards.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Preying_dangerously_-_black_widow_spider_venom_resistance_in_sympatric_lizards.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=151164478"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

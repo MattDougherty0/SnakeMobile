@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946596293,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117682038": {
+          "pageid": 117682038,
+          "ns": 6,
+          "title": "File:Gloydius ussuriensis 2869998.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 150004,
+              "width": 900,
+              "height": 506,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Gloydius_ussuriensis_2869998.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gloydius_ussuriensis_2869998.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117682038"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

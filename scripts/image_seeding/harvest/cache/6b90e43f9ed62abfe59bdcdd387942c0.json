@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946317157,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "156145500": {
+          "pageid": 156145500,
+          "ns": 6,
+          "title": "File:California King Snake imported from iNaturalist photo 70851268 on 3 December 2024.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2216533,
+              "width": 1536,
+              "height": 2048,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/California_King_Snake_imported_from_iNaturalist_photo_70851268_on_3_December_2024.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:California_King_Snake_imported_from_iNaturalist_photo_70851268_on_3_December_2024.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=156145500"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

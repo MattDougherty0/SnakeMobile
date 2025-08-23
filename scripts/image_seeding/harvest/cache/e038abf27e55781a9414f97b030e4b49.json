@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944322667,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "131437833": {
+          "pageid": 131437833,
+          "ns": 6,
+          "title": "File:Viperidae- Agkistrodon contortrix mokasen (Copperhead) - 48441501947.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4812173,
+              "width": 2860,
+              "height": 1907,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Viperidae-_Agkistrodon_contortrix_mokasen_%28Copperhead%29_-_48441501947.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Viperidae-_Agkistrodon_contortrix_mokasen_(Copperhead)_-_48441501947.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131437833"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

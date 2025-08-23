@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947197121,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "159060095": {
+          "pageid": 159060095,
+          "ns": 6,
+          "title": "File:Diamant-Klapperschlange (Crotalus adamanteus), juvenil.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 10666440,
+              "width": 4780,
+              "height": 3207,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Diamant-Klapperschlange_%28Crotalus_adamanteus%29%2C_juvenil.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Diamant-Klapperschlange_(Crotalus_adamanteus),_juvenil.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159060095"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

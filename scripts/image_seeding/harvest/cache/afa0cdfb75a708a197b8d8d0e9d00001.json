@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946331147,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93351019": {
+          "pageid": 93351019,
+          "ns": 6,
+          "title": "File:The landmarks of snake-poison literature - being a review of the more important researches into the nature of snake-poisons ... (IA b24850433).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7124182,
+              "width": 856,
+              "height": 1310,
+              "pagecount": 214,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/The_landmarks_of_snake-poison_literature_-_being_a_review_of_the_more_important_researches_into_the_nature_of_snake-poisons_..._%28IA_b24850433%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_landmarks_of_snake-poison_literature_-_being_a_review_of_the_more_important_researches_into_the_nature_of_snake-poisons_..._(IA_b24850433).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93351019"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

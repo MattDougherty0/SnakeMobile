@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944671901,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91811185": {
+          "pageid": 91811185,
+          "ns": 6,
+          "title": "File:Catalogue of colubrine snakes in the collection of the British Museum (IA catalogueofcolub00brit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 16151290,
+              "width": 779,
+              "height": 1320,
+              "pagecount": 318,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Catalogue_of_colubrine_snakes_in_the_collection_of_the_British_Museum_%28IA_catalogueofcolub00brit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_colubrine_snakes_in_the_collection_of_the_British_Museum_(IA_catalogueofcolub00brit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91811185"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

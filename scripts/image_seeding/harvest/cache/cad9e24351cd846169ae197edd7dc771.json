@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943663173,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "40970784": {
+          "pageid": 40970784,
+          "ns": 6,
+          "title": "File:Gad 01.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4900109,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gad_01.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gad_01.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40970784"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

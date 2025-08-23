@@ -1,0 +1,467 @@
+{
+  "timestamp": 1755946798222,
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "sroffset": 50,
+      "continue": "-||"
+    },
+    "query": {
+      "searchinfo": {
+        "totalhits": 52
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Crotalus molossus ssp. nigrescens (Viperidae) - Scales.jpg",
+          "pageid": 94443532,
+          "size": 735,
+          "wordcount": 178,
+          "snippet": "4.0 Creative Commons Attribution-Share Alike 4.0 truetrue English <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> ssp. nigrescens (Family: Viperidae) author name string: Juan Carlos",
+          "timestamp": "2024-04-26T10:12:23Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Scales of Crotalus molossus ssp. nigrescens (Viperidae).jpg",
+          "pageid": 94443526,
+          "size": 735,
+          "wordcount": 172,
+          "snippet": "4.0 Creative Commons Attribution-Share Alike 4.0 truetrue English <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> ssp. nigrescens (Family: Viperidae) Wikimedia username: Juan Carlos",
+          "timestamp": "2022-08-01T15:36:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus molossus ssp. nigrescens (Viperidae) - Chopped off head.jpg",
+          "pageid": 94443529,
+          "size": 739,
+          "wordcount": 178,
+          "snippet": "4.0 Creative Commons Attribution-Share Alike 4.0 truetrue English <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> ssp. nigrescens (Family: Viperidae) author name string: Juan Carlos",
+          "timestamp": "2024-04-26T10:12:21Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus molossus ssp. nigrescens (Viperidae) - Chopped off rattle.jpg",
+          "pageid": 94443530,
+          "size": 735,
+          "wordcount": 178,
+          "snippet": "4.0 Creative Commons Attribution-Share Alike 4.0 truetrue English <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> ssp. nigrescens (Family: Viperidae) author name string: Juan Carlos",
+          "timestamp": "2024-04-26T10:12:22Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus molossus molossus CDC.png",
+          "pageid": 2079444,
+          "size": 1198,
+          "wordcount": 190,
+          "snippet": "This image is taken from the Public Health Image Library (PHIL), a division of the CDC. The description of the image specifically states that it is in",
+          "timestamp": "2024-08-24T16:29:38Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, BLACK-TAILED (Crotalus molossus) (8-22-10) grasslands south of patagonia lake, scc, az -01 (4917488985).jpg",
+          "pageid": 57044079,
+          "size": 707,
+          "wordcount": 55,
+          "snippet": " BLACK-TAILED (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>) (8-22-10) grasslands south of patagonia lake, scc, az -01 (4917488985).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date",
+          "timestamp": "2024-05-09T16:11:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, BLACK-TAILED (crotalis molossus).jpg",
+          "pageid": 48291066,
+          "size": 943,
+          "wordcount": 38,
+          "snippet": "DescriptionRATTLESNAKE, BLACK-TAILED (crotalis <span class=\"searchmatch\">molossus</span>).jpg English: huachuca mts, cochise co, Az Date Taken on 5 November 2008, 07:33:32 Source https://www",
+          "timestamp": "2024-07-11T08:01:43Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Black-tailed Rattlesnake - Paradise - Cave Creek Loop - AZ - 2015-08-14at11-03-572 (21646573131).jpg",
+          "pageid": 45578465,
+          "size": 804,
+          "wordcount": 135,
+          "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+          "timestamp": "2025-03-23T13:51:45Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Black-tailed Rattlesnake - Paradise - Cave Creek Loop - AZ - 2015-08-14at11-03-351 (21637651335).jpg",
+          "pageid": 45578440,
+          "size": 804,
+          "wordcount": 145,
+          "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+          "timestamp": "2024-10-24T11:22:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Black-tailed Rattlesnake - Hunter Canyon - Sierra Vista -AZ - 2015-10-03at12-38-421 (22228315816).jpg",
+          "pageid": 45578052,
+          "size": 923,
+          "wordcount": 145,
+          "snippet": "This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy, distribute and transmit the work to",
+          "timestamp": "2024-05-09T15:39:09Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Rattlesnake coiled on ground with rocks and grass.jpg",
+          "pageid": 24886012,
+          "size": 1271,
+          "wordcount": 1,
+          "snippet": "n-images-pictures/reptiles-and-amphibians-public-domain-images-pictures/<span class=\"searchmatch\">snakes</span>-pictures/rattlesnake-coiled-on-ground-with-rocks-and-grass.jpg.html Date",
+          "timestamp": "2023-05-06T16:27:00Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Blacktail Rattlesnake - Flickr - treegrow.jpg",
+          "pageid": 49981878,
+          "size": 928,
+          "wordcount": 136,
+          "snippet": "DescriptionBlacktail Rattlesnake - Flickr - treegrow.jpg <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>. Molino Basin, Santa Catalina Mountains, Pima County, Arizona, USA. 18 September",
+          "timestamp": "2024-07-14T07:03:23Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:STELLER'S JAY.jpg",
+          "pageid": 48291051,
+          "size": 996,
+          "wordcount": 16,
+          "snippet": "30 December 2018 English operator: Flickr described at URL: https://www.flickr.com/photos/sloalan/9205577472",
+          "timestamp": "2025-05-28T17:31:49Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso70usfi).pdf",
+          "pageid": 93933758,
+          "size": 1179,
+          "wordcount": 33,
+          "snippet": "United States Fish and Wildlife Service: Poisonous <span class=\"searchmatch\">snakes</span> of the United States    Author U.S. Fish and Wildlife Service United States. Bureau of Biological",
+          "timestamp": "2025-01-05T21:38:08Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso233usfi).pdf",
+          "pageid": 93933756,
+          "size": 1275,
+          "wordcount": 21,
+          "snippet": "Wildlife Service: Poisonous <span class=\"searchmatch\">snakes</span> of the United States    Author U.S. Fish and Wildlife Service Title Poisonous <span class=\"searchmatch\">snakes</span> of the United States Series title",
+          "timestamp": "2025-01-30T20:43:46Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report of the Board of Regents of the Smithsonian Institution (IA annualreportofbo1898smit).pdf",
+          "pageid": 91652147,
+          "size": 1875,
+          "wordcount": 7,
+          "snippet": "Sistrurus cateuatus catenatus Rafinesque\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> Baird aud Girard\n<span class=\"searchmatch\">Crotalus</span> basiliscus Cope. Colima, Mexico\n<span class=\"searchmatch\">Crotalus</span> adamanteus scutulatus Kennicott.",
+          "timestamp": "2025-07-10T04:08:20Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptile book; a comprehensive popularised work on the structure and habits of the turtles, tortoises, crocodilians, lizards and snakes which inhabit the United States and northern Mexico (1915) (14596921140).jpg",
+          "pageid": 44677146,
+          "size": 4352,
+          "wordcount": 50,
+          "snippet": "this book. Text Appearing Before Image: BLACK-TAILED RATTLESNAKE, <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>Abundant in the mountains of the Southwest near the Mexican border",
+          "timestamp": "2024-08-29T14:47:08Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptile book; a comprehensive popularised work on the structure and habits of the turtles, tortoises, crocodilians, lizards and snakes which inhabit the United States and northern Mexico (1915) (14781272264).jpg",
+          "pageid": 44679142,
+          "size": 4172,
+          "wordcount": 42,
+          "snippet": "Image: m If « ,: Text Appearing After Image: BLACK-TAILED RATTLESNAKE, <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>Abundant in the mountains of the Southwest near the Mexican border",
+          "timestamp": "2024-07-14T14:55:30Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA ophidianszoologi00higg).pdf",
+          "pageid": 92042095,
+          "size": 1400,
+          "wordcount": 7,
+          "snippet": "and all that is known of their nature. Their galls, as antidotes to the <span class=\"searchmatch\">snake</span>-venom .. Volume including varieties known in North and South America Publisher",
+          "timestamp": "2024-12-17T15:00:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptile book (Ditmars, 1915) (IA reptilebookcompr1915ditm).pdf",
+          "pageid": 96020661,
+          "size": 1111,
+          "wordcount": 7,
+          "snippet": "structure and habits of the turtles, tortoises, crocodilians, lizards and <span class=\"searchmatch\">snakes</span> which inhabit the United States and northern Mexico   (  ) Author Ditmars",
+          "timestamp": "2024-12-16T23:36:07Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:California Digital Library (IA reptilesofwester10vandrich).pdf",
+          "pageid": 96240782,
+          "size": 1019,
+          "wordcount": 7,
+          "snippet": "sciences Description - I. Lizards.- II. <span class=\"searchmatch\">Snakes</span> and turtles Subjects: Reptiles -- Pacific Coast; Lizards; Turtles; <span class=\"searchmatch\">Snakes</span> -- Pacific Coast Language English Publication",
+          "timestamp": "2024-01-27T04:34:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:California Digital Library (IA reptwesternnorth10vandrich).pdf",
+          "pageid": 96240808,
+          "size": 1019,
+          "wordcount": 7,
+          "snippet": "sciences Description - I. Lizards.- II. <span class=\"searchmatch\">Snakes</span> and turtles Subjects: Reptiles -- Pacific Coast; Lizards; Turtles; <span class=\"searchmatch\">Snakes</span> -- Pacific Coast Language English Publication",
+          "timestamp": "2024-01-27T04:34:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA cu31924024782181).pdf",
+          "pageid": 91953471,
+          "size": 1549,
+          "wordcount": 7,
+          "snippet": "and all that is known of their nature. Their galls, as antidotes to the <span class=\"searchmatch\">snake</span>-venom Publisher New York, Philadelphia, Boericke &amp; Tafel Description The",
+          "timestamp": "2024-01-17T08:06:45Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Western field (IA westernfield101907olym).pdf",
+          "pageid": 98008150,
+          "size": 1042,
+          "wordcount": 0,
+          "snippet": "3.\n\nPacific Rattlesnake\n\n.\n\n<span class=\"searchmatch\">Crotalus</span> orcgoiiiis\n\nairox\n\nTiger Rattlesnake\nBlack-tailed Rattlesnake\n\ntigris\n\n&quot;\n\n<span class=\"searchmatch\">molossus</span>\n\n&#039;\n\nt7.\n\nHorned Rattlesnake\n",
+          "timestamp": "2021-04-24T07:21:31Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Proceedings of the Academy of Natural Sciences of Philadelphia (IA proceedingsofaca35acad).pdf",
+          "pageid": 92432273,
+          "size": 1723,
+          "wordcount": 1,
+          "snippet": "heretofore placed under C. lucifer}\n\nThe others are the\n\nG. confluenkis.\n\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> B. and\nI\n\nkilled a fine\n\nC\n\nc.\n\nlucifer.\n\nIJ.\n\nspecimen of\n\nthis species",
+          "timestamp": "2023-02-17T23:56:51Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin of the Essex Institute (IA bulletinofess161884unse).pdf",
+          "pageid": 91947936,
+          "size": 964,
+          "wordcount": 7,
+          "snippet": "CROTALIDAE.\n\n<span class=\"searchmatch\">CROTALUS</span> Linn.,\n\n1754,\n\nC. durissus Linn.,\n\nMus. Ad.\n\n1758, Syst.,\n\nFrldr., 39.\n214.\n\nI,\n\nBrazil to Mexico.\n\n(B) C. <span class=\"searchmatch\">molossus</span> B. &amp; G., 1853",
+          "timestamp": "2024-01-02T13:02:01Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Occasional papers of the California Academy of Sciences (IA occasionalpapers1011922cali).pdf",
+          "pageid": 92309214,
+          "size": 993,
+          "wordcount": 0,
+          "snippet": "edwardsii\n\n73.\n\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>\n\n74.\n\n<span class=\"searchmatch\">Crotalus</span> atrox\n\n75.\n\n<span class=\"searchmatch\">Crotalus</span> confluentus\n\n16.\n\n<span class=\"searchmatch\">Crotalus</span> oreganus\n\n77.\n\n<span class=\"searchmatch\">Crotalus</span> tigris\n\n78.\n\n<span class=\"searchmatch\">Crotalus</span> mitchellii\n",
+          "timestamp": "2022-07-17T14:37:20Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Outlines of general zoology (IA outlinesofgenera00gira).pdf",
+          "pageid": 91899149,
+          "size": 1592,
+          "wordcount": 0,
+          "snippet": "Siberian dog,\n12. Canis famUiaris, domestic dog,\n13. Canis familiaris <span class=\"searchmatch\">molossus</span>, bull\n\nPLATE 114.\nFig.\n\n.\n\n.\n\nUrsus arctos, brown bear,\nUrsus americanus",
+          "timestamp": "2020-12-18T06:19:48Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Archeological reconnaissance of middle Havasu Canyon, Arizona (IA CAT82766170).pdf",
+          "pageid": 91585114,
+          "size": 1363,
+          "wordcount": 39,
+          "snippet": "our notice but we did see a few lizards\nand one large rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>?).\nWater\nPresently, water resources in the study area are minimal",
+          "timestamp": "2024-08-17T21:57:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Reptiles, poisonous (IA 101714694.nlm.nih.gov).pdf",
+          "pageid": 92788583,
+          "size": 1108,
+          "wordcount": 15,
+          "snippet": "Spotted Rattlesnake.\n<span class=\"searchmatch\">Crotalus</span> confluentus Say, Confluent Rattlesnake.\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> Baird and Girard, Black-tail Rattle¬\n<span class=\"searchmatch\">snake</span>.\nBelonging to the genus",
+          "timestamp": "2024-03-20T00:02:48Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Report on the United States and Mexican boundary survey ?made under the direction of the secretary of the Interior -by William H. Emory, major First Cavalry, and United States commissioner. (IA mobot31753002023635).pdf",
+          "pageid": 91873260,
+          "size": 1275,
+          "wordcount": 7,
+          "snippet": "\n\nH. Clark.\n\n<span class=\"searchmatch\">CROTALUS</span> <span class=\"searchmatch\">MOLOSSUS</span>,\n\n65.\n\nPlate\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>, B.\n\n&amp;\n\nG. Catal. N.\n\nAm.\n\nB.\n\n&amp;\n\nG.\n\nII.\n\nSerp. Jan. 1853, 10.\n\n<span class=\"searchmatch\">Crotalus</span> ornatus, Hallow",
+          "timestamp": "2025-01-06T20:47:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Archeological investigations in west-central New Mexico, vol. 3 (IA archeologicalinv03unit).pdf",
+          "pageid": 91904861,
+          "size": 1487,
+          "wordcount": 39,
+          "snippet": "punctatus), black-tailed\nrattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>), rock rattlesnake (<span class=\"searchmatch\">Crotalus</span> lepidus), mountain patchnosed <span class=\"searchmatch\">snake</span> (Salvadora grahamiae), and\nSonoran",
+          "timestamp": "2024-08-18T05:46:13Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA checklistofnorth00cope).pdf",
+          "pageid": 91951497,
+          "size": 1238,
+          "wordcount": 7,
+          "snippet": "Phila., 1861, p. 206.\nTexas.\n<span class=\"searchmatch\">Crotalus</span>, Linu.\n\nCentral Arizona.\n\n<span class=\"searchmatch\">Crotalus</span> pyrrhus, Cope, Proc. Pbila., 1866, i\\ 308.\n<span class=\"searchmatch\">Crotalus</span> mitchelUl, Cope,\n\nloc. cit",
+          "timestamp": "2023-12-06T20:34:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin - United States National Museum (IA bulletinu11018751877unit).pdf",
+          "pageid": 92143853,
+          "size": 1375,
+          "wordcount": 24,
+          "snippet": "mount-\n\nTable land\nCentral and\n\ndistrict of the Austroriparian.\n\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>, Baird and Girard, Cat.,\ning the Texan district.\n\np. 10.\n\nSonoran",
+          "timestamp": "2024-07-07T19:08:03Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Outlines of general zoology (IA outlinesofgenera00newy).pdf",
+          "pageid": 91899156,
+          "size": 1091,
+          "wordcount": 1,
+          "snippet": "constrictor,\n473\nPhrynosoma cornuta, horned frog,\n482\n,\n\n....\n\n<span class=\"searchmatch\">snake</span>,\n\n4.\n\n&quot;\n\n5.\n\n<span class=\"searchmatch\">Crotalus</span> horridus, rattlesnake,\n\n.\n\n6.\n\nSeps chalcides,\n\n.477\n\n.\n\n.\n\n",
+          "timestamp": "2025-01-05T20:25:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Food habits of coyotes in a semidesert grass-shrub habitat (IA IND79040064).pdf",
+          "pageid": 91589426,
+          "size": 937,
+          "wordcount": 33,
+          "snippet": "striped whipsnake (M. taeniatus), gopher <span class=\"searchmatch\">snake</span>\n(Pituophis melanoleucus), black-tailed rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>), and western rattle-\n\nthe four collection",
+          "timestamp": "2024-08-18T09:58:51Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bi - United States. Bureau of Biological Survey (IA CAT11088674123).pdf",
+          "pageid": 93146050,
+          "size": 1205,
+          "wordcount": 39,
+          "snippet": "sumably about the same quantity ejected by the <span class=\"searchmatch\">snakes</span> at one attack;\n<span class=\"searchmatch\">Crotalus</span> confluentus (Calmette)....\n<span class=\"searchmatch\">Crotalus</span> adamanteus (Flexner and Noguchi).,,.\nAgkistrodon",
+          "timestamp": "2024-08-18T17:29:53Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Descriptive catalogue of the specimens of natural history in spirit contained in the museum. Vertebrata- Pisces, Reptilia, Aves, Mammalia (IA b24758152).pdf",
+          "pageid": 93344925,
+          "size": 1417,
+          "wordcount": 21,
+          "snippet": "Genus Macroglossus\n\nOrder VII.\n\n123\n\nCy nop terns\n\n123\n\nPteropus\n\n123\n\n<span class=\"searchmatch\">Molossus</span>\n\n124\n\nNycticejus\n\n124\n\nTaphozous\n\n125\n\nScotopJiilus\n\n125\n\nVespertilio\n",
+          "timestamp": "2024-12-10T19:34:10Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Transactions of the Texas Academy of Science (IA transaction5719021904texa).pdf",
+          "pageid": 92498030,
+          "size": 890,
+          "wordcount": 1,
+          "snippet": "<span class=\"searchmatch\">Crotalus</span> adamanteus\n\n(Diamond Rattlesnake).\n\n<span class=\"searchmatch\">Crotalus</span> adamanteus atrox (Texas Rattlesnake).\n<span class=\"searchmatch\">Crotalus</span> horridus (Banded Rattlesnake).\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>",
+          "timestamp": "2024-04-29T16:31:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptiles of western North America, an account of the species known to inhabit California and Oregon, Washington, Idaho, Utah, Nevada, Arizona, British Columbia (IA reptilesofwester02vand).pdf",
+          "pageid": 97707408,
+          "size": 1300,
+          "wordcount": 1,
+          "snippet": "catenatus\n\n905\n\n(Edwards Massasauga).-\n\nedwardsii\n\n908\n\n48. <span class=\"searchmatch\">Crotalus</span>\n(Black-tailed\n\n<span class=\"searchmatch\">molossus</span>\n\nRattlesnake)\n\n914\n\n(Tortuga Island Diamond Rattlesnake)\n\n918",
+          "timestamp": "2022-06-10T15:40:33Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report of the Board of Regents of the Smithsonian Institution (IA annualreportofbo1893smith).pdf",
+          "pageid": 91652057,
+          "size": 1781,
+          "wordcount": 7,
+          "snippet": "of Ciotalus <span class=\"searchmatch\">molossus</span>\n47.\n\n411\n\n48.\n\n411\n\n52.\n53.\n\n412\n412\n422\n\nDorsal color pattern of <span class=\"searchmatch\">Crotalus</span> honidus\nDorsal c(dor jiattern of <span class=\"searchmatch\">Crotalus</span> confluentus",
+          "timestamp": "2025-07-10T04:08:11Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Dec. 27th; Descriptions of Three New Species of Exotic Uniones; Notice of the Shells Collected by Mr. J. Xantus, at Cape St. Lucas (IA jstor-4059276).pdf",
+          "pageid": 102851262,
+          "size": 2264,
+          "wordcount": 14,
+          "snippet": "Caudisonateriificus Laurenti Rept. p. 93, 1763. <span class=\"searchmatch\">Crotalus</span> rhombiferDaud. v., p. 325, 1803. Dumeril and Bibron, 1854. <span class=\"searchmatch\">Crotalus</span>\nadamanteus Beauv., Trans. Am. Phil. Soc",
+          "timestamp": "2025-02-23T10:39:24Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin - United States National Museum (IA bulletinunitedst241882unit).pdf",
+          "pageid": 92146239,
+          "size": 1181,
+          "wordcount": 7,
+          "snippet": "Rattlesnake.\n\n<span class=\"searchmatch\">CROTALUS</span> POLYSTICTUS\n\nCope.\n\nSpotted Rattlesnake.\n170.\n\n<span class=\"searchmatch\">CROTALUS</span> CONFLUENTUS\n\nSay.\n\nContinent Rattlesnake.\n171.\n\n<span class=\"searchmatch\">CROTALUS</span> <span class=\"searchmatch\">MOLOSSUS</span>\n\nBaiud and",
+          "timestamp": "2024-01-02T07:14:24Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Analytical table of a systematical course of lectures on zoology - including comparative anatomy, illustrated by drawings and natural objects (IA 60930300R.nlm.nih.gov).pdf",
+          "pageid": 92119278,
+          "size": 931,
+          "wordcount": 21,
+          "snippet": "subscauda-\n\n— Linnasus&#039;s\n\nles.\n\ngenera of <span class=\"searchmatch\">snakes</span>.— Natural History of the\n\n<span class=\"searchmatch\">Crotalus</span> horridus,\n\nbanded rattle-<span class=\"searchmatch\">snake</span>.— Size and color.—\nRattle.— Experiments",
+          "timestamp": "2025-07-07T06:31:48Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Occasional papers of the Boston Society of Natural History (IA occasionalpapers08bost).pdf",
+          "pageid": 92041564,
+          "size": 1092,
+          "wordcount": 1,
+          "snippet": "larger <span class=\"searchmatch\">snake</span> was found among\nvery large boulders near the stream, and had in its stomach a\nnematode worm about 75 mm.\n\nlong.\n\n\n24\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> Baircl",
+          "timestamp": "2024-05-14T05:00:02Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Occasional papers of the California Academy of Sciences (IA occasionalpapers1021922cali).pdf",
+          "pageid": 92309240,
+          "size": 1025,
+          "wordcount": 1,
+          "snippet": "(Edwards Massasauga)\n\nedwardsii\n\n908\n\n48. <span class=\"searchmatch\">Crotalus</span>\n\natrox (Desert\n\n911\n\nRattlesnake)\n\n(Black-tailed\n\n<span class=\"searchmatch\">molossus</span>\n\nDiamond\n\n914\n\nRattlesnake)\n\ntortugensis",
+          "timestamp": "2022-07-17T14:37:27Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Endangered amphibians and reptiles of seven southwestern New Mexico counties (IA endangeredamphib6029belf).pdf",
+          "pageid": 91613629,
+          "size": 1514,
+          "wordcount": 15,
+          "snippet": "(prairie falcon)\n\n,\n\nand Taxidea taxus\n\nA stomach content analysis of <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> (black-tailed\n\nrattlesnake) revealed a Gila monster (Campbell, 1976)",
+          "timestamp": "2025-07-08T16:43:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Report upon the collections of batrachians and reptiles made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona, during the years 1871, 1872, 1873, and 1874 (IA 101694524.nlm.nih.gov).pdf",
+          "pageid": 92785089,
+          "size": 1214,
+          "wordcount": 15,
+          "snippet": "scutulatus, Kennicott.\n<span class=\"searchmatch\">Crotalus</span> luei/cr, Baird &amp; Girard.\n<span class=\"searchmatch\">Crotalus</span> polystictus. Cope.\n<span class=\"searchmatch\">Crotalus</span> conjluentus. Say.\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>, Baiud &amp; Girard.\nCaudisona",
+          "timestamp": "2024-03-19T23:39:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Distribution, ecology, and habitat management of the reptiles and amphibians of the Hualapi-Aquarius planning area, Mohave and Yavapai Counties, Arizona (IA distributionecol00jone).pdf",
+          "pageid": 91700603,
+          "size": 1204,
+          "wordcount": 15,
+          "snippet": "Ltis getulus\n\nPituophis melanoleucus\n<span class=\"searchmatch\">Crotalus</span> atrox\n<span class=\"searchmatch\">Crotalus</span> cerastes\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span>\n<span class=\"searchmatch\">Crotalus</span> scutulatus\n<span class=\"searchmatch\">Crotalus</span> v. cerberus\n\n26\n\n\n,\n\nNocturnal colubrids",
+          "timestamp": "2022-09-23T21:51:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Proceedings of the Academy of Natural Sciences of Philadelphia (IA proceedingsofaca35acaduoft).pdf",
+          "pageid": 91844559,
+          "size": 1581,
+          "wordcount": 7,
+          "snippet": "of the ranges of <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">molossus</span> and Stenostoma\ndulce.\nNo. 2. The extension northwards of the ranges of Diadophis regalis, <span class=\"searchmatch\">Crotalus</span> lepidus and Holhrookia",
+          "timestamp": "2025-07-30T11:52:06Z"
+        }
+      ]
+    }
+  }
+}

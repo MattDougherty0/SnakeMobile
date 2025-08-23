@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943950425,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "49983597": {
+          "pageid": 49983597,
+          "ns": 6,
+          "title": "File:Western Diamond-backed Rattlesnake. Patternless - Flickr - gailhampshire.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1558653,
+              "width": 3828,
+              "height": 2250,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Western_Diamond-backed_Rattlesnake._Patternless_-_Flickr_-_gailhampshire.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Western_Diamond-backed_Rattlesnake._Patternless_-_Flickr_-_gailhampshire.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49983597"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

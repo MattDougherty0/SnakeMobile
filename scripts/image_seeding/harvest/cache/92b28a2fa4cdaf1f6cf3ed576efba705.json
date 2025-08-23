@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945391309,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93282771": {
+          "pageid": 93282771,
+          "ns": 6,
+          "title": "File:Catalogue of mammals, birds, reptiles, and fishes, of the Dominion of Canada (IA b22350147).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 908883,
+              "width": 737,
+              "height": 1233,
+              "pagecount": 16,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Catalogue_of_mammals%2C_birds%2C_reptiles%2C_and_fishes%2C_of_the_Dominion_of_Canada_%28IA_b22350147%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_mammals,_birds,_reptiles,_and_fishes,_of_the_Dominion_of_Canada_(IA_b22350147).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93282771"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944902977,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "62118774": {
+          "pageid": 62118774,
+          "ns": 6,
+          "title": "File:Western Rattlesnake (Crotalus oreganus) illustration.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 130532,
+              "width": 758,
+              "height": 361,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Western_Rattlesnake_%28Crotalus_oreganus%29_illustration.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Western_Rattlesnake_(Crotalus_oreganus)_illustration.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=62118774"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

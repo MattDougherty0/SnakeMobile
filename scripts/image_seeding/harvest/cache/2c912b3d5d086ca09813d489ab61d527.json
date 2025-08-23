@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944118450,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91674039": {
+          "pageid": 91674039,
+          "ns": 6,
+          "title": "File:Catalogue of the specimens of snakes in the collection of the British museum (IA catalogueofspeci40brit).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7944798,
+              "width": 566,
+              "height": 1008,
+              "pagecount": 152,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Catalogue_of_the_specimens_of_snakes_in_the_collection_of_the_British_museum_%28IA_catalogueofspeci40brit%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_the_specimens_of_snakes_in_the_collection_of_the_British_museum_(IA_catalogueofspeci40brit).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91674039"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

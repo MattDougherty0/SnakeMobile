@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944444768,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24886029": {
+          "pageid": 24886029,
+          "ns": 6,
+          "title": "File:Water moccasin cottonmouth venomous snake agkistrodon piscivorus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 335892,
+              "width": 2048,
+              "height": 1536,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Water_moccasin_cottonmouth_venomous_snake_agkistrodon_piscivorus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Water_moccasin_cottonmouth_venomous_snake_agkistrodon_piscivorus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24886029"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

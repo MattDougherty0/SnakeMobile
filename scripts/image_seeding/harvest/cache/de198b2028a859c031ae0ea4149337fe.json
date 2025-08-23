@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946105010,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153201598": {
+          "pageid": 153201598,
+          "ns": 6,
+          "title": "File:Environmental statement, Ridgecrest Wash Channel, Kern County, California - USACE-p16021coll7-10677.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1919879,
+              "width": 1247,
+              "height": 1658,
+              "pagecount": 30,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Environmental_statement%2C_Ridgecrest_Wash_Channel%2C_Kern_County%2C_California_-_USACE-p16021coll7-10677.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Environmental_statement,_Ridgecrest_Wash_Channel,_Kern_County,_California_-_USACE-p16021coll7-10677.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153201598"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

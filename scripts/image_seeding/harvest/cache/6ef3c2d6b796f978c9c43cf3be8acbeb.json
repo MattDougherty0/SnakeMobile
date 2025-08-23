@@ -1,0 +1,409 @@
+{
+  "timestamp": 1755946208492,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "searchinfo": {
+        "totalhits": 44
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus scutulatus 2780340.jpg",
+          "pageid": 117681598,
+          "size": 777,
+          "wordcount": 173,
+          "snippet": "Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist",
+          "timestamp": "2025-05-29T11:17:40Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 22637508.jpg",
+          "pageid": 117681638,
+          "size": 794,
+          "wordcount": 172,
+          "snippet": "Creative Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/22637508",
+          "timestamp": "2025-06-09T21:36:33Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus scutulatus 2780341.jpg",
+          "pageid": 117681608,
+          "size": 777,
+          "wordcount": 173,
+          "snippet": "Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist",
+          "timestamp": "2025-05-19T05:39:27Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 158542478.jpg",
+          "pageid": 117681591,
+          "size": 803,
+          "wordcount": 202,
+          "snippet": "Attribution-Share Alike 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/158542478",
+          "timestamp": "2025-05-20T21:42:59Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 2186960.jpg",
+          "pageid": 117681615,
+          "size": 755,
+          "wordcount": 203,
+          "snippet": "Attribution-Share Alike 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/2186960",
+          "timestamp": "2025-06-01T23:11:10Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 22863606.jpg",
+          "pageid": 117681625,
+          "size": 766,
+          "wordcount": 172,
+          "snippet": "Creative Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/22863606",
+          "timestamp": "2025-05-27T02:40:24Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 172941347.jpg",
+          "pageid": 117681564,
+          "size": 769,
+          "wordcount": 170,
+          "snippet": "Creative Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/172941347",
+          "timestamp": "2025-05-21T05:45:47Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 160912892.jpg",
+          "pageid": 117681573,
+          "size": 774,
+          "wordcount": 170,
+          "snippet": "Creative Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/160912892",
+          "timestamp": "2025-05-09T21:53:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 12539287.jpg",
+          "pageid": 117681596,
+          "size": 758,
+          "wordcount": 86,
+          "snippet": "English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/12539287 retrieved: 15 May 2022",
+          "timestamp": "2025-06-05T01:26:30Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 158542458.jpg",
+          "pageid": 117681587,
+          "size": 803,
+          "wordcount": 202,
+          "snippet": "Attribution-Share Alike 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/158542458",
+          "timestamp": "2025-05-17T10:59:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 160912284.jpg",
+          "pageid": 117681570,
+          "size": 774,
+          "wordcount": 170,
+          "snippet": "Creative Commons Attribution 4.0 truetrue English Mojave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) stated in: iNaturalist reference URL: https://www.inaturalist.org/photos/160912284",
+          "timestamp": "2025-05-09T16:00:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus 03.jpg",
+          "pageid": 3944665,
+          "size": 912,
+          "wordcount": 34,
+          "snippet": "Description<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> 03.jpg English: The Mojave rattlesnake, <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>, is the most dangerous <span class=\"searchmatch\">snake</span> in the United States. California",
+          "timestamp": "2024-04-26T10:14:07Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crotalus scutulatus Mojave.jpg",
+          "pageid": 3837849,
+          "size": 521,
+          "wordcount": 29,
+          "snippet": "Description<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> Mojave.jpg English: The poisonous Mojave green rattlesnake is one of the many reptiles common to the Mojave Desert area",
+          "timestamp": "2025-01-16T17:24:44Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (9-9-12) san rafael grasslands, scc, az -05 (7966068462).jpg",
+          "pageid": 57044116,
+          "size": 737,
+          "wordcount": 55,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (9-9-12) san rafael grasslands, scc, az -05 (7966068462).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 9 September",
+          "timestamp": "2024-06-14T13:09:20Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (10-26-11) san rafael grasslands, scc, az -04 (6284334262).jpg",
+          "pageid": 57044099,
+          "size": 739,
+          "wordcount": 55,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (10-26-11) san rafael grasslands, scc, az -04 (6284334262).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 26 October",
+          "timestamp": "2024-06-18T11:10:26Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (10-26-11) san rafael grasslands, scc, az -03 (6283812427).jpg",
+          "pageid": 57044092,
+          "size": 741,
+          "wordcount": 45,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (10-26-11) san rafael grasslands, scc, az -03 (6283812427).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 26 October",
+          "timestamp": "2024-07-07T18:02:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Klapperschlangen rivalen.jpg",
+          "pageid": 1529389,
+          "size": 492,
+          "wordcount": 19,
+          "snippet": "DescriptionKlapperschlangen rivalen.jpg <span class=\"searchmatch\">Crotalus</span>-species Date 16 December 2004 (original upload date) Source from the Image Library of the U.S. Fish and",
+          "timestamp": "2024-08-17T20:13:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (9-9-12) san rafael grasslands, scc, az -02 (7966091342).jpg",
+          "pageid": 57044106,
+          "size": 737,
+          "wordcount": 51,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (9-9-12) san rafael grasslands, scc, az -02 (7966091342).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 9 September",
+          "timestamp": "2024-09-06T11:51:36Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (10-26-11) san rafael grasslands, scc, az -02 (6283810047).jpg",
+          "pageid": 57044090,
+          "size": 715,
+          "wordcount": 61,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (10-26-11) san rafael grasslands, scc, az -02 (6283810047).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 26 October",
+          "timestamp": "2024-11-11T08:33:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (9-9-12) san rafael grasslands, scc, az -04 (7966074106).jpg",
+          "pageid": 57044113,
+          "size": 709,
+          "wordcount": 45,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (9-9-12) san rafael grasslands, scc, az -04 (7966074106).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 9 September",
+          "timestamp": "2024-07-07T15:55:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:RATTLESNAKE, MOJAVE (Crotalus scutulatus) (10-26-11) san rafael grasslands, scc, az -01 (6284324560).jpg",
+          "pageid": 57044084,
+          "size": 709,
+          "wordcount": 45,
+          "snippet": "DescriptionRATTLESNAKE, MOJAVE (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>) (10-26-11) san rafael grasslands, scc, az -01 (6284324560).jpg English: LIZARDS, <span class=\"searchmatch\">SNAKES</span>, FROGS, etc Date 26 October",
+          "timestamp": "2024-06-28T15:53:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Snakes (10.3897-zookeys.735.22200) Figure 7.jpg",
+          "pageid": 95633245,
+          "size": 4337,
+          "wordcount": 1,
+          "snippet": "Diamond-backed Rattlesnake (<span class=\"searchmatch\">Crotalus</span> atrox) G Eastern Black-tailed Rattlesnake (<span class=\"searchmatch\">Crotalus</span> ornatus), and H Mohave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>). Date 6 February",
+          "timestamp": "2023-02-28T23:12:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Crowdsourcing snake identification with online communities of professional herpetologists and avocational snake enthusiasts.pdf",
+          "pageid": 150266022,
+          "size": 1710,
+          "wordcount": 92,
+          "snippet": "DescriptionCrowdsourcing <span class=\"searchmatch\">snake</span> identification with online communities of professional herpetologists and avocational <span class=\"searchmatch\">snake</span> enthusiasts.pdf English: Durso",
+          "timestamp": "2025-04-21T01:52:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:De-Mojave-Klapperschlange.ogg",
+          "pageid": 142681974,
+          "size": 1801,
+          "wordcount": 129,
+          "snippet": "This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit",
+          "timestamp": "2024-06-27T21:25:29Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Venoms; venomous animals and antivenomous serum-therapeutics (1908) (14783102535).jpg",
+          "pageid": 43382552,
+          "size": 6915,
+          "wordcount": 60,
+          "snippet": "irritated <span class=\"searchmatch\">snake</span>, the sound gradually lessens and ceases,to begin again more vigorously when the reptile is once moreapproached. The bite of these <span class=\"searchmatch\">snakes</span> is exceedingly",
+          "timestamp": "2024-03-16T15:32:14Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Poisonous snakes of the United States (IA poisonoussnakeso233usfi).pdf",
+          "pageid": 93933756,
+          "size": 1275,
+          "wordcount": 21,
+          "snippet": "Wildlife Service: Poisonous <span class=\"searchmatch\">snakes</span> of the United States    Author U.S. Fish and Wildlife Service Title Poisonous <span class=\"searchmatch\">snakes</span> of the United States Series title",
+          "timestamp": "2025-01-30T20:43:46Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Catalogue of the snakes in the British Museum (Natural History) .. (IA cu31924024781985).pdf",
+          "pageid": 92175054,
+          "size": 1804,
+          "wordcount": 7,
+          "snippet": "Catalogue of the <span class=\"searchmatch\">snakes</span> in the British Museum (Natural History) ..   (  ) Author British Museum (Natural History). Dept. of Zoology Boulenger, George Albert",
+          "timestamp": "2025-07-28T23:46:15Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual report of the Board of Regents of the Smithsonian Institution (IA annualreportofbo1898smit).pdf",
+          "pageid": 91652147,
+          "size": 1875,
+          "wordcount": 7,
+          "snippet": "catenatus Rafinesque\n<span class=\"searchmatch\">Crotalus</span> molossus Baird aud Girard\n<span class=\"searchmatch\">Crotalus</span> basiliscus Cope. Colima, Mexico\n<span class=\"searchmatch\">Crotalus</span> adamanteus <span class=\"searchmatch\">scutulatus</span> Kennicott. Fort Buchanan",
+          "timestamp": "2025-07-10T04:08:20Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Trimorphodon vilkinsonii.jpg",
+          "pageid": 99873044,
+          "size": 3984,
+          "wordcount": 1,
+          "snippet": "Diamond-backed Rattlesnake (<span class=\"searchmatch\">Crotalus</span> atrox) G Eastern Black-tailed Rattlesnake (<span class=\"searchmatch\">Crotalus</span> ornatus), and H Mohave Rattlesnake (<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>). Date 6 February",
+          "timestamp": "2025-06-20T03:42:59Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:The reptile book (Ditmars, 1915) (IA reptilebookcompr1915ditm).pdf",
+          "pageid": 96020661,
+          "size": 1111,
+          "wordcount": 7,
+          "snippet": "structure and habits of the turtles, tortoises, crocodilians, lizards and <span class=\"searchmatch\">snakes</span> which inhabit the United States and northern Mexico   (  ) Author Ditmars",
+          "timestamp": "2024-12-16T23:36:07Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin of the Essex Institute (IA bulletinofess161884unse).pdf",
+          "pageid": 91947936,
+          "size": 964,
+          "wordcount": 7,
+          "snippet": "Texas to North Carolina.\n(B) Caudisona <span class=\"searchmatch\">scutulatus</span> Kenn., 1861, Pr. Phil. Ac, 207.\n;\n\n;\n\nArizona; Mexico.\n\n(C) <span class=\"searchmatch\">Crotalus</span> atrox B. &amp; G., 1. c, 5, 156.\nTexas",
+          "timestamp": "2024-01-02T13:02:01Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Environmental statement, Ridgecrest Wash Channel, Kern County, California - USACE-p16021coll7-10677.pdf",
+          "pageid": 153201598,
+          "size": 1157,
+          "wordcount": 39,
+          "snippet": "type <span class=\"searchmatch\">snakes</span> and\nlizards such as Mojave Rattlesnake (Crotolus <span class=\"searchmatch\">scutulatus</span>), Bullsnake\n(Pituophis melanoleucus sayi), Mojave Desert Sidewinder (<span class=\"searchmatch\">Crotalus</span> cerastes)",
+          "timestamp": "2025-04-03T11:30:39Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Reptile & amphibian list - BLM Nevada, Las Vegas District (IA reptileamphibian23unit).pdf",
+          "pageid": 92069099,
+          "size": 908,
+          "wordcount": 39,
+          "snippet": "open brush-\n\nland and pinon-juniper.\n\nm\n\n\nMojave rattlesnake\n\n^\n\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>\n\nGreenish-gray with diamond-like pattern\n\ndown\n\nhack, incomplete",
+          "timestamp": "2024-11-15T12:36:34Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Reptiles, poisonous (IA 101714694.nlm.nih.gov).pdf",
+          "pageid": 92788583,
+          "size": 1108,
+          "wordcount": 15,
+          "snippet": "Diamond Rattlesnake.\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> Cope., Scutulated Rattlesnake.\n<span class=\"searchmatch\">Crotalus</span> lucifer Baird and Girard, California Rattle¬\n<span class=\"searchmatch\">snake</span>.\n<span class=\"searchmatch\">Crotalus</span> polystictus Cope",
+          "timestamp": "2024-03-20T00:02:48Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA checklistofnorth00cope).pdf",
+          "pageid": 91951497,
+          "size": 1238,
+          "wordcount": 7,
+          "snippet": "to Sonora and Southern and\n\nLower\n\nCalifornia.\n\n<span class=\"searchmatch\">Crotalus</span> adamanteus, Beauvois, subspecies <span class=\"searchmatch\">scutulatus</span>, Kennicott, Proc.\n\nAcad.\n\nPhila., 1861, p. 207.\n",
+          "timestamp": "2023-12-06T20:34:32Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin of the Essex Institute (IA bulletinofessexi18esse).pdf",
+          "pageid": 98212603,
+          "size": 1024,
+          "wordcount": 21,
+          "snippet": "Texas to North Carolina.\n(B) Caudisona <span class=\"searchmatch\">scutulatus</span> Kenn., 1861, Pr. Phil. Ac., 207.\nArizona; Mexico.\n(C) <span class=\"searchmatch\">Crotalus</span> atrox B. &amp; G., 1. c., 5, 156.\nTexas to",
+          "timestamp": "2024-01-02T13:02:25Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Proceedings of the Academy of Natural Sciences of Philadelphia (IA proceedingsofaca1812acad).pdf",
+          "pageid": 96016905,
+          "size": 1710,
+          "wordcount": 0,
+          "snippet": "P\n\n286\n\nTexas reptiles and their faunal relations. P &#039;03, 543\non <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> Kenn. P &#039;03, 625\n\nPost-glacial\n\n&#039;04,\n\n464\n\n&#039;05,\n\n206\n\nutility\n\ncenters",
+          "timestamp": "2020-12-12T05:06:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Annual reports - Academy of Natural Sciences of Philadelphia (IA annualreportsaca1904acad).pdf",
+          "pageid": 91911141,
+          "size": 1352,
+          "wordcount": 7,
+          "snippet": "Society of Philadelphia. Two spiny soft-shelled Turtles\nViper sp., <span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>,\nspinifer), Zamenis mucosus,\nRough-eyed Caiman (C. sclerops ), Varanus",
+          "timestamp": "2023-08-26T23:56:59Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Venoms; venomous animals and antivenomous serum-therapeutics (IA venomsvenomousan00calm).pdf",
+          "pageid": 97742971,
+          "size": 973,
+          "wordcount": 0,
+          "snippet": "\n—\n— Crotalus <span class=\"searchmatch\">scutulatus</span> (Texas Rattle-<span class=\"searchmatch\">snake</span>)\n— <span class=\"searchmatch\">Crotalus</span> confluentus (Pacific Rattle-<span class=\"searchmatch\">snake</span>).\n— <span class=\"searchmatch\">Crotalus</span> cerastes\n(Horned Rattle-<span class=\"searchmatch\">snake</span>)\n— Skull of Hydras",
+          "timestamp": "2021-05-14T09:02:49Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Bulletin - United States National Museum (IA bulletinunitedst241882unit).pdf",
+          "pageid": 92146239,
+          "size": 1181,
+          "wordcount": 7,
+          "snippet": "Arizona Diamond Rattlesnake.\n1G7.\n\n<span class=\"searchmatch\">CROTALUS</span> ADAMANTEUS <span class=\"searchmatch\">SCUTULATUS</span>\n\n(Beauvois) Cope.\n\nSciitnlated Katrlesnake.\n168.\n\n<span class=\"searchmatch\">CROTALUS</span> LUCIFER\n•\n\n169.\n\nBaird and Girard",
+          "timestamp": "2024-01-02T07:14:24Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Endangered amphibians and reptiles of seven southwestern New Mexico counties (IA endangeredamphib6029belf).pdf",
+          "pageid": 91613629,
+          "size": 1514,
+          "wordcount": 15,
+          "snippet": "Micruroides euryxanthus (Arizona coral snake)\nFamily Viperidae.\nGrotalus <span class=\"searchmatch\">scutulatus</span> <span class=\"searchmatch\">scutulatus</span> (Mohave rattlesnake)........\nGro talus viridis cerberus (Arizona",
+          "timestamp": "2025-07-08T16:43:12Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:A herpetofaunal survey of the Mojave Desert of eastern San Bernardino County, California (IA herpetofaunalsur00brow).pdf",
+          "pageid": 91582222,
+          "size": 1194,
+          "wordcount": 39,
+          "snippet": "RK\n\nU-0\n\n(Crotalus cerastes cerastes)\n\nPL, SD ,WA ,BJ\n\nC\n\n(<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span> <span class=\"searchmatch\">scutulatus</span>)\n\nWA,BJ,MS\n\nC-U\n\n(Gopherus agassizi)\n\nSD.WA.BJ\n\nu-\n\n.\n\n,\n\n,",
+          "timestamp": "2025-01-20T22:53:18Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Report upon the collections of batrachians and reptiles made in portions of Nevada, Utah, California, Colorado, New Mexico, and Arizona, during the years 1871, 1872, 1873, and 1874 (IA 101694524.nlm.nih.gov).pdf",
+          "pageid": 92785089,
+          "size": 1214,
+          "wordcount": 15,
+          "snippet": "Beauv., subspecies <span class=\"searchmatch\">scutulatus</span>, Kennicott.\n<span class=\"searchmatch\">Crotalus</span> luei/cr, Baird &amp; Girard.\n<span class=\"searchmatch\">Crotalus</span> polystictus. Cope.\n<span class=\"searchmatch\">Crotalus</span> conjluentus. Say.\n<span class=\"searchmatch\">Crotalus</span> molossus, Baiud",
+          "timestamp": "2024-03-19T23:39:28Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Distribution, ecology, and habitat management of the reptiles and amphibians of the Hualapi-Aquarius planning area, Mohave and Yavapai Counties, Arizona (IA distributionecol00jone).pdf",
+          "pageid": 91700603,
+          "size": 1204,
+          "wordcount": 15,
+          "snippet": "Ltis getulus\n\nPituophis melanoleucus\n<span class=\"searchmatch\">Crotalus</span> atrox\n<span class=\"searchmatch\">Crotalus</span> cerastes\n<span class=\"searchmatch\">Crotalus</span> molossus\n<span class=\"searchmatch\">Crotalus</span> <span class=\"searchmatch\">scutulatus</span>\n<span class=\"searchmatch\">Crotalus</span> v. cerberus\n\n26\n\n\n,\n\nNocturnal colubrids",
+          "timestamp": "2022-09-23T21:51:25Z"
+        }
+      ]
+    }
+  }
+}

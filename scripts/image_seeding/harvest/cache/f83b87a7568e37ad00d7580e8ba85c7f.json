@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946086004,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3837849": {
+          "pageid": 3837849,
+          "ns": 6,
+          "title": "File:Crotalus scutulatus Mojave.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 168935,
+              "width": 850,
+              "height": 566,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Crotalus_scutulatus_Mojave.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_scutulatus_Mojave.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3837849"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

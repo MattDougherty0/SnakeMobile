@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944200550,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "26070039": {
+          "pageid": 26070039,
+          "ns": 6,
+          "title": "File:Agkistrodon contortrix laticinctus2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 95142,
+              "width": 600,
+              "height": 564,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Agkistrodon_contortrix_laticinctus2.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agkistrodon_contortrix_laticinctus2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26070039"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

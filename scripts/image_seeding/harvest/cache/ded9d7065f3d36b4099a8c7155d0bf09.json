@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944226587,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "4290344": {
+          "pageid": 4290344,
+          "ns": 6,
+          "title": "File:Agkistrodon contortrix2.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2893451,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Agkistrodon_contortrix2.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Agkistrodon_contortrix2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4290344"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

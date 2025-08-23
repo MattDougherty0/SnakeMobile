@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944667877,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "42256265": {
+          "pageid": 42256265,
+          "ns": 6,
+          "title": "File:Blätter für Aquarien- und Terrarien-Kunde (1895) (20392734331).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1715565,
+              "width": 1878,
+              "height": 2950,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bl%C3%A4tter_f%C3%BCr_Aquarien-_und_Terrarien-Kunde_%281895%29_%2820392734331%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bl%C3%A4tter_f%C3%BCr_Aquarien-_und_Terrarien-Kunde_(1895)_(20392734331).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42256265"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945463465,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117658434": {
+          "pageid": 117658434,
+          "ns": 6,
+          "title": "File:Crotalus horridus 130752182.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 900384,
+              "width": 2048,
+              "height": 1605,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crotalus_horridus_130752182.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_horridus_130752182.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117658434"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

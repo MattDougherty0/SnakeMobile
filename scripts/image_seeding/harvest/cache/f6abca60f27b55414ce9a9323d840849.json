@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943868286,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "75475556": {
+          "pageid": 75475556,
+          "ns": 6,
+          "title": "File:Adder (Vipera berus).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3498681,
+              "width": 3223,
+              "height": 2385,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Adder_%28Vipera_berus%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Adder_(Vipera_berus).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=75475556"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

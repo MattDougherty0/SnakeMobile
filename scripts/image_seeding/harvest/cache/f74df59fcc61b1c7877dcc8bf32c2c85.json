@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946538303,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93399999": {
+          "pageid": 93399999,
+          "ns": 6,
+          "title": "File:The New imperial encyclopedia and dictionary;a library of universal knowledge and an unabridged dictionary of the English language under one alphabet;(Vol. 35, SMUGGLING-STRICTURE) (IA newimperialencyc35unse).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 51909894,
+              "width": 1081,
+              "height": 1964,
+              "pagecount": 722,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_New_imperial_encyclopedia_and_dictionary%3Ba_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet%3B%28Vol._35%2C_SMUGGLING-STRICTURE%29_%28IA_newimperialencyc35unse%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_New_imperial_encyclopedia_and_dictionary;a_library_of_universal_knowledge_and_an_unabridged_dictionary_of_the_English_language_under_one_alphabet;(Vol._35,_SMUGGLING-STRICTURE)_(IA_newimperialencyc35unse).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93399999"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

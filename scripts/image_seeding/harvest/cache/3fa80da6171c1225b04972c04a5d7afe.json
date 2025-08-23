@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944654884,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153203419": {
+          "pageid": 153203419,
+          "ns": 6,
+          "title": "File:Final environmental statement- Jacksonville Harbor,(section 1)- Navigation - USACE-p16021coll7-10749.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3355624,
+              "width": 1241,
+              "height": 1643,
+              "pagecount": 100,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Final_environmental_statement-_Jacksonville_Harbor%2C%28section_1%29-_Navigation_-_USACE-p16021coll7-10749.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Final_environmental_statement-_Jacksonville_Harbor,(section_1)-_Navigation_-_USACE-p16021coll7-10749.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153203419"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

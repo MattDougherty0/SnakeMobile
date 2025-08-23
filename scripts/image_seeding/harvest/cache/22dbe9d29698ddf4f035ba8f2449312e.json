@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946310129,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "7928726": {
+          "pageid": 7928726,
+          "ns": 6,
+          "title": "File:CrotalusRuberIMG 3379crop.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1118365,
+              "width": 2586,
+              "height": 1723,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/CrotalusRuberIMG_3379crop.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:CrotalusRuberIMG_3379crop.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7928726"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

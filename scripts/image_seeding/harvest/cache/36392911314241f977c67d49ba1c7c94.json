@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946806780,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "45578440": {
+          "pageid": 45578440,
+          "ns": 6,
+          "title": "File:Black-tailed Rattlesnake - Paradise - Cave Creek Loop - AZ - 2015-08-14at11-03-351 (21637651335).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 201966,
+              "width": 1024,
+              "height": 683,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Black-tailed_Rattlesnake_-_Paradise_-_Cave_Creek_Loop_-_AZ_-_2015-08-14at11-03-351_%2821637651335%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Black-tailed_Rattlesnake_-_Paradise_-_Cave_Creek_Loop_-_AZ_-_2015-08-14at11-03-351_(21637651335).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=45578440"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

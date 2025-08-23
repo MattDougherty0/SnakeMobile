@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947362314,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "118942289": {
+          "pageid": 118942289,
+          "ns": 6,
+          "title": "File:Eastern Diamondback Rattle Snake (6cd86544-2ef1-4288-9adc-e3a866b0e58f).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1757270,
+              "width": 3024,
+              "height": 3024,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Eastern_Diamondback_Rattle_Snake_%286cd86544-2ef1-4288-9adc-e3a866b0e58f%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastern_Diamondback_Rattle_Snake_(6cd86544-2ef1-4288-9adc-e3a866b0e58f).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=118942289"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

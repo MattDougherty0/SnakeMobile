@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943894314,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91899149": {
+          "pageid": 91899149,
+          "ns": 6,
+          "title": "File:Outlines of general zoology (IA outlinesofgenera00gira).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 45471232,
+              "width": 856,
+              "height": 1356,
+              "pagecount": 552,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Outlines_of_general_zoology_%28IA_outlinesofgenera00gira%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Outlines_of_general_zoology_(IA_outlinesofgenera00gira).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91899149"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

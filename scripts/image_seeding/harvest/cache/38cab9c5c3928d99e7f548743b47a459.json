@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944701900,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "94907169": {
+          "pageid": 94907169,
+          "ns": 6,
+          "title": "File:Catalogue of museum of natural history and miscellaneous antiquities, curios, etc. (IA catalogueofmuseu00millrich).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 40369844,
+              "width": 858,
+              "height": 1287,
+              "pagecount": 192,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Catalogue_of_museum_of_natural_history_and_miscellaneous_antiquities%2C_curios%2C_etc._%28IA_catalogueofmuseu00millrich%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_museum_of_natural_history_and_miscellaneous_antiquities,_curios,_etc._(IA_catalogueofmuseu00millrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94907169"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

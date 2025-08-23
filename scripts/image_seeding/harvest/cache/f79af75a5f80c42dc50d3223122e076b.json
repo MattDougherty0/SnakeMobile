@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944219589,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "114338195": {
+          "pageid": 114338195,
+          "ns": 6,
+          "title": "File:Copperhead (Agkistrodon contortrix) (b88f31f0-ba34-409d-a729-2185471ec58a).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2676403,
+              "width": 5184,
+              "height": 3456,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Copperhead_%28Agkistrodon_contortrix%29_%28b88f31f0-ba34-409d-a729-2185471ec58a%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copperhead_(Agkistrodon_contortrix)_(b88f31f0-ba34-409d-a729-2185471ec58a).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=114338195"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

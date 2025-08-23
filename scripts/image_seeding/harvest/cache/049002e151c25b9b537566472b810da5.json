@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945786701,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "105702360": {
+          "pageid": 105702360,
+          "ns": 6,
+          "title": "File:Sidewinder (70161f25-d02c-4469-8249-51ff332bb51b).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12821317,
+              "width": 4653,
+              "height": 3113,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sidewinder_%2870161f25-d02c-4469-8249-51ff332bb51b%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_(70161f25-d02c-4469-8249-51ff332bb51b).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=105702360"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

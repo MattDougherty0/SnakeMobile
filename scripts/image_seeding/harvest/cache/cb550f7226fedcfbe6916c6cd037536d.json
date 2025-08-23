@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943639163,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "69086418": {
+          "pageid": 69086418,
+          "ns": 6,
+          "title": "File:Vipera berus (41912790842).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7168331,
+              "width": 4608,
+              "height": 3456,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vipera_berus_%2841912790842%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_(41912790842).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69086418"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944237595,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "81078215": {
+          "pageid": 81078215,
+          "ns": 6,
+          "title": "File:Copperhead snake (48357073001).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5774884,
+              "width": 4329,
+              "height": 2924,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Copperhead_snake_%2848357073001%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copperhead_snake_(48357073001).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=81078215"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

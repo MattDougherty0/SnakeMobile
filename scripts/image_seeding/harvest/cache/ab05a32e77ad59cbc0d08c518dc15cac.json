@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944662879,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93901995": {
+          "pageid": 93901995,
+          "ns": 6,
+          "title": "File:Vipera aspis taxidermied.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1093827,
+              "width": 2697,
+              "height": 1476,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Vipera_aspis_taxidermied.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_aspis_taxidermied.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93901995"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

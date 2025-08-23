@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944399662,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93829210": {
+          "pageid": 93829210,
+          "ns": 6,
+          "title": "File:Notice of a remarkable specimen of the West India coral Madrepora palmata (IA bulletin-american-museum-natural-history-10-463-464).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3204211,
+              "width": 881,
+              "height": 1368,
+              "pagecount": 20,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Notice_of_a_remarkable_specimen_of_the_West_India_coral_Madrepora_palmata_%28IA_bulletin-american-museum-natural-history-10-463-464%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Notice_of_a_remarkable_specimen_of_the_West_India_coral_Madrepora_palmata_(IA_bulletin-american-museum-natural-history-10-463-464).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93829210"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945390338,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91661849": {
+          "pageid": 91661849,
+          "ns": 6,
+          "title": "File:Books from the Biodiversity Heritage Library (IA recueildobservat21833humb).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 26084508,
+              "width": 960,
+              "height": 1545,
+              "pagecount": 402,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Books_from_the_Biodiversity_Heritage_Library_%28IA_recueildobservat21833humb%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Books_from_the_Biodiversity_Heritage_Library_(IA_recueildobservat21833humb).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91661849"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

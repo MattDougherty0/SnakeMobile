@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944397671,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92709150": {
+          "pageid": 92709150,
+          "ns": 6,
+          "title": "File:The venomous reptiles of the United States, with the treatment of wounds inflicted by them (IA 101161760.nlm.nih.gov).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1050126,
+              "width": 775,
+              "height": 1302,
+              "pagecount": 22,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/The_venomous_reptiles_of_the_United_States%2C_with_the_treatment_of_wounds_inflicted_by_them_%28IA_101161760.nlm.nih.gov%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_venomous_reptiles_of_the_United_States,_with_the_treatment_of_wounds_inflicted_by_them_(IA_101161760.nlm.nih.gov).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92709150"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

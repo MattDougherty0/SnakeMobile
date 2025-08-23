@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944418677,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153700742": {
+          "pageid": 153700742,
+          "ns": 6,
+          "title": "File:Appendix C- Species that may occur at or near Harry S. Truman Dam and Reservoir - USACE-p16021coll7-25256.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 172831,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 11,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Appendix_C-_Species_that_may_occur_at_or_near_Harry_S._Truman_Dam_and_Reservoir_-_USACE-p16021coll7-25256.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Appendix_C-_Species_that_may_occur_at_or_near_Harry_S._Truman_Dam_and_Reservoir_-_USACE-p16021coll7-25256.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153700742"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

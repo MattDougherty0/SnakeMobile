@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944468793,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "16932951": {
+          "pageid": 16932951,
+          "ns": 6,
+          "title": "File:WORKMEN KILLING A WATER MOCCASIN - NARA - 544254.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1677130,
+              "width": 2033,
+              "height": 3000,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/WORKMEN_KILLING_A_WATER_MOCCASIN_-_NARA_-_544254.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:WORKMEN_KILLING_A_WATER_MOCCASIN_-_NARA_-_544254.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16932951"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

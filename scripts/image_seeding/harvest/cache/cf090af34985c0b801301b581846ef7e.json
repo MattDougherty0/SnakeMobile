@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945799704,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "16000318": {
+          "pageid": 16000318,
+          "ns": 6,
+          "title": "File:Sidewinder (Loop).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2596160,
+              "width": 2736,
+              "height": 3648,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Sidewinder_%28Loop%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_(Loop).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16000318"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

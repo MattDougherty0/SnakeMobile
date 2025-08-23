@@ -29,6 +29,10 @@
       "gbif": 10
     }
   },
+  "testing": {
+    "max_species_to_process": 3,
+    "enable_testing_mode": true
+  },
   "scoring": {
     "source_weights": {
       "inaturalist": 1.0,

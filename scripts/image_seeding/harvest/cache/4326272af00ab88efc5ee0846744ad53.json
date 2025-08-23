@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945797698,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "34694343": {
+          "pageid": 34694343,
+          "ns": 6,
+          "title": "File:Neonate sidewinder sidewinding with tracks unlabeled.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6086471,
+              "width": 2565,
+              "height": 2839,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Neonate_sidewinder_sidewinding_with_tracks_unlabeled.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Neonate_sidewinder_sidewinding_with_tracks_unlabeled.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34694343"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

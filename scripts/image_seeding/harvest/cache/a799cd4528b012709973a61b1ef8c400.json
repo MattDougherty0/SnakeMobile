@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946330146,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "48434410": {
+          "pageid": 48434410,
+          "ns": 6,
+          "title": "File:Crotalus ruber male video.ogv",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6625805,
+              "width": 604,
+              "height": 604,
+              "duration": 8.170666666666667,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Crotalus_ruber_male_video.ogv",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_ruber_male_video.ogv",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48434410"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

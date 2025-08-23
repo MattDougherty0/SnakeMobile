@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943626164,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "157317219": {
+          "pageid": 157317219,
+          "ns": 6,
+          "title": "File:Common European viper (Vipera berus) female Pieniny.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 20825241,
+              "width": 6868,
+              "height": 3434,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Common_European_viper_%28Vipera_berus%29_female_Pieniny.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Common_European_viper_(Vipera_berus)_female_Pieniny.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=157317219"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

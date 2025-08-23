@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943916381,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "25359043": {
+          "pageid": 25359043,
+          "ns": 6,
+          "title": "File:Crotalus atrox crotale diamantin ouest 49.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 254619,
+              "width": 827,
+              "height": 591,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Crotalus_atrox_crotale_diamantin_ouest_49.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_atrox_crotale_diamantin_ouest_49.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25359043"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

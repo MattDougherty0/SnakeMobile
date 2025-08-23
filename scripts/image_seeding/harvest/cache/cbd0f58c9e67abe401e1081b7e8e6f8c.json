@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943671174,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "10627094": {
+          "pageid": 10627094,
+          "ns": 6,
+          "title": "File:Vipera nikolski 001.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 764494,
+              "width": 800,
+              "height": 875,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Vipera_nikolski_001.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_nikolski_001.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10627094"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

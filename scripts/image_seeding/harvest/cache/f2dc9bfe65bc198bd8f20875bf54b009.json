@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944402659,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "131424481": {
+          "pageid": 131424481,
+          "ns": 6,
+          "title": "File:Anthropogenic impacts drive niche and conservation metrics of a cryptic rattlesnake on the Colorado Plateau of western North America.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1199937,
+              "width": 1085,
+              "height": 1575,
+              "pagecount": 11,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Anthropogenic_impacts_drive_niche_and_conservation_metrics_of_a_cryptic_rattlesnake_on_the_Colorado_Plateau_of_western_North_America.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anthropogenic_impacts_drive_niche_and_conservation_metrics_of_a_cryptic_rattlesnake_on_the_Colorado_Plateau_of_western_North_America.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=131424481"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

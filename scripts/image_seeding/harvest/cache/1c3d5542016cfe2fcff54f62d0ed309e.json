@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945378280,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92613559": {
+          "pageid": 92613559,
+          "ns": 6,
+          "title": "File:The animal kingdom arranged in conformity with its organization (IA b29337252 0006).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 24799460,
+              "width": 1058,
+              "height": 1837,
+              "pagecount": 438,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/The_animal_kingdom_arranged_in_conformity_with_its_organization_%28IA_b29337252_0006%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_animal_kingdom_arranged_in_conformity_with_its_organization_(IA_b29337252_0006).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92613559"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945802719,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "16000309": {
+          "pageid": 16000309,
+          "ns": 6,
+          "title": "File:Sidewinder (Lifts).JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2608301,
+              "width": 3648,
+              "height": 2736,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sidewinder_%28Lifts%29.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_(Lifts).JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16000309"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

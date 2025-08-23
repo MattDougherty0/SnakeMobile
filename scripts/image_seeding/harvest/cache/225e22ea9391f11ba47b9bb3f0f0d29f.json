@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944466790,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29242914": {
+          "pageid": 29242914,
+          "ns": 6,
+          "title": "File:Eastern Cottonmouth (6070258375).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1952694,
+              "width": 2576,
+              "height": 1932,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Eastern_Cottonmouth_%286070258375%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Eastern_Cottonmouth_(6070258375).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29242914"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

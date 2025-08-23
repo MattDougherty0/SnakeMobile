@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943878288,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "90607817": {
+          "pageid": 90607817,
+          "ns": 6,
+          "title": "File:Vipera berus in Finland.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 550256,
+              "width": 826,
+              "height": 859,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vipera_berus_in_Finland.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_in_Finland.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=90607817"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

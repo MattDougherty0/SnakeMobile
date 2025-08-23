@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947196112,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "159059944": {
+          "pageid": 159059944,
+          "ns": 6,
+          "title": "File:Diamant-Klapperschlange (Crotalus adamanteus), Kopf und Schwanzrassel.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6925139,
+              "width": 3899,
+              "height": 2690,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Diamant-Klapperschlange_%28Crotalus_adamanteus%29%2C_Kopf_und_Schwanzrassel.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Diamant-Klapperschlange_(Crotalus_adamanteus),_Kopf_und_Schwanzrassel.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159059944"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

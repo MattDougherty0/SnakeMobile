@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755947063042,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "18768543": {
+          "pageid": 18768543,
+          "ns": 6,
+          "title": "File:Bothrops asper (Panama).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 418848,
+              "width": 1024,
+              "height": 683,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bothrops_asper_%28Panama%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bothrops_asper_(Panama).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=18768543"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943669172,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "13896045": {
+          "pageid": 13896045,
+          "ns": 6,
+          "title": "File:Warning Sign in Trosley Country Park - geograph.org.uk - 1177083.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 92765,
+              "width": 481,
+              "height": 640,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Warning_Sign_in_Trosley_Country_Park_-_geograph.org.uk_-_1177083.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Warning_Sign_in_Trosley_Country_Park_-_geograph.org.uk_-_1177083.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13896045"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

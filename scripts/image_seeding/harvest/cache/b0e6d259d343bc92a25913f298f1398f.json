@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946014823,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93359297": {
+          "pageid": 93359297,
+          "ns": 6,
+          "title": "File:The treasury of natural history - or, A popular dictionary of zoology (IA b24864201).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 49544824,
+              "width": 695,
+              "height": 1137,
+              "pagecount": 856,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_treasury_of_natural_history_-_or%2C_A_popular_dictionary_of_zoology_%28IA_b24864201%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_treasury_of_natural_history_-_or,_A_popular_dictionary_of_zoology_(IA_b24864201).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93359297"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944467789,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29242903": {
+          "pageid": 29242903,
+          "ns": 6,
+          "title": "File:Cottonmouth (6070263069).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1898663,
+              "width": 2576,
+              "height": 1932,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Cottonmouth_%286070263069%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cottonmouth_(6070263069).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29242903"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

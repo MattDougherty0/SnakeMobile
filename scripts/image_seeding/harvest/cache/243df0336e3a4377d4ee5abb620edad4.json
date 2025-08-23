@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943673182,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "42778855": {
+          "pageid": 42778855,
+          "ns": 6,
+          "title": "File:Serpent à la montagne.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 885402,
+              "width": 2048,
+              "height": 1536,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Serpent_%C3%A0_la_montagne.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Serpent_%C3%A0_la_montagne.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42778855"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

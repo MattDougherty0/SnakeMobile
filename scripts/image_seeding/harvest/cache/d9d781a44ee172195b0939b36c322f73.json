@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944127448,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92788583": {
+          "pageid": 92788583,
+          "ns": 6,
+          "title": "File:Reptiles, poisonous (IA 101714694.nlm.nih.gov).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1752251,
+              "width": 1170,
+              "height": 1629,
+              "pagecount": 19,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Reptiles%2C_poisonous_%28IA_101714694.nlm.nih.gov%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptiles,_poisonous_(IA_101714694.nlm.nih.gov).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92788583"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

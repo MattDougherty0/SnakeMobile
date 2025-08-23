@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944428692,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "153654740": {
+          "pageid": 153654740,
+          "ns": 6,
+          "title": "File:Final environmental statement- Raystown Lake, Raystown Branch Juniata River, Pennsylvania - USACE-p16021coll7-19103.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 11404433,
+              "width": 1258,
+              "height": 1668,
+              "pagecount": 146,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Final_environmental_statement-_Raystown_Lake%2C_Raystown_Branch_Juniata_River%2C_Pennsylvania_-_USACE-p16021coll7-19103.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Final_environmental_statement-_Raystown_Lake,_Raystown_Branch_Juniata_River,_Pennsylvania_-_USACE-p16021coll7-19103.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153654740"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

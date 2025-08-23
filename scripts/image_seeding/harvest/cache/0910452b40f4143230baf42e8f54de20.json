@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945778688,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3837800": {
+          "pageid": 3837800,
+          "ns": 6,
+          "title": "File:Crotalus cerastes in Mojave.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 252466,
+              "width": 1190,
+              "height": 893,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Crotalus_cerastes_in_Mojave.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_cerastes_in_Mojave.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3837800"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

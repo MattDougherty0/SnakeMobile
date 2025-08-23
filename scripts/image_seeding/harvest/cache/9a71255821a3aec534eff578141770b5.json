@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944407677,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "24996597": {
+          "pageid": 24996597,
+          "ns": 6,
+          "title": "File:Americana 1920 Serpents.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 163050,
+              "width": 1081,
+              "height": 1521,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Americana_1920_Serpents.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Americana_1920_Serpents.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=24996597"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

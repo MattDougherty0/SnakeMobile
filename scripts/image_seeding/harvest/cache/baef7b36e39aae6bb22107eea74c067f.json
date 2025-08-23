@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945713588,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92119647": {
+          "pageid": 92119647,
+          "ns": 6,
+          "title": "File:The student's compendium of comparative anatomy (IA 61030590R.nlm.nih.gov).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6289556,
+              "width": 716,
+              "height": 1235,
+              "pagecount": 118,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/The_student%27s_compendium_of_comparative_anatomy_%28IA_61030590R.nlm.nih.gov%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_student%27s_compendium_of_comparative_anatomy_(IA_61030590R.nlm.nih.gov).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92119647"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

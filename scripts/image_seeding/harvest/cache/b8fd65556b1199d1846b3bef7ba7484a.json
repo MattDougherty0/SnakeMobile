@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946333155,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "98393293": {
+          "pageid": 98393293,
+          "ns": 6,
+          "title": "File:Experimental contributions to the toxicology of rattle-snake venom (IA experimentalcont00mitc).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2112065,
+              "width": 802,
+              "height": 1368,
+              "pagecount": 50,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Experimental_contributions_to_the_toxicology_of_rattle-snake_venom_%28IA_experimentalcont00mitc%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Experimental_contributions_to_the_toxicology_of_rattle-snake_venom_(IA_experimentalcont00mitc).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98393293"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

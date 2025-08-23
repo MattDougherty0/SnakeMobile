@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946814788,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "44677146": {
+          "pageid": 44677146,
+          "ns": 6,
+          "title": "File:The reptile book; a comprehensive popularised work on the structure and habits of the turtles, tortoises, crocodilians, lizards and snakes which inhabit the United States and northern Mexico (1915) (14596921140).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 441597,
+              "width": 2224,
+              "height": 1414,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_reptile_book%3B_a_comprehensive_popularised_work_on_the_structure_and_habits_of_the_turtles%2C_tortoises%2C_crocodilians%2C_lizards_and_snakes_which_inhabit_the_United_States_and_northern_Mexico_%281915%29_%2814596921140%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_reptile_book;_a_comprehensive_popularised_work_on_the_structure_and_habits_of_the_turtles,_tortoises,_crocodilians,_lizards_and_snakes_which_inhabit_the_United_States_and_northern_Mexico_(1915)_(14596921140).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44677146"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

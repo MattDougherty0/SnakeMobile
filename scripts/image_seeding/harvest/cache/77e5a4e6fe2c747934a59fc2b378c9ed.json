@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945182170,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9370455": {
+          "pageid": 9370455,
+          "ns": 6,
+          "title": "File:PrairieRattlesnakeYNP.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 582212,
+              "width": 1319,
+              "height": 1999,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PrairieRattlesnakeYNP.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:PrairieRattlesnakeYNP.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9370455"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

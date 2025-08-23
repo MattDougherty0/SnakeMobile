@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944170522,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "43441028": {
+          "pageid": 43441028,
+          "ns": 6,
+          "title": "File:The American Museum journal (c1900-(1918)) (17972748458).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 846043,
+              "width": 1906,
+              "height": 1364,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/The_American_Museum_journal_%28c1900-%281918%29%29_%2817972748458%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_American_Museum_journal_(c1900-(1918))_(17972748458).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43441028"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

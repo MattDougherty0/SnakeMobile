@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944409678,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "69246303": {
+          "pageid": 69246303,
+          "ns": 6,
+          "title": "File:Turtles Snakes Frogs-Knobel.djvu",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1584422,
+              "width": 2440,
+              "height": 1755,
+              "pagecount": 56,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Turtles_Snakes_Frogs-Knobel.djvu",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Turtles_Snakes_Frogs-Knobel.djvu",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69246303"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

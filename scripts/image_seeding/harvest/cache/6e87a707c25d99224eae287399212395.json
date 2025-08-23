@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944685884,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91903918": {
+          "pageid": 91903918,
+          "ns": 6,
+          "title": "File:Proceedings of the Royal Physical Society of Edinburgh (IA proceedingsofroy1606roya).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 34187169,
+              "width": 764,
+              "height": 1241,
+              "pagecount": 508,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Proceedings_of_the_Royal_Physical_Society_of_Edinburgh_%28IA_proceedingsofroy1606roya%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proceedings_of_the_Royal_Physical_Society_of_Edinburgh_(IA_proceedingsofroy1606roya).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91903918"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945801705,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "85652856": {
+          "pageid": 85652856,
+          "ns": 6,
+          "title": "File:Sidewinder SFOT.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 517817,
+              "width": 1920,
+              "height": 1088,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sidewinder_SFOT.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sidewinder_SFOT.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=85652856"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

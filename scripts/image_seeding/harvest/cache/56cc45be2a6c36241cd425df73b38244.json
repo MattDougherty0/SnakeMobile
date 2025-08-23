@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755946446213,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3789204": {
+          "pageid": 3789204,
+          "ns": 6,
+          "title": "File:Klapperschlange 01.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2580776,
+              "width": 3888,
+              "height": 2592,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Klapperschlange_01.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Klapperschlange_01.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3789204"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

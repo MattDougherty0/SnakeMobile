@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945181182,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "40708320": {
+          "pageid": 40708320,
+          "ns": 6,
+          "title": "File:Prairie Rattle Snake.JPG",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3365694,
+              "width": 3456,
+              "height": 2304,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Prairie_Rattle_Snake.JPG",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Prairie_Rattle_Snake.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40708320"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

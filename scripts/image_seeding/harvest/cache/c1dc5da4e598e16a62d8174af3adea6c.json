@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945201183,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92567249": {
+          "pageid": 92567249,
+          "ns": 6,
+          "title": "File:Snake River Birds of Prey National Conservation Area research and monitoring annual report, 1993 (IA snakeriverbirdso07rapt).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 83731729,
+              "width": 625,
+              "height": 827,
+              "pagecount": 382,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Snake_River_Birds_of_Prey_National_Conservation_Area_research_and_monitoring_annual_report%2C_1993_%28IA_snakeriverbirdso07rapt%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_River_Birds_of_Prey_National_Conservation_Area_research_and_monitoring_annual_report,_1993_(IA_snakeriverbirdso07rapt).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92567249"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946828797,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91873260": {
+          "pageid": 91873260,
+          "ns": 6,
+          "title": "File:Report on the United States and Mexican boundary survey ?made under the direction of the secretary of the Interior -by William H. Emory, major First Cavalry, and United States commissioner. (IA mobot31753002023635).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 36977307,
+              "width": 6695,
+              "height": 8604,
+              "pagecount": 205,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Report_on_the_United_States_and_Mexican_boundary_survey_%3Fmade_under_the_direction_of_the_secretary_of_the_Interior_-by_William_H._Emory%2C_major_First_Cavalry%2C_and_United_States_commissioner._%28IA_mobot31753002023635%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Report_on_the_United_States_and_Mexican_boundary_survey_%3Fmade_under_the_direction_of_the_secretary_of_the_Interior_-by_William_H._Emory,_major_First_Cavalry,_and_United_States_commissioner._(IA_mobot31753002023635).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91873260"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

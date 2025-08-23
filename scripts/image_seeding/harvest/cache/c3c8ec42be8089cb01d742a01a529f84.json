@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944456777,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "29361592": {
+          "pageid": 29361592,
+          "ns": 6,
+          "title": "File:Pictures at Back Bay, snakes, etc. 015 (5842570110).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 5825980,
+              "width": 3504,
+              "height": 2336,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pictures_at_Back_Bay%2C_snakes%2C_etc._015_%285842570110%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pictures_at_Back_Bay,_snakes,_etc._015_(5842570110).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=29361592"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

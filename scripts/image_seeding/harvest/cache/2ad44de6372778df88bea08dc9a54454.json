@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943912374,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93081681": {
+          "pageid": 93081681,
+          "ns": 6,
+          "title": "File:Crotalus atrox, Western Diamondback Rattlesnake, Tamaulipas.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6135485,
+              "width": 3600,
+              "height": 1800,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Crotalus_atrox%2C_Western_Diamondback_Rattlesnake%2C_Tamaulipas.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_atrox,_Western_Diamondback_Rattlesnake,_Tamaulipas.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93081681"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

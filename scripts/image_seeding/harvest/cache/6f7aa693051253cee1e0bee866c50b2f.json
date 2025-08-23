@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944707891,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92226062": {
+          "pageid": 92226062,
+          "ns": 6,
+          "title": "File:Tentamen herpetologiae (IA b3040857x).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 12569680,
+              "width": 1712,
+              "height": 2447,
+              "pagecount": 88,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Tentamen_herpetologiae_%28IA_b3040857x%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tentamen_herpetologiae_(IA_b3040857x).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92226062"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

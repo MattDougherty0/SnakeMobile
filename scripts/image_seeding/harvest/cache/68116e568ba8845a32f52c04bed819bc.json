@@ -1,0 +1,34 @@
+{
+  "timestamp": 1755945184178,
+  "data": {
+    "continue": {
+      "iistart": "2015-07-19T16:11:42Z",
+      "continue": "||"
+    },
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "41693454": {
+          "pageid": 41693454,
+          "ns": 6,
+          "title": "File:Annual report of the Board of Regents of the Smithsonian Institution (1898) (17814404414).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 703220,
+              "width": 1990,
+              "height": 3297,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%281898%29_%2817814404414%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_(1898)_(17814404414).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=41693454"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

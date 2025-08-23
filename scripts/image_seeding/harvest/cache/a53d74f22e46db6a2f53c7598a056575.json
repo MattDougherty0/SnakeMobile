@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943775250,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "117284210": {
+          "pageid": 117284210,
+          "ns": 6,
+          "title": "File:Vipera berus, Titisee-Neustadt.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 783727,
+              "width": 1600,
+              "height": 1071,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Vipera_berus%2C_Titisee-Neustadt.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus,_Titisee-Neustadt.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=117284210"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

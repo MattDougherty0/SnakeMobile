@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944451774,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "19987672": {
+          "pageid": 19987672,
+          "ns": 6,
+          "title": "File:Cottonmouth Snake, Gaping.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 62175,
+              "width": 500,
+              "height": 328,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cottonmouth_Snake%2C_Gaping.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cottonmouth_Snake,_Gaping.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=19987672"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

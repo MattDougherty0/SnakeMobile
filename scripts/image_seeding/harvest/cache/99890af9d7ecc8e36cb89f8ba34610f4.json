@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943661177,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "13980546": {
+          "pageid": 13980546,
+          "ns": 6,
+          "title": "File:Snake in the Grass - geograph.org.uk - 1251933.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 128000,
+              "width": 640,
+              "height": 437,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Snake_in_the_Grass_-_geograph.org.uk_-_1251933.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_in_the_Grass_-_geograph.org.uk_-_1251933.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=13980546"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

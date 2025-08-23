@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945763596,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "132923287": {
+          "pageid": 132923287,
+          "ns": 6,
+          "title": "File:2023-06-06, Rattlesnake Lake from Rattlesnake Ledge, 03.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6974255,
+              "width": 4032,
+              "height": 3024,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/2023-06-06%2C_Rattlesnake_Lake_from_Rattlesnake_Ledge%2C_03.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2023-06-06,_Rattlesnake_Lake_from_Rattlesnake_Ledge,_03.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=132923287"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944913967,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "3505410": {
+          "pageid": 3505410,
+          "ns": 6,
+          "title": "File:Rattlesnake Dance 02.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 282906,
+              "width": 762,
+              "height": 572,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Rattlesnake_Dance_02.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rattlesnake_Dance_02.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3505410"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

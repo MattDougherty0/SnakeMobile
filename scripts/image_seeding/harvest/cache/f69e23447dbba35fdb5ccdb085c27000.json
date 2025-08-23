@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943905323,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92641293": {
+          "pageid": 92641293,
+          "ns": 6,
+          "title": "File:A history of British reptiles (IA b30368595 0002).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 4117669,
+              "width": 1297,
+              "height": 2170,
+              "pagecount": 56,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_history_of_British_reptiles_%28IA_b30368595_0002%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_history_of_British_reptiles_(IA_b30368595_0002).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92641293"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

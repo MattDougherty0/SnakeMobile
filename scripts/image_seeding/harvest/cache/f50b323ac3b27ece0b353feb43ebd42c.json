@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943938387,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "57044126": {
+          "pageid": 57044126,
+          "ns": 6,
+          "title": "File:RATTLESNAKE, WESTERN DIAMOND-BACK (Crotalus atrax) (8-27-13) sonoita creek state natural area, scc, az -01 (9611934918).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3899731,
+              "width": 2222,
+              "height": 1481,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/RATTLESNAKE%2C_WESTERN_DIAMOND-BACK_%28Crotalus_atrax%29_%288-27-13%29_sonoita_creek_state_natural_area%2C_scc%2C_az_-01_%289611934918%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:RATTLESNAKE,_WESTERN_DIAMOND-BACK_(Crotalus_atrax)_(8-27-13)_sonoita_creek_state_natural_area,_scc,_az_-01_(9611934918).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57044126"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946650706,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91909450": {
+          "pageid": 91909450,
+          "ns": 6,
+          "title": "File:Annual report (IA annualreport2718zool).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1977353,
+              "width": 837,
+              "height": 1310,
+              "pagecount": 38,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Annual_report_%28IA_annualreport2718zool%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_(IA_annualreport2718zool).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91909450"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

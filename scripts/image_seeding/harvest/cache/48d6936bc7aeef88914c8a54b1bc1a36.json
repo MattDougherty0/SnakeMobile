@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943913380,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "2079403": {
+          "pageid": 2079403,
+          "ns": 6,
+          "title": "File:Crotalus atrox CDC.png",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 7942051,
+              "width": 2540,
+              "height": 2159,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Crotalus_atrox_CDC.png",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Crotalus_atrox_CDC.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2079403"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

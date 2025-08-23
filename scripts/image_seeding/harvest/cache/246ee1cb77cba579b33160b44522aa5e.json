@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945099487,
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "searchinfo": {
+        "totalhits": 2
+      },
+      "search": [
+        {
+          "ns": 6,
+          "title": "File:Crowdsourcing snake identification with online communities of professional herpetologists and avocational snake enthusiasts.pdf",
+          "pageid": 150266022,
+          "size": 1710,
+          "wordcount": 92,
+          "snippet": "DescriptionCrowdsourcing <span class=\"searchmatch\">snake</span> identification with online communities of professional herpetologists and avocational <span class=\"searchmatch\">snake</span> enthusiasts.pdf English: Durso",
+          "timestamp": "2025-04-21T01:52:57Z"
+        },
+        {
+          "ns": 6,
+          "title": "File:Reptile & amphibian list - BLM Nevada, Carson City District (IA reptileamphibian63unit).pdf",
+          "pageid": 92069122,
+          "size": 923,
+          "wordcount": 33,
+          "snippet": "poisonous\n\n<span class=\"searchmatch\">Crotalus</span> cerastes cerastes\n\nsubspecies found in sandy areas of\n\nsouthern Mineral County.\n\nNorthern Pacific rattlesnake\n<span class=\"searchmatch\">Crotalus</span> viridis <span class=\"searchmatch\">oreganus</span>\n\nA",
+          "timestamp": "2024-08-25T12:43:29Z"
+        }
+      ]
+    }
+  }
+}

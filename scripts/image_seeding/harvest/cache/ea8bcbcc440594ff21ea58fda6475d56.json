@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755945472464,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "36555059": {
+          "pageid": 36555059,
+          "ns": 6,
+          "title": "File:A banded rattlesnake (Crotalus horridus) and boa constrictor Wellcome V0022732.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3054476,
+              "width": 2300,
+              "height": 3130,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/A_banded_rattlesnake_%28Crotalus_horridus%29_and_boa_constrictor_Wellcome_V0022732.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_banded_rattlesnake_(Crotalus_horridus)_and_boa_constrictor_Wellcome_V0022732.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36555059"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

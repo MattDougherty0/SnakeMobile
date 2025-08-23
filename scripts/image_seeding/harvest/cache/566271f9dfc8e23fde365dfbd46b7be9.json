@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755946540253,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "91660163": {
+          "pageid": 91660163,
+          "ns": 6,
+          "title": "File:Proceedings of the Zoological Society of London (IA proceedingsofzoo1921447887zool).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 35842617,
+              "width": 816,
+              "height": 1220,
+              "pagecount": 554,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Proceedings_of_the_Zoological_Society_of_London_%28IA_proceedingsofzoo1921447887zool%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Proceedings_of_the_Zoological_Society_of_London_(IA_proceedingsofzoo1921447887zool).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91660163"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

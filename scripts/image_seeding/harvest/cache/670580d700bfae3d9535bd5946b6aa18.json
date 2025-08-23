@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943923387,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "167329397": {
+          "pageid": 167329397,
+          "ns": 6,
+          "title": "File:Reptiland - Crotalus atrox 03.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 6984747,
+              "width": 4000,
+              "height": 3819,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Reptiland_-_Crotalus_atrox_03.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Reptiland_-_Crotalus_atrox_03.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=167329397"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

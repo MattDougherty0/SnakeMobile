@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943946396,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "44555592": {
+          "pageid": 44555592,
+          "ns": 6,
+          "title": "File:Poisonous snakes of the world (Page 207) BHL11739665.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 527830,
+              "width": 2143,
+              "height": 2928,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Poisonous_snakes_of_the_world_%28Page_207%29_BHL11739665.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Poisonous_snakes_of_the_world_(Page_207)_BHL11739665.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44555592"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

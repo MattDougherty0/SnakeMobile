@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943873284,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "9750643": {
+          "pageid": 9750643,
+          "ns": 6,
+          "title": "File:Vipera berus sunbathing in Finland.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 1970815,
+              "width": 2047,
+              "height": 1946,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vipera_berus_sunbathing_in_Finland.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus_sunbathing_in_Finland.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9750643"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

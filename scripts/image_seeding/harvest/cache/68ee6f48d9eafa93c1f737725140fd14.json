@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755944937970,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "152954160": {
+          "pageid": 152954160,
+          "ns": 6,
+          "title": "File:The herpetology of the Wenaha Wildlife Area, Wallowa County, Oregon - USACE-p16021coll3-273.pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 881344,
+              "width": 1275,
+              "height": 1650,
+              "pagecount": 21,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/The_herpetology_of_the_Wenaha_Wildlife_Area%2C_Wallowa_County%2C_Oregon_-_USACE-p16021coll3-273.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_herpetology_of_the_Wenaha_Wildlife_Area,_Wallowa_County,_Oregon_-_USACE-p16021coll3-273.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=152954160"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

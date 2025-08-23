@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945195179,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92071807": {
+          "pageid": 92071807,
+          "ns": 6,
+          "title": "File:Snake River birds of prey research project - annual report, 1989 (IA snakeriverbirdso18snak).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25574418,
+              "width": 627,
+              "height": 829,
+              "pagecount": 164,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Snake_River_birds_of_prey_research_project_-_annual_report%2C_1989_%28IA_snakeriverbirdso18snak%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Snake_River_birds_of_prey_research_project_-_annual_report,_1989_(IA_snakeriverbirdso18snak).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92071807"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

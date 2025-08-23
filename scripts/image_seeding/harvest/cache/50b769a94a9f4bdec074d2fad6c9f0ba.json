@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755943891303,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95257492": {
+          "pageid": 95257492,
+          "ns": 6,
+          "title": "File:Guide to the galleries of reptiles and fishes in the Department of zoology of the British museum (Natural history) Illustrated by 101 woodcuts (IA galleriesreptile00britrich).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 19054272,
+              "width": 758,
+              "height": 1206,
+              "pagecount": 132,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Guide_to_the_galleries_of_reptiles_and_fishes_in_the_Department_of_zoology_of_the_British_museum_%28Natural_history%29_Illustrated_by_101_woodcuts_%28IA_galleriesreptile00britrich%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Guide_to_the_galleries_of_reptiles_and_fishes_in_the_Department_of_zoology_of_the_British_museum_(Natural_history)_Illustrated_by_101_woodcuts_(IA_galleriesreptile00britrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95257492"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

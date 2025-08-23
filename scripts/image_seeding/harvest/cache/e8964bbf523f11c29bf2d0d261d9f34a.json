@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945382293,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "109475455": {
+          "pageid": 109475455,
+          "ns": 6,
+          "title": "File:Forster's catalogue of the animals of North America, or, Faunula americana (microform) (IA cihm 06619).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 2314679,
+              "width": 1129,
+              "height": 1364,
+              "pagecount": 59,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Forster%27s_catalogue_of_the_animals_of_North_America%2C_or%2C_Faunula_americana_%28microform%29_%28IA_cihm_06619%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Forster%27s_catalogue_of_the_animals_of_North_America,_or,_Faunula_americana_(microform)_(IA_cihm_06619).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=109475455"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

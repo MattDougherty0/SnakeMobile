@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943867285,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "95821474": {
+          "pageid": 95821474,
+          "ns": 6,
+          "title": "File:Vipera berus, Skye - img 25297.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3807885,
+              "width": 2816,
+              "height": 1880,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vipera_berus%2C_Skye_-_img_25297.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vipera_berus,_Skye_-_img_25297.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95821474"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

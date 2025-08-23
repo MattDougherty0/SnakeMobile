@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755943635156,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "74136333": {
+          "pageid": 74136333,
+          "ns": 6,
+          "title": "File:Common European Adder - Vipera berus (44154381622).jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 8621393,
+              "width": 5184,
+              "height": 3456,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Common_European_Adder_-_Vipera_berus_%2844154381622%29.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Common_European_Adder_-_Vipera_berus_(44154381622).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=74136333"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

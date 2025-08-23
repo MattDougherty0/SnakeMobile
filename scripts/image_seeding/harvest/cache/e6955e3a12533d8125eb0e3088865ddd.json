@@ -1,0 +1,31 @@
+{
+  "timestamp": 1755944232596,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "128471096": {
+          "pageid": 128471096,
+          "ns": 6,
+          "title": "File:Ferme des Reptiles - Agkistrodon laticinctus.jpg",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 3989973,
+              "width": 3654,
+              "height": 2290,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ferme_des_Reptiles_-_Agkistrodon_laticinctus.jpg",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ferme_des_Reptiles_-_Agkistrodon_laticinctus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128471096"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

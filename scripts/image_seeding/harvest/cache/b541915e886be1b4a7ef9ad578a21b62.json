@@ -1,0 +1,35 @@
+{
+  "timestamp": 1755944653884,
+  "data": {
+    "continue": {
+      "iistart": "2020-08-29T02:14:51Z",
+      "continue": "||"
+    },
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "93640133": {
+          "pageid": 93640133,
+          "ns": 6,
+          "title": "File:FEDLINK - United States Federal Collection (IA biologicalsurvey25bail).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 25284643,
+              "width": 735,
+              "height": 1270,
+              "pagecount": 258,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/FEDLINK_-_United_States_Federal_Collection_%28IA_biologicalsurvey25bail%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:FEDLINK_-_United_States_Federal_Collection_(IA_biologicalsurvey25bail).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93640133"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

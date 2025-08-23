@@ -1,0 +1,32 @@
+{
+  "timestamp": 1755945706624,
+  "data": {
+    "batchcomplete": "",
+    "warnings": {
+      "query": {
+        "*": "Unrecognized value for parameter \"prop\": extmetadata"
+      }
+    },
+    "query": {
+      "pages": {
+        "92430090": {
+          "pageid": 92430090,
+          "ns": 6,
+          "title": "File:Popular natural history - a description of animal life, from the lowest forms up to man (IA popularnaturalhi02kinguoft).pdf",
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "size": 50587916,
+              "width": 941,
+              "height": 1506,
+              "pagecount": 376,
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Popular_natural_history_-_a_description_of_animal_life%2C_from_the_lowest_forms_up_to_man_%28IA_popularnaturalhi02kinguoft%29.pdf",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Popular_natural_history_-_a_description_of_animal_life,_from_the_lowest_forms_up_to_man_(IA_popularnaturalhi02kinguoft).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92430090"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "species": "Crotalus adamanteus",
+    "latitude": 30.3322,
+    "longitude": -81.6557,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Crotalus_adamanteus.jpg",
+    "info": "Eastern diamondback rattlesnake. Highly venomous; seek immediate medical attention if bitten."
+  },
+  {
+    "species": "Crotalus atrox",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Crotalus_atrox_Texas_2008.jpg",
+    "info": "Western diamondback rattlesnake. Venomous; keep distance and call 911 if bitten."
+  },
+  {
+    "species": "Agkistrodon contortrix",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Agkistrodon_contortrix_contortrix_Brazos_Bend_State_Park.JPG",
+    "info": "Copperhead. Venomous; bites require prompt medical evaluation."
+  }
+]

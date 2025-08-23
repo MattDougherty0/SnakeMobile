@@ -1,5 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
+import { imageMap } from '../assets/imageMap';
 
 type Props = {
   scientificName: string;
@@ -12,17 +13,21 @@ type Props = {
 export const SpeciesCard: React.FC<Props> = ({
   scientificName,
   commonName,
-  image: _image,
+  image: imageFilename,
   safetyBlurb,
   nearestMiles,
 }) => {
   const rounded = Math.max(0, Math.round(nearestMiles));
   const accessibilityLabel = `${commonName} (${scientificName}). Venomous. Nearest record about ${rounded} miles away.`;
 
+  const source = imageFilename && imageMap[imageFilename]
+    ? imageMap[imageFilename]
+    : require('../../assets/icon.png');
+
   return (
     <View style={styles.card} accessible accessibilityLabel={accessibilityLabel}>
       <View style={styles.thumbWrap}>
-        <Image source={require('../../assets/icon.png')} style={styles.thumb} />
+        <Image source={source} style={styles.thumb} />
       </View>
       <View style={styles.textWrap}>
         <Text style={styles.title} numberOfLines={1}>

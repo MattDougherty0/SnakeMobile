@@ -198,10 +198,18 @@ async function updateSpeciesInfo() {
     // Create a map of existing species by scientific name
     const existingMap = new Map(existingInfo.map((s: any) => [s.scientific_name, s]));
     
+    // Helper to check if an image file exists for a species entry
+    const imageExists = (entry: any): boolean => {
+      if (!entry?.image) return false;
+      const imagesDir = path.join(__dirname, '../assets/images');
+      return fs.existsSync(path.join(imagesDir, entry.image));
+    };
+    
     // Process top species
     for (const speciesName of TOP_SPECIES) {
-      if (existingMap.has(speciesName)) {
-        console.log(`Skipping ${speciesName} - already exists`);
+      const existing = existingMap.get(speciesName);
+      if (existing && imageExists(existing)) {
+        console.log(`Skipping ${speciesName} - already exists with image file`);
         continue;
       }
       

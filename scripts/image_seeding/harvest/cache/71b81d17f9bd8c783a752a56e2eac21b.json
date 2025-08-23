@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755942148347,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 503374,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30692,
+          503374
+        ],
+        "is_active": true,
+        "name": "Crotalus ornatus",
+        "parent_id": 30692,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30692",
+        "extinct": false,
+        "default_photo": {
+          "id": 98154049,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) jugbayjs, some rights reserved (CC BY-NC), uploaded by jugbayjs",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98154049/square.jpeg",
+          "original_dimensions": {
+            "height": 1417,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "jugbayjs",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98154049/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98154049/medium.jpeg"
+        },
+        "taxon_changes_count": 2,
+        "taxon_schemes_count": 1,
+        "observations_count": 2003,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": 871,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Crotalus_molossus",
+        "complete_rank": "subspecies",
+        "matched_term": "Crotalus ornatus",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Eastern Black-tailed Rattlesnake"
+      }
+    ]
+  }
+}

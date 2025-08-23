@@ -46,9 +46,13 @@ export class INaturalistHarvester {
     
     const taxa: INatTaxon[] = [];
     const errors: string[] = [];
+    let processedCount = 0;
 
     for (const speciesRow of species) {
       try {
+        processedCount++;
+        console.log(`  Processing ${processedCount}/${species.length}: ${speciesRow.canonical_name}`);
+        
         const taxon = await this.findTaxon(speciesRow.canonical_name);
         if (taxon) {
           taxa.push({
@@ -58,14 +62,21 @@ export class INaturalistHarvester {
             matched_name: taxon.name,
             exact_match: taxon.name.toLowerCase() === speciesRow.canonical_name.toLowerCase()
           });
+          console.log(`    ✅ Mapped to taxon ID: ${taxon.id}`);
         } else {
           errors.push(`No taxon found for ${speciesRow.canonical_name}`);
+          console.log(`    ⚠️  No taxon found`);
         }
         
         // Rate limiting
         await this.delay(1000);
       } catch (error) {
-        errors.push(`Error mapping ${speciesRow.canonical_name}: ${error}`);
+        const errorMsg = `Error mapping ${speciesRow.canonical_name}: ${error}`;
+        errors.push(errorMsg);
+        console.log(`    ❌ ${errorMsg}`);
+        
+        // Continue processing other species instead of failing completely
+        continue;
       }
     }
 
@@ -120,12 +131,12 @@ export class INaturalistHarvester {
         const candidates = await this.harvestSpeciesImages(taxon);
         allCandidates.push(...candidates);
         
-        console.log(`  ${taxon.canonical_name}: ${candidates.length} images`);
+        console.log(`  ${taxon.matched_name}: ${candidates.length} images`);
         
         // Rate limiting
         await this.delay(2000);
       } catch (error) {
-        console.warn(`Failed to harvest images for ${taxon.canonical_name}:`, error);
+        console.warn(`Failed to harvest images for ${taxon.matched_name}:`, error);
       }
     }
     

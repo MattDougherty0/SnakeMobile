@@ -69,6 +69,12 @@ export class ImageSeedingPipeline {
         path.join(__dirname, 'taxonomy/species_taxonomy.csv')
       );
       
+      if (taxa.length === 0) {
+        throw new Error('No taxa were mapped successfully. Cannot proceed with image harvesting.');
+      }
+      
+      console.log(`✅ Successfully mapped ${taxa.length} species to iNaturalist taxa`);
+      
       // Step 2: Harvest images from all sources
       const allCandidates = await this.harvestFromAllSources();
       

@@ -33,7 +33,10 @@ export class HttpClient {
       timeout: 30000,
       headers: {
         'User-Agent': 'SnakeMobile-ImageSeeding/1.0'
-      }
+      },
+      // Add additional safeguards
+      maxRedirects: 5,
+      validateStatus: (status) => status < 500 // Don't retry server errors
     });
 
     // Ensure cache directory exists

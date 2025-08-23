@@ -1,0 +1,492 @@
+[
+  {
+    "species_id": "vipera_berus",
+    "taxon_id": 966698,
+    "rank": "species",
+    "matched_name": "Vipera berus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_atrox",
+    "taxon_id": 30764,
+    "rank": "species",
+    "matched_name": "Crotalus atrox",
+    "exact_match": true
+  },
+  {
+    "species_id": "agkistrodon_contortrix",
+    "taxon_id": 912622,
+    "rank": "species",
+    "matched_name": "Agkistrodon contortrix",
+    "exact_match": true
+  },
+  {
+    "species_id": "agkistrodon_piscivorus",
+    "taxon_id": 904170,
+    "rank": "species",
+    "matched_name": "Agkistrodon piscivorus",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_aspis",
+    "taxon_id": 30929,
+    "rank": "species",
+    "matched_name": "Vipera aspis",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_oreganus",
+    "taxon_id": 48268,
+    "rank": "species",
+    "matched_name": "Crotalus oreganus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_viridis",
+    "taxon_id": 81526,
+    "rank": "species",
+    "matched_name": "Crotalus viridis",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_horridus",
+    "taxon_id": 30746,
+    "rank": "species",
+    "matched_name": "Crotalus horridus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_cerastes",
+    "taxon_id": 30751,
+    "rank": "species",
+    "matched_name": "Crotalus cerastes",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_scutulatus",
+    "taxon_id": 30719,
+    "rank": "species",
+    "matched_name": "Crotalus scutulatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_ruber",
+    "taxon_id": 30724,
+    "rank": "species",
+    "matched_name": "Crotalus ruber",
+    "exact_match": true
+  },
+  {
+    "species_id": "gloydius_ussuriensis",
+    "taxon_id": 31056,
+    "rank": "species",
+    "matched_name": "Gloydius ussuriensis",
+    "exact_match": true
+  },
+  {
+    "species_id": "sistrurus_miliarius",
+    "taxon_id": 30983,
+    "rank": "species",
+    "matched_name": "Sistrurus miliarius",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_molossus",
+    "taxon_id": 515948,
+    "rank": "species",
+    "matched_name": "Crotalus molossus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_asper",
+    "taxon_id": 30798,
+    "rank": "species",
+    "matched_name": "Bothrops asper",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_adamanteus",
+    "taxon_id": 53491,
+    "rank": "species",
+    "matched_name": "Crotalus adamanteus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_alternatus",
+    "taxon_id": 539037,
+    "rank": "species",
+    "matched_name": "Bothrops alternatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_durissus",
+    "taxon_id": 30693,
+    "rank": "species",
+    "matched_name": "Crotalus durissus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_jararaca",
+    "taxon_id": 539050,
+    "rank": "species",
+    "matched_name": "Bothrops jararaca",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_pyrrhus",
+    "taxon_id": 539508,
+    "rank": "species",
+    "matched_name": "Crotalus pyrrhus",
+    "exact_match": true
+  },
+  {
+    "species_id": "protobothrops_mucrosquamatus",
+    "taxon_id": 30996,
+    "rank": "species",
+    "matched_name": "Protobothrops mucrosquamatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_atrox",
+    "taxon_id": 49001,
+    "rank": "species",
+    "matched_name": "Bothrops atrox",
+    "exact_match": true
+  },
+  {
+    "species_id": "bitis_arietans",
+    "taxon_id": 30851,
+    "rank": "species",
+    "matched_name": "Bitis arietans",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_lepidus",
+    "taxon_id": 30740,
+    "rank": "species",
+    "matched_name": "Crotalus lepidus",
+    "exact_match": true
+  },
+  {
+    "species_id": "agkistrodon_conanti",
+    "taxon_id": 904173,
+    "rank": "species",
+    "matched_name": "Agkistrodon conanti",
+    "exact_match": true
+  },
+  {
+    "species_id": "trimeresurus_stejnegeri",
+    "taxon_id": 30953,
+    "rank": "species",
+    "matched_name": "Trimeresurus stejnegeri",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_latastei",
+    "taxon_id": 30924,
+    "rank": "species",
+    "matched_name": "Vipera latastei",
+    "exact_match": true
+  },
+  {
+    "species_id": "sistrurus_tergeminus",
+    "taxon_id": 520470,
+    "rank": "species",
+    "matched_name": "Sistrurus tergeminus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_ornatus",
+    "taxon_id": 503374,
+    "rank": "species",
+    "matched_name": "Crotalus ornatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "sistrurus_catenatus",
+    "taxon_id": 520469,
+    "rank": "species",
+    "matched_name": "Sistrurus catenatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothriechis_schlegelii",
+    "taxon_id": 30844,
+    "rank": "species",
+    "matched_name": "Bothriechis schlegelii",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_diporus",
+    "taxon_id": 539036,
+    "rank": "species",
+    "matched_name": "Bothrops diporus",
+    "exact_match": true
+  },
+  {
+    "species_id": "agkistrodon_laticinctus",
+    "taxon_id": 907052,
+    "rank": "species",
+    "matched_name": "Agkistrodon laticinctus",
+    "exact_match": true
+  },
+  {
+    "species_id": "lachesis_muta",
+    "taxon_id": 73840,
+    "rank": "species",
+    "matched_name": "Lachesis muta",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_ammodytes",
+    "taxon_id": 81522,
+    "rank": "species",
+    "matched_name": "Vipera ammodytes",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_renardi",
+    "taxon_id": 114991,
+    "rank": "species",
+    "matched_name": "Vipera renardi",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_jararacussu",
+    "taxon_id": 83877,
+    "rank": "species",
+    "matched_name": "Bothrops jararacussu",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_triseriatus",
+    "taxon_id": 30721,
+    "rank": "species",
+    "matched_name": "Crotalus triseriatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_seoanei",
+    "taxon_id": 30917,
+    "rank": "species",
+    "matched_name": "Vipera seoanei",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_pubescens",
+    "taxon_id": 539421,
+    "rank": "species",
+    "matched_name": "Bothrops pubescens",
+    "exact_match": true
+  },
+  {
+    "species_id": "causus_rhombeatus",
+    "taxon_id": 30820,
+    "rank": "species",
+    "matched_name": "Causus rhombeatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_basiliscus",
+    "taxon_id": 73724,
+    "rank": "species",
+    "matched_name": "Crotalus basiliscus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_tigris",
+    "taxon_id": 30758,
+    "rank": "species",
+    "matched_name": "Crotalus tigris",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_stephensi",
+    "taxon_id": 30737,
+    "rank": "species",
+    "matched_name": "Crotalus stephensi",
+    "exact_match": true
+  },
+  {
+    "species_id": "gloydius_intermedius",
+    "taxon_id": 101505,
+    "rank": "species",
+    "matched_name": "Gloydius intermedius",
+    "exact_match": true
+  },
+  {
+    "species_id": "trimeresurus_albolabris",
+    "taxon_id": 146506,
+    "rank": "species",
+    "matched_name": "Trimeresurus albolabris",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_enyo",
+    "taxon_id": 30748,
+    "rank": "species",
+    "matched_name": "Crotalus enyo",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_bilineatus",
+    "taxon_id": 539411,
+    "rank": "species",
+    "matched_name": "Bothrops bilineatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "porthidium_nasutum",
+    "taxon_id": 31011,
+    "rank": "species",
+    "matched_name": "Porthidium nasutum",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_ravus",
+    "taxon_id": 73729,
+    "rank": "species",
+    "matched_name": "Crotalus ravus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_pricei",
+    "taxon_id": 30729,
+    "rank": "species",
+    "matched_name": "Crotalus pricei",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_neuwiedi",
+    "taxon_id": 539046,
+    "rank": "species",
+    "matched_name": "Bothrops neuwiedi",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_willardi",
+    "taxon_id": 30705,
+    "rank": "species",
+    "matched_name": "Crotalus willardi",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_leucurus",
+    "taxon_id": 95916,
+    "rank": "species",
+    "matched_name": "Bothrops leucurus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_mattogrossensis",
+    "taxon_id": 1119981,
+    "rank": "species",
+    "matched_name": "Bothrops mattogrossensis",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_cerberus",
+    "taxon_id": 30715,
+    "rank": "species",
+    "matched_name": "Crotalus cerberus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_aquilus",
+    "taxon_id": 73723,
+    "rank": "species",
+    "matched_name": "Crotalus aquilus",
+    "exact_match": true
+  },
+  {
+    "species_id": "cerrophidion_godmani",
+    "taxon_id": 30806,
+    "rank": "species",
+    "matched_name": "Cerrophidion godmani",
+    "exact_match": true
+  },
+  {
+    "species_id": "bitis_gabonica",
+    "taxon_id": 30853,
+    "rank": "species",
+    "matched_name": "Bitis gabonica",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_ammodytoides",
+    "taxon_id": 347139,
+    "rank": "species",
+    "matched_name": "Bothrops ammodytoides",
+    "exact_match": true
+  },
+  {
+    "species_id": "porthidium_dunni",
+    "taxon_id": 31020,
+    "rank": "species",
+    "matched_name": "Porthidium dunni",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothrops_itapetiningae",
+    "taxon_id": 539416,
+    "rank": "species",
+    "matched_name": "Bothrops itapetiningae",
+    "exact_match": true
+  },
+  {
+    "species_id": "causus_maculatus",
+    "taxon_id": 96895,
+    "rank": "species",
+    "matched_name": "Causus maculatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "bitis_nasicornis",
+    "taxon_id": 30855,
+    "rank": "species",
+    "matched_name": "Bitis nasicornis",
+    "exact_match": true
+  },
+  {
+    "species_id": "bothriechis_lateralis",
+    "taxon_id": 30845,
+    "rank": "species",
+    "matched_name": "Bothriechis lateralis",
+    "exact_match": true
+  },
+  {
+    "species_id": "echis_carinatus",
+    "taxon_id": 31079,
+    "rank": "species",
+    "matched_name": "Echis carinatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "daboia_palaestinae",
+    "taxon_id": 30922,
+    "rank": "species",
+    "matched_name": "Daboia palaestinae",
+    "exact_match": true
+  },
+  {
+    "species_id": "metlapilcoatlus_mexicanus",
+    "taxon_id": 1119918,
+    "rank": "species",
+    "matched_name": "Metlapilcoatlus mexicanus",
+    "exact_match": true
+  },
+  {
+    "species_id": "tropidolaemus_subannulatus",
+    "taxon_id": 114568,
+    "rank": "species",
+    "matched_name": "Tropidolaemus subannulatus",
+    "exact_match": true
+  },
+  {
+    "species_id": "crotalus_mitchellii",
+    "taxon_id": 605972,
+    "rank": "species",
+    "matched_name": "Crotalus mitchellii",
+    "exact_match": true
+  }
+]

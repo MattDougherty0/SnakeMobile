@@ -1,0 +1,18 @@
+{
+  "completed_species": [
+    "vipera_berus",
+    "crotalus_atrox",
+    "agkistrodon_contortrix",
+    "agkistrodon_piscivorus",
+    "vipera_aspis",
+    "crotalus_oreganus",
+    "crotalus_viridis",
+    "crotalus_helleri",
+    "crotalus_horridus"
+  ],
+  "start_time": "2025-08-23T11:28:44.955Z",
+  "last_updated": "2025-08-23T12:05:40.928Z",
+  "total_species": 0,
+  "errors": [],
+  "current_species": "crotalus_cerastes"
+}

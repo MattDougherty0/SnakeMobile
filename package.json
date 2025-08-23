@@ -16,7 +16,9 @@
     "image:seed:test": "tsx scripts/image_seeding/test.ts",
     "image:seed:test-single": "tsx scripts/image_seeding/test-single.ts",
     "image:seed:test-incremental": "tsx scripts/image_seeding/test-incremental.ts",
-    "image:seed:incremental": "tsx scripts/image_seeding/run-incremental.ts"
+    "image:seed:incremental": "tsx scripts/image_seeding/run-incremental.ts",
+    "image:seed:segmented": "tsx scripts/image_seeding/run-segmented.ts",
+    "image:seed:extend": "tsx scripts/image_seeding/run-extend.ts"
   },
   "dependencies": {
     "expo": "~53.0.22",

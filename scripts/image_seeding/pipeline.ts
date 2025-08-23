@@ -380,4 +380,94 @@ export class ImageSeedingPipeline {
     }
     fs.copyFileSync(manifestPath, webDataPath);
   }
+
+  // New methods for the extend pipeline
+  async getFullSpeciesList(): Promise<string[]> {
+    try {
+      // Read the original Excel file to get all species
+      const xlsx = require('xlsx');
+      const workbook = xlsx.readFile(path.join(__dirname, '../../venommaps/occurrence/combined_records_v4.xlsx'));
+      const sheet = workbook.Sheets[workbook.SheetNames[0]];
+      const data = xlsx.utils.sheet_to_json(sheet);
+      
+      // Extract unique species names
+      const speciesSet = new Set<string>();
+      for (const row of data) {
+        if (row.final_species) {
+          // Convert to lowercase with underscores for consistency
+          const speciesId = row.final_species.toLowerCase().replace(/\s+/g, '_');
+          speciesSet.add(speciesId);
+        }
+      }
+      
+      return Array.from(speciesSet).sort();
+    } catch (error) {
+      console.error('❌ Failed to read original species list:', error);
+      throw error;
+    }
+  }
+
+  async getAlreadyProcessedSpecies(): Promise<string[]> {
+    try {
+      // Read the segment progress to see what we already attempted
+      const progressPath = path.join(__dirname, 'segment-progress.json');
+      if (fs.existsSync(progressPath)) {
+        const data = fs.readFileSync(progressPath, 'utf8');
+        const progress = JSON.parse(data);
+        return progress.completed_species || [];
+      }
+      return [];
+    } catch (error) {
+      console.warn('⚠️  Could not read progress file, assuming no species processed');
+      return [];
+    }
+  }
+
+  async processSpeciesBatch(speciesList: string[]): Promise<void> {
+    console.log(`🔄 Processing batch of ${speciesList.length} species...`);
+    
+    // Create a temporary taxonomy file with just these species
+    const tempTaxonomyPath = path.join(__dirname, 'temp_taxonomy.csv');
+    const tempTaxonomy = speciesList.map(species => ({
+      species_id: species,
+      canonical_name: species.replace(/_/g, ' '),
+      common_name: species.replace(/_/g, ' '),
+      family: 'Unknown',
+      genus: species.split('_')[0]
+    }));
+    
+    // Write temporary taxonomy
+    const csvContent = 'species_id,canonical_name,common_name,family,genus\n' +
+      tempTaxonomy.map(row => Object.values(row).join(',')).join('\n');
+    fs.writeFileSync(tempTaxonomyPath, csvContent);
+    
+    try {
+      // Map taxa for this batch
+      const taxa = await this.inatHarvester.mapTaxa(tempTaxonomyPath);
+      console.log(`✅ Mapped ${taxa.length} taxa for batch`);
+      
+      // Harvest images for this batch
+      const candidates = await this.harvestFromAllSources(taxa);
+      console.log(`🖼️  Harvested ${candidates.length} images for batch`);
+      
+      // Process and select images
+      const speciesImages = await this.imageProcessor.processImages(candidates, tempTaxonomyPath);
+      console.log(`✅ Processed ${speciesImages.length} species for batch`);
+      
+      // Save individual species files
+      for (const speciesData of speciesImages) {
+        const speciesPath = path.join(__dirname, 'out/species', `${speciesData.species_id}.json`);
+        fs.writeFileSync(speciesPath, JSON.stringify(speciesData, null, 2));
+      }
+      
+      // Update main manifest (we'll handle this differently for batches)
+      // For now, just save individual files
+      
+    } finally {
+      // Clean up temporary file
+      if (fs.existsSync(tempTaxonomyPath)) {
+        fs.unlinkSync(tempTaxonomyPath);
+      }
+    }
+  }
 }

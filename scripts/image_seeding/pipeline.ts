@@ -451,7 +451,8 @@ export class ImageSeedingPipeline {
       console.log(`🖼️  Harvested ${candidates.length} images for batch`);
       
       // Process and select images
-      const speciesImages = await this.imageProcessor.processImages(candidates, tempTaxonomyPath);
+      // We need to pass the taxon mapping so the processor can associate images with species
+      const speciesImages = await this.imageProcessor.processImagesWithTaxa(candidates, taxa, tempTaxonomyPath);
       console.log(`✅ Processed ${speciesImages.length} species for batch`);
       
       // Save individual species files

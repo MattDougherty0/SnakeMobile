@@ -42,6 +42,60 @@ export class ImageProcessor {
     return results;
   }
 
+  async processImagesWithTaxa(
+    mediaCandidates: MediaCandidate[],
+    taxa: any[],
+    speciesTaxonomyPath: string
+  ): Promise<SpeciesImages[]> {
+    console.log('🔄 Processing and selecting images with taxon mapping...');
+    
+    // Load species taxonomy
+    const taxonomyData = fs.readFileSync(speciesTaxonomyPath, 'utf8');
+    const species = parse(taxonomyData, { columns: true });
+    
+    // Create a mapping from taxon_id to species_id
+    const taxonToSpeciesMap = new Map<number, string>();
+    for (const taxon of taxa) {
+      taxonToSpeciesMap.set(taxon.taxon_id, taxon.species_id);
+    }
+    
+    // Group candidates by species using taxon_id
+    const speciesGroups: Record<string, MediaCandidate[]> = {};
+    
+    // Initialize groups for all species
+    for (const speciesRow of species) {
+      speciesGroups[speciesRow.species_id] = [];
+    }
+    
+    // Group candidates by matching taxon_id
+    for (const candidate of mediaCandidates) {
+      if (candidate.taxon_id && taxonToSpeciesMap.has(candidate.taxon_id)) {
+        const speciesId = taxonToSpeciesMap.get(candidate.taxon_id)!;
+        if (!speciesGroups[speciesId]) {
+          speciesGroups[speciesId] = [];
+        }
+        speciesGroups[speciesId].push(candidate);
+      }
+    }
+    
+    // Process each species
+    const results: SpeciesImages[] = [];
+    
+    for (const [speciesId, candidates] of Object.entries(speciesGroups)) {
+      try {
+        const processed = await this.processSpeciesImages(speciesId, candidates);
+        if (processed) {
+          results.push(processed);
+        }
+      } catch (error) {
+        console.warn(`Failed to process images for ${speciesId}:`, error);
+      }
+    }
+    
+    console.log(`✅ Processed images for ${results.length} species`);
+    return results;
+  }
+
   private groupBySpecies(
     candidates: MediaCandidate[],
     species: SpeciesTaxonomy[]
@@ -68,7 +122,25 @@ export class ImageProcessor {
   }
 
   private findSpeciesId(candidate: MediaCandidate, species: SpeciesTaxonomy[]): string | null {
-    // Try to match by URL content or metadata
+    // For iNaturalist images, we need to match by the taxon_id that was used to harvest
+    // The candidate should have a taxon_id field from the harvesting process
+    if (candidate.taxon_id && candidate.source === 'inaturalist') {
+      // Find the species that corresponds to this taxon_id
+      // We'll need to look this up from the original mapping
+      // For now, let's try to extract from the URL or metadata
+      const candidateText = JSON.stringify(candidate).toLowerCase();
+      
+      for (const speciesRow of species) {
+        const scientificName = speciesRow.canonical_name.toLowerCase();
+        const commonName = speciesRow.common_name.toLowerCase();
+        
+        if (candidateText.includes(scientificName) || candidateText.includes(commonName)) {
+          return speciesRow.species_id;
+        }
+      }
+    }
+    
+    // Fallback: try to match by URL content or metadata
     const candidateText = JSON.stringify(candidate).toLowerCase();
     
     for (const speciesRow of species) {

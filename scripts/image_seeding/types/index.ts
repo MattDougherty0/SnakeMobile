@@ -32,6 +32,7 @@ export interface MediaCandidate {
   score?: number;
   content_hash?: string;
   metadata?: Record<string, any>;
+  taxon_id?: number; // For tracking which taxon this image belongs to
 }
 
 export interface SpeciesImages {

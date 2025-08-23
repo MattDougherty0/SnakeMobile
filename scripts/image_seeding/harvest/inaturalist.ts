@@ -180,6 +180,7 @@ export class INaturalistHarvester {
             license_url: photo.license_url || '',
             width: photo.original_dimensions?.width,
             height: photo.original_dimensions?.height,
+            taxon_id: taxon.taxon_id, // Add the taxon_id for proper species matching
             metadata: {
               observation_id: obs.id,
               photo_id: photo.id,

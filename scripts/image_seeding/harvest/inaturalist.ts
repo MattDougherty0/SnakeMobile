@@ -38,11 +38,20 @@ export class INaturalistHarvester {
     this.config = config;
   }
 
-  async mapTaxa(speciesTaxonomyPath: string): Promise<INatTaxon[]> {
+  async mapTaxa(speciesTaxonomyPath: string, speciesFilter?: string): Promise<INatTaxon[]> {
     console.log('🔍 Mapping species to iNaturalist taxa...');
     
     const taxonomyData = fs.readFileSync(speciesTaxonomyPath, 'utf8');
-    const species = parse(taxonomyData, { columns: true });
+    let species = parse(taxonomyData, { columns: true });
+    
+    // Filter to specific species if requested
+    if (speciesFilter) {
+      species = species.filter((s: any) => s.species_id === speciesFilter);
+      if (species.length === 0) {
+        throw new Error(`Species '${speciesFilter}' not found in taxonomy`);
+      }
+      console.log(`🎯 Filtered to 1 species: ${species[0].canonical_name}`);
+    }
     
     const taxa: INatTaxon[] = [];
     const errors: string[] = [];

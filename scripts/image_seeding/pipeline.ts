@@ -66,9 +66,21 @@ export class ImageSeedingPipeline {
     
     try {
       // Step 1: Map species to iNaturalist taxa
-      const taxa = await this.inatHarvester.mapTaxa(
-        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
-      );
+      let taxa: INatTaxon[];
+      
+      if (options.species) {
+        // Filter to just the requested species
+        console.log(`🎯 Processing single species: ${options.species}`);
+        taxa = await this.inatHarvester.mapTaxa(
+          path.join(__dirname, 'taxonomy/species_taxonomy.csv'),
+          options.species
+        );
+      } else {
+        // Process all species
+        taxa = await this.inatHarvester.mapTaxa(
+          path.join(__dirname, 'taxonomy/species_taxonomy.csv')
+        );
+      }
       
       if (taxa.length === 0) {
         throw new Error('No taxa were mapped successfully. Cannot proceed with image harvesting.');

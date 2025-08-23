@@ -1,0 +1,62 @@
+{
+  "timestamp": 1755986342280,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 540256,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30941,
+          540256
+        ],
+        "is_active": true,
+        "name": "Trimeresurus gunaleni",
+        "parent_id": 30941,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30941",
+        "extinct": false,
+        "default_photo": {
+          "id": 109010984,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Otto Bylén Claesson, some rights reserved (CC BY-NC), uploaded by Otto Bylén Claesson",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109010984/square.jpeg",
+          "original_dimensions": {
+            "height": 1152,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Otto Bylén Claesson",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109010984/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109010984/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 9,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Trimeresurus_gunaleni",
+        "complete_rank": "subspecies",
+        "matched_term": "Trimeresurus gunaleni",
+        "iconic_taxon_name": "Reptilia"
+      }
+    ]
+  }
+}

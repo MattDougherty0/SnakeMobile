@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755986072484,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 31048,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          31047,
+          31048
+        ],
+        "is_active": true,
+        "name": "Lachesis stenophrys",
+        "parent_id": 31047,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/31047",
+        "extinct": false,
+        "default_photo": {
+          "id": 111998070,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Nicholas Hess, some rights reserved (CC BY-NC), uploaded by Nicholas Hess",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111998070/square.jpg",
+          "original_dimensions": {
+            "height": 1536,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Nicholas Hess",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111998070/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111998070/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 72,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": 3643,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Lachesis_stenophrys",
+        "complete_rank": "subspecies",
+        "matched_term": "Lachesis stenophrys",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Central American Bushmaster"
+      }
+    ]
+  }
+}

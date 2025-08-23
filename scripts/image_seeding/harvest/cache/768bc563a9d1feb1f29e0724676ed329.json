@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755986163612,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 540012,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          31033,
+          540012
+        ],
+        "is_active": true,
+        "name": "Ophryacus sphenophrys",
+        "parent_id": 31033,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/31033",
+        "extinct": false,
+        "default_photo": {
+          "id": 236900335,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Drymarchon Simón, some rights reserved (CC BY-NC), uploaded by Drymarchon Simón",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236900335/square.jpg",
+          "original_dimensions": {
+            "height": 1366,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Drymarchon Simón",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236900335/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/236900335/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 8,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ophryacus_sphenophrys",
+        "complete_rank": "subspecies",
+        "matched_term": "Ophryacus sphenophrys",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Broad-horned Pitviper"
+      }
+    ]
+  }
+}

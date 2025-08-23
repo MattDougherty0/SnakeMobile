@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755985409262,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 30886,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30874,
+          30886
+        ],
+        "is_active": true,
+        "name": "Atheris subocularis",
+        "parent_id": 30874,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30874",
+        "extinct": false,
+        "default_photo": {
+          "id": 162181944,
+          "license_code": "cc-by",
+          "attribution": "(c) Matthew Inabinett, some rights reserved (CC BY), uploaded by Matthew Inabinett",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162181944/square.jpeg",
+          "original_dimensions": {
+            "height": 2048,
+            "width": 1536
+          },
+          "flags": [],
+          "attribution_name": "Matthew Inabinett",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162181944/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162181944/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 1,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Atheris_squamigera",
+        "complete_rank": "subspecies",
+        "matched_term": "Atheris subocularis",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Variable Bush Viper"
+      }
+    ]
+  }
+}

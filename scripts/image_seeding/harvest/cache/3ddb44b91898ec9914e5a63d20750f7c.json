@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755986512939,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 114989,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          114989
+        ],
+        "is_active": true,
+        "name": "Vipera altaica",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "default_photo": {
+          "id": 29836767,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/square.jpg",
+          "original_dimensions": {
+            "height": 707,
+            "width": 950
+          },
+          "flags": [],
+          "attribution_name": "Алексей Эбель",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 10,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_altaica",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera altaica",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Altai Viper"
+      }
+    ]
+  }
+}

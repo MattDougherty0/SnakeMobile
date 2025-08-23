@@ -1,0 +1,74 @@
+{
+  "timestamp": 1755986514009,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 30909,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797529,
+          30889,
+          30909
+        ],
+        "is_active": true,
+        "name": "Vipera anatolica",
+        "parent_id": 30889,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797529/30889",
+        "extinct": false,
+        "default_photo": {
+          "id": 232811873,
+          "license_code": "cc-by",
+          "attribution": "(c) Balkan Mega, some rights reserved (CC BY), uploaded by Balkan Mega",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232811873/square.png",
+          "original_dimensions": {
+            "height": 1518,
+            "width": 2024
+          },
+          "flags": [],
+          "attribution_name": "Balkan Mega",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232811873/square.png",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/232811873/medium.png"
+        },
+        "taxon_changes_count": 2,
+        "taxon_schemes_count": 4,
+        "observations_count": 8,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vipera_anatolica",
+        "complete_rank": "subspecies",
+        "matched_term": "Vipera anatolica",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Anatolian Meadow Viper",
+        "conservation_status": {
+          "id": 12874,
+          "place_id": null,
+          "source_id": 26,
+          "user_id": null,
+          "authority": "IUCN Red List",
+          "status": "cr",
+          "status_name": "critically endangered",
+          "geoprivacy": "obscured",
+          "iucn": 50
+        }
+      }
+    ]
+  }
+}

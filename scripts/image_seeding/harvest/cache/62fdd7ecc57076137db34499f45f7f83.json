@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755985508962,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 30848,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30842,
+          30848
+        ],
+        "is_active": true,
+        "name": "Bothriechis bicolor",
+        "parent_id": 30842,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30842",
+        "extinct": false,
+        "default_photo": {
+          "id": 54981055,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Raúl Trujillo Tovar, some rights reserved (CC BY-NC), uploaded by Raúl Trujillo Tovar",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54981055/square.jpg",
+          "original_dimensions": {
+            "height": 1367,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Raúl Trujillo Tovar",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54981055/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/54981055/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 6,
+        "observations_count": 85,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Bothriechis_bicolor",
+        "complete_rank": "subspecies",
+        "matched_term": "Bothriechis bicolor",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Guatemala Palm Pit Viper"
+      }
+    ]
+  }
+}

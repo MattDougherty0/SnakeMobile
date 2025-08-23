@@ -1,0 +1,62 @@
+{
+  "timestamp": 1755985644347,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 1031592,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30767,
+          1031592
+        ],
+        "is_active": true,
+        "name": "Bothrops monsignifer",
+        "parent_id": 30767,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30767",
+        "extinct": false,
+        "default_photo": {
+          "id": 29358832,
+          "license_code": "cc-by-sa",
+          "attribution": "(c) Ramon and Suzanne Vargas, some rights reserved (CC BY-SA), uploaded by Ramon and Suzanne Vargas",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29358832/square.jpeg",
+          "original_dimensions": {
+            "height": 1365,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Ramon and Suzanne Vargas",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29358832/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29358832/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 1,
+        "observations_count": 12,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bothrops_monsignifer",
+        "complete_rank": "subspecies",
+        "matched_term": "Bothrops monsignifer",
+        "iconic_taxon_name": "Reptilia"
+      }
+    ]
+  }
+}

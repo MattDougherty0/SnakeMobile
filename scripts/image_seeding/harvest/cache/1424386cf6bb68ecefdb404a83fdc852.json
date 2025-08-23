@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755986225776,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 31010,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          31008,
+          31010
+        ],
+        "is_active": true,
+        "name": "Porthidium yucatanicum",
+        "parent_id": 31008,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/31008",
+        "extinct": false,
+        "default_photo": {
+          "id": 58294905,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Pedro E. Nahuat-Cervera, some rights reserved (CC BY-NC), uploaded by Pedro E. Nahuat-Cervera",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58294905/square.jpeg",
+          "original_dimensions": {
+            "height": 981,
+            "width": 1098
+          },
+          "flags": [],
+          "attribution_name": "Pedro E. Nahuat-Cervera",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58294905/square.jpeg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/58294905/medium.jpeg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 6,
+        "observations_count": 133,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": 3644,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Porthidium_yucatanicum",
+        "complete_rank": "subspecies",
+        "matched_term": "Porthidium yucatanicum",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Yucatán Hognose Viper"
+      }
+    ]
+  }
+}

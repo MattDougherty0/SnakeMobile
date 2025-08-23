@@ -458,10 +458,11 @@ export class ImageSeedingPipeline {
       for (const speciesData of speciesImages) {
         const speciesPath = path.join(__dirname, 'out/species', `${speciesData.species_id}.json`);
         fs.writeFileSync(speciesPath, JSON.stringify(speciesData, null, 2));
+        console.log(`💾 Saved ${speciesData.species_id}.json with ${speciesData.images.length} images`);
       }
       
-      // Update main manifest (we'll handle this differently for batches)
-      // For now, just save individual files
+      // Update main manifest incrementally
+      await this.updateMainManifestBatch(speciesImages);
       
     } finally {
       // Clean up temporary file
@@ -469,5 +470,40 @@ export class ImageSeedingPipeline {
         fs.unlinkSync(tempTaxonomyPath);
       }
     }
+  }
+
+  private async updateMainManifestBatch(speciesImages: SpeciesImages[]): Promise<void> {
+    const manifestPath = path.join(__dirname, 'out/species_images.json');
+    let manifest: any = { items: [] };
+    
+    if (fs.existsSync(manifestPath)) {
+      try {
+        manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+      } catch (error) {
+        console.warn('⚠️  Could not parse existing manifest, starting fresh');
+      }
+    }
+    
+    // Add new entries, avoiding duplicates
+    for (const speciesData of speciesImages) {
+      const existingIndex = manifest.items.findIndex((item: any) => item.species_id === speciesData.species_id);
+      if (existingIndex >= 0) {
+        manifest.items[existingIndex] = speciesData;
+      } else {
+        manifest.items.push(speciesData);
+      }
+    }
+    
+    // Save updated manifest
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+    console.log(`📝 Updated main manifest with ${speciesImages.length} species`);
+    
+    // Copy to web data directory
+    const webDataPath = path.join(__dirname, '../../web/data/species_images.json');
+    const webDataDir = path.dirname(webDataPath);
+    if (!fs.existsSync(webDataDir)) {
+      fs.mkdirSync(webDataDir, { recursive: true });
+    }
+    fs.copyFileSync(manifestPath, webDataPath);
   }
 }

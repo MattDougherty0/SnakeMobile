@@ -1,0 +1,62 @@
+{
+  "timestamp": 1755986101423,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 146291,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          145742,
+          146291
+        ],
+        "is_active": true,
+        "name": "Mixcoatlus browni",
+        "parent_id": 145742,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/145742",
+        "extinct": false,
+        "default_photo": {
+          "id": 105534845,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Chris Gruenwald Herp.mx, some rights reserved (CC BY-NC), uploaded by Chris Gruenwald Herp.mx",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105534845/square.jpg",
+          "original_dimensions": {
+            "height": 1536,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Chris Gruenwald Herp.mx",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105534845/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/105534845/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 2,
+        "observations_count": 7,
+        "flag_counts": {
+          "resolved": 0,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": 15831,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Mixcoatlus_browni",
+        "complete_rank": "subspecies",
+        "matched_term": "Mixcoatlus browni",
+        "iconic_taxon_name": "Reptilia"
+      }
+    ]
+  }
+}

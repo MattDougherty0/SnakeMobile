@@ -1,0 +1,63 @@
+{
+  "timestamp": 1755985867940,
+  "data": {
+    "total_results": 1,
+    "page": 1,
+    "per_page": 10,
+    "results": [
+      {
+        "id": 30761,
+        "rank": "species",
+        "rank_level": 10,
+        "iconic_taxon_id": 26036,
+        "ancestor_ids": [
+          48460,
+          1,
+          2,
+          355675,
+          26036,
+          26172,
+          85553,
+          30667,
+          797576,
+          30692,
+          30761
+        ],
+        "is_active": true,
+        "name": "Crotalus polystictus",
+        "parent_id": 30692,
+        "ancestry": "48460/1/2/355675/26036/26172/85553/30667/797576/30692",
+        "extinct": false,
+        "default_photo": {
+          "id": 53602466,
+          "license_code": "cc-by-nc",
+          "attribution": "(c) Ricardo Arredondo T., some rights reserved (CC BY-NC), uploaded by Ricardo Arredondo T.",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53602466/square.jpg",
+          "original_dimensions": {
+            "height": 1366,
+            "width": 2048
+          },
+          "flags": [],
+          "attribution_name": "Ricardo Arredondo T.",
+          "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53602466/square.jpg",
+          "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/53602466/medium.jpg"
+        },
+        "taxon_changes_count": 0,
+        "taxon_schemes_count": 6,
+        "observations_count": 213,
+        "flag_counts": {
+          "resolved": 1,
+          "unresolved": 0
+        },
+        "current_synonymous_taxon_ids": null,
+        "atlas_id": null,
+        "complete_species_count": null,
+        "wikipedia_url": "http://en.wikipedia.org/wiki/Crotalus_polystictus",
+        "complete_rank": "subspecies",
+        "matched_term": "Crotalus polystictus",
+        "iconic_taxon_name": "Reptilia",
+        "preferred_common_name": "Mexican Lancehead Rattlesnake"
+      }
+    ]
+  }
+}

@@ -13,6 +13,7 @@ import {
 } from './types';
 import fs from 'fs';
 import path from 'path';
+import { parse } from 'csv-parse/sync';
 
 export class ImageSeedingPipeline {
   private config: ImageSeedingConfig;
@@ -139,24 +140,32 @@ export class ImageSeedingPipeline {
       this.stats.warnings.push(`iNaturalist: ${error}`);
     }
     
-    // Harvest from Wikimedia Commons
-    try {
-      const commonsCandidates = await this.commonsHarvester.harvestImages(taxa);
-      allCandidates.push(...commonsCandidates);
-      console.log(`✅ Wikimedia Commons: ${commonsCandidates.length} images`);
-    } catch (error) {
-      console.warn('⚠️  Wikimedia Commons harvesting failed:', error);
-      this.stats.warnings.push(`Wikimedia Commons: ${error}`);
+    // Harvest from Wikimedia Commons (if enabled)
+    if (this.config.harvesting?.enable_commons !== false) {
+      try {
+        const commonsCandidates = await this.commonsHarvester.harvestImages(taxa);
+        allCandidates.push(...commonsCandidates);
+        console.log(`✅ Wikimedia Commons: ${commonsCandidates.length} images`);
+      } catch (error) {
+        console.warn('⚠️  Wikimedia Commons harvesting failed:', error);
+        this.stats.warnings.push(`Wikimedia Commons: ${error}`);
+      }
+    } else {
+      console.log('⏭️  Wikimedia Commons harvesting disabled');
     }
     
-    // Harvest from GBIF
-    try {
-      const gbifCandidates = await this.gbifHarvester.harvestImages(taxa);
-      allCandidates.push(...gbifCandidates);
-      console.log(`✅ GBIF: ${gbifCandidates.length} images`);
-    } catch (error) {
-      console.warn('⚠️  GBIF harvesting failed:', error);
-      this.stats.warnings.push(`GBIF: ${error}`);
+    // Harvest from GBIF (if enabled)
+    if (this.config.harvesting?.enable_gbif !== false) {
+      try {
+        const gbifCandidates = await this.gbifHarvester.harvestImages(taxa);
+        allCandidates.push(...gbifCandidates);
+        console.log(`✅ GBIF: ${gbifCandidates.length} images`);
+      } catch (error) {
+        console.warn('⚠️  GBIF harvesting failed:', error);
+        this.stats.warnings.push(`GBIF: ${error}`);
+      }
+    } else {
+      console.log('⏭️  GBIF harvesting disabled');
     }
     
     console.log(`📊 Total images harvested: ${allCandidates.length}`);
@@ -281,5 +290,94 @@ export class ImageSeedingPipeline {
     if (this.stats.warnings.length > 0) {
       console.log(`⚠️  Warnings: ${this.stats.warnings.length}`);
     }
+  }
+
+  async getSpeciesList(): Promise<string[]> {
+    const taxonomyPath = path.join(__dirname, 'taxonomy/species_taxonomy.csv');
+    const taxonomyData = fs.readFileSync(taxonomyPath, 'utf8');
+    const species = parse(taxonomyData, { columns: true });
+    return species.map((s: any) => s.species_id);
+  }
+
+  async processSingleSpecies(speciesId: string): Promise<void> {
+    console.log(`🎯 Processing single species: ${speciesId}`);
+    
+    try {
+      // Step 1: Map just this species to iNaturalist taxon
+      const taxa = await this.inatHarvester.mapTaxa(
+        path.join(__dirname, 'taxonomy/species_taxonomy.csv'),
+        speciesId
+      );
+      
+      if (taxa.length === 0) {
+        throw new Error(`No taxa found for species ${speciesId}`);
+      }
+      
+      console.log(`✅ Mapped ${speciesId} to taxon ID: ${taxa[0].taxon_id}`);
+      
+      // Step 2: Harvest images for just this species
+      const candidates = await this.harvestFromAllSources(taxa);
+      
+      // Step 3: Process and select images
+      const speciesImages = await this.imageProcessor.processImages(
+        candidates,
+        path.join(__dirname, 'taxonomy/species_taxonomy.csv')
+      );
+      
+      // Step 4: Save individual species results
+      await this.saveSpeciesResults(speciesId, speciesImages);
+      
+      console.log(`✅ Completed processing ${speciesId}`);
+      
+    } catch (error) {
+      console.error(`❌ Failed to process ${speciesId}:`, error);
+      throw error;
+    }
+  }
+
+  private async saveSpeciesResults(speciesId: string, speciesImages: SpeciesImages[]): Promise<void> {
+    // Save to individual species file
+    const speciesDir = path.join(__dirname, 'out/species');
+    if (!fs.existsSync(speciesDir)) {
+      fs.mkdirSync(speciesDir, { recursive: true });
+    }
+    
+    const speciesPath = path.join(speciesDir, `${speciesId}.json`);
+    fs.writeFileSync(speciesPath, JSON.stringify(speciesImages, null, 2));
+    
+    // Update the main manifest incrementally
+    await this.updateMainManifest(speciesId, speciesImages);
+  }
+
+  private async updateMainManifest(speciesId: string, speciesImages: SpeciesImages[]): Promise<void> {
+    const manifestPath = path.join(__dirname, 'out/species_images.json');
+    let manifest: any = { items: [] };
+    
+    if (fs.existsSync(manifestPath)) {
+      try {
+        manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+      } catch (error) {
+        console.warn('⚠️  Could not parse existing manifest, starting fresh');
+      }
+    }
+    
+    // Remove existing entry for this species if it exists
+    manifest.items = manifest.items.filter((item: any) => item.species_id !== speciesId);
+    
+    // Add new entry
+    if (speciesImages.length > 0) {
+      manifest.items.push(speciesImages[0]);
+    }
+    
+    // Save updated manifest
+    fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+    
+    // Copy to web data directory
+    const webDataPath = path.join(__dirname, '../../web/data/species_images.json');
+    const webDataDir = path.dirname(webDataPath);
+    if (!fs.existsSync(webDataDir)) {
+      fs.mkdirSync(webDataDir, { recursive: true });
+    }
+    fs.copyFileSync(manifestPath, webDataPath);
   }
 }

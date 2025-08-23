@@ -15,7 +15,8 @@
     "image:seed:refresh": "tsx scripts/image_seeding/run.ts --refresh",
     "image:seed:test": "tsx scripts/image_seeding/test.ts",
     "image:seed:test-single": "tsx scripts/image_seeding/test-single.ts",
-    "image:seed:test-incremental": "tsx scripts/image_seeding/test-incremental.ts"
+    "image:seed:test-incremental": "tsx scripts/image_seeding/test-incremental.ts",
+    "image:seed:incremental": "tsx scripts/image_seeding/run-incremental.ts"
   },
   "dependencies": {
     "expo": "~53.0.22",

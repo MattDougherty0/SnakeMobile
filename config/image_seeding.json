@@ -33,6 +33,11 @@
     "max_species_to_process": 3,
     "enable_testing_mode": true
   },
+  "harvesting": {
+    "enable_commons": false,
+    "enable_gbif": false,
+    "commons_timeout_seconds": 30
+  },
   "scoring": {
     "source_weights": {
       "inaturalist": 1.0,

@@ -28,7 +28,125 @@
     "common_name": "Cottonmouth (Water Moccasin)",
     "image": "agkistrodon_piscivorus.jpg",
     "safety_blurb": "Aggressive when cornered. Do not approach. If bitten, keep calm and call 911."
+  },
+  {
+    "scientific_name": "Vipera berus",
+    "common_name": "Common European Adder",
+    "image": "vipera_berus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call emergency services."
+  },
+  {
+    "scientific_name": "Vipera aspis",
+    "common_name": "European Asp",
+    "image": "vipera_aspis.jpg",
+    "safety_blurb": "Back away slowly. Do not attempt capture. Seek emergency care immediately if bitten."
+  },
+  {
+    "scientific_name": "Crotalus oreganus",
+    "common_name": "Western Rattlesnake",
+    "image": "crotalus_oreganus.jpg",
+    "safety_blurb": "Maintain distance. Hemotoxic venom. If bitten, immobilize and seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus viridis",
+    "common_name": "Prairie Rattlesnake",
+    "image": "crotalus_viridis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm and call emergency services."
+  },
+  {
+    "scientific_name": "Crotalus helleri",
+    "common_name": "Southern Pacific Rattlesnake",
+    "image": "crotalus_helleri.jpg",
+    "safety_blurb": "Back away slowly. Hemotoxic venom. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Crotalus cerastes",
+    "common_name": "Sidewinder",
+    "image": "crotalus_cerastes.jpg",
+    "safety_blurb": "Maintain distance. Hemotoxic venom. If bitten, immobilize and seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus ruber",
+    "common_name": "Red Diamond Rattlesnake",
+    "image": "crotalus_ruber.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm and call emergency services."
+  },
+  {
+    "scientific_name": "Gloydius ussuriensis",
+    "common_name": "Ussuri Mamushi",
+    "image": "gloydius_ussuriensis.jpg",
+    "safety_blurb": "Maintain distance. Hemotoxic venom. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Sistrurus miliarius",
+    "common_name": "Pygmy Rattlesnake",
+    "image": "sistrurus_miliarius.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Crotalus molossus",
+    "common_name": "Black-tailed Rattlesnake",
+    "image": "crotalus_molossus.jpg",
+    "safety_blurb": "Back away slowly. Hemotoxic venom. If bitten, immobilize and seek emergency care."
+  },
+  {
+    "scientific_name": "Bothrops asper",
+    "common_name": "Fer-de-lance",
+    "image": "bothrops_asper.jpg",
+    "safety_blurb": "Extremely dangerous. Keep maximum distance. If bitten, call emergency services immediately."
+  },
+  {
+    "scientific_name": "Crotalus adamanteus",
+    "common_name": "Eastern Diamondback Rattlesnake",
+    "image": "crotalus_adamanteus.jpg",
+    "safety_blurb": "Largest rattlesnake. Keep distance. If bitten, immobilize and call 911 immediately."
+  },
+  {
+    "scientific_name": "Bothrops alternatus",
+    "common_name": "Urutu",
+    "image": "bothrops_alternatus.jpg",
+    "safety_blurb": "Highly venomous. Maintain distance. If bitten, seek emergency medical attention."
+  },
+  {
+    "scientific_name": "Crotalus lutosus",
+    "common_name": "Great Basin Rattlesnake",
+    "image": "crotalus_lutosus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Crotalus durissus",
+    "common_name": "Tropical Rattlesnake",
+    "image": "crotalus_durissus.jpg",
+    "safety_blurb": "Highly venomous. Maintain distance. If bitten, seek immediate emergency care."
+  },
+  {
+    "scientific_name": "Bothrops jararaca",
+    "common_name": "Jararaca",
+    "image": "bothrops_jararaca.jpg",
+    "safety_blurb": "Extremely dangerous. Keep maximum distance. If bitten, call emergency services immediately."
+  },
+  {
+    "scientific_name": "Crotalus pyrrhus",
+    "common_name": "Southwestern Speckled Rattlesnake",
+    "image": "crotalus_pyrrhus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, immobilize and seek medical attention."
+  },
+  {
+    "scientific_name": "Protobothrops mucrosquamatus",
+    "common_name": "Brown Spotted Pit Viper",
+    "image": "protobothrops_mucrosquamatus.jpg",
+    "safety_blurb": "Highly venomous. Maintain distance. If bitten, seek emergency medical care."
+  },
+  {
+    "scientific_name": "Bothrops atrox",
+    "common_name": "Common Lancehead",
+    "image": "bothrops_atrox.jpg",
+    "safety_blurb": "Extremely dangerous. Keep maximum distance. If bitten, call emergency services immediately."
+  },
+  {
+    "scientific_name": "Bitis arietans",
+    "common_name": "Puff Adder",
+    "image": "bitis_arietans.jpg",
+    "safety_blurb": "Highly aggressive. Keep maximum distance. If bitten, seek emergency medical attention immediately."
   }
 ]
-
-

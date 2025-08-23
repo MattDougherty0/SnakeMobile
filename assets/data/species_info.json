@@ -400,5 +400,209 @@
     "common_name": "Midget Faded Rattlesnake",
     "image": "crotalus_concolor.jpg",
     "safety_blurb": "Midget faded rattlesnake. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Porthidium lansbergii",
+    "common_name": "Lansberg's Hognose Viper",
+    "image": "porthidium_lansbergii.jpg",
+    "safety_blurb": "Hognose viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Bitis caudalis",
+    "common_name": "Horned Adder",
+    "image": "bitis_caudalis.jpg",
+    "safety_blurb": "Horned adder. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Vipera ursinii",
+    "common_name": "Orsini's Viper",
+    "image": "vipera_ursinii.jpg",
+    "safety_blurb": "European viper. Keep distance. If bitten, stay calm and call emergency services."
+  },
+  {
+    "scientific_name": "Agkistrodon bilineatus",
+    "common_name": "Cantil",
+    "image": "agkistrodon_bilineatus.jpg",
+    "safety_blurb": "Cantil. Copperhead species. Do not handle. If bitten, call 911 and keep the limb still."
+  },
+  {
+    "scientific_name": "Bitis atropos",
+    "common_name": "Berg Adder",
+    "image": "bitis_atropos.jpg",
+    "safety_blurb": "Berg adder. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus tzabcan",
+    "common_name": "Yucatán Neotropical Rattlesnake",
+    "image": "crotalus_tzabcan.jpg",
+    "safety_blurb": "Yucatán rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Cerastes cerastes",
+    "common_name": "Horned Viper",
+    "image": "cerastes_cerastes.jpg",
+    "safety_blurb": "Horned viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus simus",
+    "common_name": "Middle American Rattlesnake",
+    "image": "crotalus_simus.jpg",
+    "safety_blurb": "Middle American rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Crotalus morulus",
+    "common_name": "Tamaulipan Rock Rattlesnake",
+    "image": "crotalus_morulus.jpg",
+    "safety_blurb": "Tamaulipan rock rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Porthidium ophryomegas",
+    "common_name": "Slender Hognose Viper",
+    "image": "porthidium_ophryomegas.jpg",
+    "safety_blurb": "Slender hognose viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Tropidolaemus wagleri",
+    "common_name": "Wagler's Pit Viper",
+    "image": "tropidolaemus_wagleri.jpg",
+    "safety_blurb": "Wagler's pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Bothrocophias microphthalmus",
+    "common_name": "Small-eyed Lancehead",
+    "image": "bothrocophias_microphthalmus.jpg",
+    "safety_blurb": "Small-eyed lancehead. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Daboia russelii",
+    "common_name": "Russell's Viper",
+    "image": "daboia_russelii.jpg",
+    "safety_blurb": "Russell's viper. Extremely dangerous. Keep maximum distance. If bitten, call emergency services immediately."
+  },
+  {
+    "scientific_name": "Macrovipera lebetinus",
+    "common_name": "Blunt-nosed Viper",
+    "image": "macrovipera_lebetinus.jpg",
+    "safety_blurb": "Blunt-nosed viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus intermedius",
+    "common_name": "Mexican Small-headed Rattlesnake",
+    "image": "crotalus_intermedius.jpg",
+    "safety_blurb": "Mexican small-headed rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Atheris squamigera",
+    "common_name": "Variable Bush Viper",
+    "image": "atheris_squamigera.jpg",
+    "safety_blurb": "Variable bush viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Echis coloratus",
+    "common_name": "Arabian Saw-scaled Viper",
+    "image": "echis_coloratus.jpg",
+    "safety_blurb": "Arabian saw-scaled viper. Extremely dangerous. Keep maximum distance. If bitten, call emergency services immediately."
+  },
+  {
+    "scientific_name": "Hypnale hypnale",
+    "common_name": "Hump-nosed Viper",
+    "image": "hypnale_hypnale.jpg",
+    "safety_blurb": "Hump-nosed viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Crotalus polystictus",
+    "common_name": "Mexican Lance-headed Rattlesnake",
+    "image": "crotalus_polystictus.jpg",
+    "safety_blurb": "Mexican lance-headed rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Bothrops erythromelas",
+    "common_name": "Red-bellied Lancehead",
+    "image": "bothrops_erythromelas.jpg",
+    "safety_blurb": "Red-bellied lancehead. Highly venomous. Keep distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Trimeresurus flavomaculatus",
+    "common_name": "Philippine Pit Viper",
+    "image": "trimeresurus_flavomaculatus.jpg",
+    "safety_blurb": "Philippine pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Bothrops brazili",
+    "common_name": "Brazil's Lancehead",
+    "image": "bothrops_brazili.jpg",
+    "safety_blurb": "Brazil's lancehead. Highly venomous. Keep distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Bothrops fonsecai",
+    "common_name": "Fonseca's Lancehead",
+    "image": "bothrops_fonsecai.jpg",
+    "safety_blurb": "Fonseca's lancehead. Highly venomous. Keep distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Trimeresurus malabaricus",
+    "common_name": "Malabar Pit Viper",
+    "image": "trimeresurus_malabaricus.jpg",
+    "safety_blurb": "Malabar pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Calloselasma rhodostoma",
+    "common_name": "Malayan Pit Viper",
+    "image": "calloselasma_rhodostoma.jpg",
+    "safety_blurb": "Malayan pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Cerrophidion tzotzilorum",
+    "common_name": "Tzotzil Montane Pit Viper",
+    "image": "cerrophidion_tzotzilorum.jpg",
+    "safety_blurb": "Tzotzil montane pit viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Trimeresurus trigonocephalus",
+    "common_name": "Sri Lankan Green Pit Viper",
+    "image": "trimeresurus_trigonocephalus.jpg",
+    "safety_blurb": "Sri Lankan green pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Ophryacus undulatus",
+    "common_name": "Mexican Horned Pit Viper",
+    "image": "ophryacus_undulatus.jpg",
+    "safety_blurb": "Mexican horned pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Bothriechis nigroviridis",
+    "common_name": "Black-speckled Palm Viper",
+    "image": "bothriechis_nigroviridis.jpg",
+    "safety_blurb": "Black-speckled palm viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Metlapilcoatlus nummifer",
+    "common_name": "Mexican Jumping Pit Viper",
+    "image": "metlapilcoatlus_nummifer.jpg",
+    "safety_blurb": "Mexican jumping pit viper. Highly venomous. Keep distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Trimeresurus insularis",
+    "common_name": "Indonesian Pit Viper",
+    "image": "trimeresurus_insularis.jpg",
+    "safety_blurb": "Indonesian pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Porthidium yucatanicum",
+    "common_name": "Yucatán Hognose Viper",
+    "image": "porthidium_yucatanicum.jpg",
+    "safety_blurb": "Yucatán hognose viper. Maintain distance. If bitten, seek immediate medical attention."
+  },
+  {
+    "scientific_name": "Trimeresurus purpureomaculatus",
+    "common_name": "Mangrove Pit Viper",
+    "image": "trimeresurus_purpureomaculatus.jpg",
+    "safety_blurb": "Mangrove pit viper. Highly venomous. Maintain distance. If bitten, seek emergency care."
+  },
+  {
+    "scientific_name": "Crotalus totonacus",
+    "common_name": "Totonacan Rattlesnake",
+    "image": "crotalus_totonacus.jpg",
+    "safety_blurb": "Totonacan rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
   }
 ]

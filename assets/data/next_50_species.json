@@ -1,155 +1,19 @@
 [
   {
-    "scientific_name": "Crotalus lepidus",
-    "count": 1402
-  },
-  {
-    "scientific_name": "Agkistrodon conanti",
-    "count": 1359
-  },
-  {
-    "scientific_name": "Trimeresurus stejnegeri",
-    "count": 1265
-  },
-  {
-    "scientific_name": "Vipera latastei",
-    "count": 1254
-  },
-  {
-    "scientific_name": "Sistrurus tergeminus",
-    "count": 1212
-  },
-  {
-    "scientific_name": "Crotalus ornatus",
-    "count": 1210
-  },
-  {
-    "scientific_name": "Sistrurus catenatus",
-    "count": 1071
-  },
-  {
-    "scientific_name": "Bothriechis schlegelii",
-    "count": 1035
-  },
-  {
-    "scientific_name": "Bothrops diporus",
-    "count": 846
-  },
-  {
-    "scientific_name": "Agkistrodon laticinctus",
-    "count": 759
-  },
-  {
-    "scientific_name": "Lachesis muta",
-    "count": 645
-  },
-  {
-    "scientific_name": "Vipera ammodytes",
-    "count": 633
-  },
-  {
-    "scientific_name": "Vipera renardi",
-    "count": 596
-  },
-  {
     "scientific_name": "Bothrops moojeni",
     "count": 592
-  },
-  {
-    "scientific_name": "Bothrops jararacussu",
-    "count": 588
-  },
-  {
-    "scientific_name": "Crotalus triseriatus",
-    "count": 572
-  },
-  {
-    "scientific_name": "Vipera seoanei",
-    "count": 567
-  },
-  {
-    "scientific_name": "Bothrops pubescens",
-    "count": 525
-  },
-  {
-    "scientific_name": "Causus rhombeatus",
-    "count": 514
-  },
-  {
-    "scientific_name": "Crotalus basiliscus",
-    "count": 476
-  },
-  {
-    "scientific_name": "Crotalus tigris",
-    "count": 450
-  },
-  {
-    "scientific_name": "Crotalus stephensi",
-    "count": 448
-  },
-  {
-    "scientific_name": "Gloydius intermedius",
-    "count": 429
-  },
-  {
-    "scientific_name": "Trimeresurus albolabris",
-    "count": 402
-  },
-  {
-    "scientific_name": "Crotalus enyo",
-    "count": 399
-  },
-  {
-    "scientific_name": "Bothrops bilineatus",
-    "count": 393
-  },
-  {
-    "scientific_name": "Porthidium nasutum",
-    "count": 392
   },
   {
     "scientific_name": "Bothrops pauloensis",
     "count": 386
   },
   {
-    "scientific_name": "Crotalus ravus",
-    "count": 376
-  },
-  {
-    "scientific_name": "Crotalus pricei",
-    "count": 370
-  },
-  {
-    "scientific_name": "Bothrops neuwiedi",
-    "count": 355
-  },
-  {
-    "scientific_name": "Crotalus willardi",
-    "count": 303
-  },
-  {
-    "scientific_name": "Bothrops leucurus",
-    "count": 300
-  },
-  {
     "scientific_name": "Bothrops mattogrossensis",
     "count": 296
   },
   {
-    "scientific_name": "Crotalus cerberus",
-    "count": 275
-  },
-  {
-    "scientific_name": "Crotalus aquilus",
-    "count": 266
-  },
-  {
     "scientific_name": "Cerrophidion godmani",
     "count": 261
-  },
-  {
-    "scientific_name": "Bitis gabonica",
-    "count": 258
   },
   {
     "scientific_name": "Bothrops ammodytoides",
@@ -168,35 +32,171 @@
     "count": 226
   },
   {
-    "scientific_name": "Bitis nasicornis",
-    "count": 223
+    "scientific_name": "Porthidium lansbergii",
+    "count": 180
   },
   {
-    "scientific_name": "Bothriechis lateralis",
-    "count": 216
+    "scientific_name": "Bitis caudalis",
+    "count": 179
   },
   {
-    "scientific_name": "Echis carinatus",
-    "count": 216
+    "scientific_name": "Vipera ursinii",
+    "count": 176
   },
   {
-    "scientific_name": "Daboia palaestinae",
-    "count": 212
+    "scientific_name": "Bothrocophias hyoprora",
+    "count": 170
   },
   {
-    "scientific_name": "Metlapilcoatlus mexicanus",
-    "count": 198
+    "scientific_name": "Bothrops taeniatus",
+    "count": 167
   },
   {
-    "scientific_name": "Tropidolaemus subannulatus",
-    "count": 198
+    "scientific_name": "Agkistrodon bilineatus",
+    "count": 164
   },
   {
-    "scientific_name": "Crotalus mitchellii",
-    "count": 189
+    "scientific_name": "Bitis atropos",
+    "count": 157
   },
   {
-    "scientific_name": "Crotalus concolor",
-    "count": 188
+    "scientific_name": "Crotalus tzabcan",
+    "count": 156
+  },
+  {
+    "scientific_name": "Cerastes cerastes",
+    "count": 156
+  },
+  {
+    "scientific_name": "Bothrops cotiara",
+    "count": 152
+  },
+  {
+    "scientific_name": "Crotalus simus",
+    "count": 148
+  },
+  {
+    "scientific_name": "Causus defilippii",
+    "count": 146
+  },
+  {
+    "scientific_name": "Crotalus morulus",
+    "count": 145
+  },
+  {
+    "scientific_name": "Porthidium ophryomegas",
+    "count": 145
+  },
+  {
+    "scientific_name": "Tropidolaemus wagleri",
+    "count": 145
+  },
+  {
+    "scientific_name": "Causus lichtensteinii",
+    "count": 139
+  },
+  {
+    "scientific_name": "Bothrocophias microphthalmus",
+    "count": 134
+  },
+  {
+    "scientific_name": "Daboia russelii",
+    "count": 134
+  },
+  {
+    "scientific_name": "Macrovipera lebetinus",
+    "count": 134
+  },
+  {
+    "scientific_name": "Crotalus intermedius",
+    "count": 133
+  },
+  {
+    "scientific_name": "Cerrophidion wilsoni",
+    "count": 133
+  },
+  {
+    "scientific_name": "Atheris squamigera",
+    "count": 127
+  },
+  {
+    "scientific_name": "Echis coloratus",
+    "count": 125
+  },
+  {
+    "scientific_name": "Echis ocellatus",
+    "count": 120
+  },
+  {
+    "scientific_name": "Hypnale hypnale",
+    "count": 118
+  },
+  {
+    "scientific_name": "Crotalus polystictus",
+    "count": 114
+  },
+  {
+    "scientific_name": "Bothrops erythromelas",
+    "count": 112
+  },
+  {
+    "scientific_name": "Trimeresurus flavomaculatus",
+    "count": 111
+  },
+  {
+    "scientific_name": "Crotalus culminatus",
+    "count": 105
+  },
+  {
+    "scientific_name": "Bothrops brazili",
+    "count": 99
+  },
+  {
+    "scientific_name": "Bothrops fonsecai",
+    "count": 99
+  },
+  {
+    "scientific_name": "Trimeresurus malabaricus",
+    "count": 99
+  },
+  {
+    "scientific_name": "Calloselasma rhodostoma",
+    "count": 87
+  },
+  {
+    "scientific_name": "Cerrophidion tzotzilorum",
+    "count": 86
+  },
+  {
+    "scientific_name": "Trimeresurus trigonocephalus",
+    "count": 86
+  },
+  {
+    "scientific_name": "Ophryacus undulatus",
+    "count": 84
+  },
+  {
+    "scientific_name": "Bothriechis nigroviridis",
+    "count": 83
+  },
+  {
+    "scientific_name": "Metlapilcoatlus nummifer",
+    "count": 83
+  },
+  {
+    "scientific_name": "Trimeresurus insularis",
+    "count": 83
+  },
+  {
+    "scientific_name": "Porthidium yucatanicum",
+    "count": 83
+  },
+  {
+    "scientific_name": "Trimeresurus purpureomaculatus",
+    "count": 82
+  },
+  {
+    "scientific_name": "Crotalus totonacus",
+    "count": 75
   }
 ]

@@ -17,7 +17,8 @@
     "types": [
       "react",
       "react-native",
-      "expo"
+      "expo",
+      "node"
     ]
   },
   "extends": "expo/tsconfig.base"

@@ -1,0 +1,47 @@
+{
+  "allowed_licenses": ["CC0", "CC BY", "CC BY-SA"],
+  "disallowed_licenses": ["CC BY-NC", "All Rights Reserved", "Unknown"],
+  "concurrency": {
+    "inaturalist": 3,
+    "commons": 2,
+    "gbif": 2
+  },
+  "rate_limits": {
+    "inaturalist": {
+      "requests_per_minute": 60,
+      "delay_between_requests": 1000
+    },
+    "commons": {
+      "requests_per_minute": 30,
+      "delay_between_requests": 2000
+    },
+    "gbif": {
+      "requests_per_minute": 20,
+      "delay_between_requests": 3000
+    }
+  },
+  "image_requirements": {
+    "min_dimension": 800,
+    "desired_per_species": 3,
+    "max_per_source_per_species": {
+      "inaturalist": 10,
+      "commons": 10,
+      "gbif": 10
+    }
+  },
+  "scoring": {
+    "source_weights": {
+      "inaturalist": 1.0,
+      "commons": 0.9,
+      "gbif": 0.7
+    },
+    "dimension_boost": 0.3,
+    "faves_boost": 0.2
+  },
+  "cache": {
+    "enable_disk_caching": true,
+    "cache_ttl_hours": 24,
+    "download_images": true,
+    "image_formats": ["jpg", "png", "webp"]
+  }
+}

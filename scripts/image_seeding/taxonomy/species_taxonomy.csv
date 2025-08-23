@@ -1,0 +1,74 @@
+species_id,canonical_name,common_name,family,genus
+vipera_berus,Vipera berus,Common European Adder,Viperidae,Vipera
+crotalus_atrox,Crotalus atrox,Western Diamondback Rattlesnake,Viperidae,Crotalus
+agkistrodon_contortrix,Agkistrodon contortrix,Eastern Copperhead,Viperidae,Agkistrodon
+agkistrodon_piscivorus,Agkistrodon piscivorus,Cottonmouth (Water Moccasin),Viperidae,Agkistrodon
+vipera_aspis,Vipera aspis,European Asp,Viperidae,Vipera
+crotalus_oreganus,Crotalus oreganus,Western Rattlesnake,Viperidae,Crotalus
+crotalus_viridis,Crotalus viridis,Prairie Rattlesnake,Viperidae,Crotalus
+crotalus_helleri,Crotalus helleri,Southern Pacific Rattlesnake,Viperidae,Crotalus
+crotalus_horridus,Crotalus horridus,Timber Rattlesnake,Viperidae,Crotalus
+crotalus_cerastes,Crotalus cerastes,Sidewinder,Viperidae,Crotalus
+crotalus_scutulatus,Crotalus scutulatus,Mojave Rattlesnake,Viperidae,Crotalus
+crotalus_ruber,Crotalus ruber,Red Diamond Rattlesnake,Viperidae,Crotalus
+gloydius_ussuriensis,Gloydius ussuriensis,Ussuri Mamushi,Viperidae,Gloydius
+sistrurus_miliarius,Sistrurus miliarius,Pygmy Rattlesnake,Viperidae,Sistrurus
+crotalus_molossus,Crotalus molossus,Black-tailed Rattlesnake,Viperidae,Crotalus
+bothrops_asper,Bothrops asper,Fer-de-lance,Viperidae,Bothrops
+crotalus_adamanteus,Crotalus adamanteus,Eastern Diamondback Rattlesnake,Viperidae,Crotalus
+bothrops_alternatus,Bothrops alternatus,Urutu,Viperidae,Bothrops
+crotalus_lutosus,Crotalus lutosus,Great Basin Rattlesnake,Viperidae,Crotalus
+crotalus_durissus,Crotalus durissus,Tropical Rattlesnake,Viperidae,Crotalus
+bothrops_jararaca,Bothrops jararaca,Jararaca,Viperidae,Bothrops
+crotalus_pyrrhus,Crotalus pyrrhus,Southwestern Speckled Rattlesnake,Viperidae,Crotalus
+protobothrops_mucrosquamatus,Protobothrops mucrosquamatus,Brown Spotted Pit Viper,Viperidae,Protobothrops
+bothrops_atrox,Bothrops atrox,Common Lancehead,Viperidae,Bothrops
+bitis_arietans,Bitis arietans,Puff Adder,Viperidae,Bitis
+crotalus_lepidus,Crotalus lepidus,Rock Rattlesnake,Viperidae,Crotalus
+agkistrodon_conanti,Agkistrodon conanti,Conant's Moccasin,Viperidae,Agkistrodon
+trimeresurus_stejnegeri,Trimeresurus stejnegeri,Stejneger's Pit Viper,Viperidae,Trimeresurus
+vipera_latastei,Vipera latastei,Lataste's Viper,Viperidae,Vipera
+sistrurus_tergeminus,Sistrurus tergeminus,Desert Massasauga,Viperidae,Sistrurus
+crotalus_ornatus,Crotalus ornatus,Ornate Black-tailed Rattlesnake,Viperidae,Crotalus
+sistrurus_catenatus,Sistrurus catenatus,Eastern Massasauga,Viperidae,Sistrurus
+bothriechis_schlegelii,Bothriechis schlegelii,Eyelash Viper,Viperidae,Bothriechis
+bothrops_diporus,Bothrops diporus,Chaco Lancehead,Viperidae,Bothrops
+agkistrodon_laticinctus,Agkistrodon laticinctus,Broad-banded Copperhead,Viperidae,Agkistrodon
+lachesis_muta,Lachesis muta,Bushmaster,Viperidae,Lachesis
+vipera_ammodytes,Vipera ammodytes,Nose-horned Viper,Viperidae,Vipera
+vipera_renardi,Vipera renardi,Steppe Viper,Viperidae,Vipera
+bothrops_jararacussu,Bothrops jararacussu,Jararacussu,Viperidae,Bothrops
+crotalus_triseriatus,Crotalus triseriatus,Transvolcanic Rattlesnake,Viperidae,Crotalus
+vipera_seoanei,Vipera seoanei,Seoane's Viper,Viperidae,Vipera
+bothrops_pubescens,Bothrops pubescens,Pampas Lancehead,Viperidae,Bothrops
+causus_rhombeatus,Causus rhombeatus,Rhombic Night Adder,Viperidae,Causus
+crotalus_basiliscus,Crotalus basiliscus,Mexican West Coast Rattlesnake,Viperidae,Crotalus
+crotalus_tigris,Crotalus tigris,Tiger Rattlesnake,Viperidae,Crotalus
+crotalus_stephensi,Crotalus stephensi,Panamint Rattlesnake,Viperidae,Crotalus
+gloydius_intermedius,Gloydius intermedius,Central Asian Pit Viper,Viperidae,Gloydius
+trimeresurus_albolabris,Trimeresurus albolabris,White-lipped Pit Viper,Viperidae,Trimeresurus
+crotalus_enyo,Crotalus enyo,Baja California Rattlesnake,Viperidae,Crotalus
+bothrops_bilineatus,Bothrops bilineatus,Two-striped Lancehead,Viperidae,Bothrops
+porthidium_nasutum,Porthidium nasutum,Hognose Viper,Viperidae,Porthidium
+crotalus_ravus,Crotalus ravus,Mexican Pygmy Rattlesnake,Viperidae,Crotalus
+crotalus_pricei,Crotalus pricei,Twin-spotted Rattlesnake,Viperidae,Crotalus
+bothrops_neuwiedi,Bothrops neuwiedi,Neuwied's Lancehead,Viperidae,Bothrops
+crotalus_willardi,Crotalus willardi,Ridge-nosed Rattlesnake,Viperidae,Crotalus
+bothrops_leucurus,Bothrops leucurus,White-tailed Lancehead,Viperidae,Bothrops
+bothrops_mattogrossensis,Bothrops mattogrossensis,Mato Grosso Lancehead,Viperidae,Bothrops
+crotalus_cerberus,Crotalus cerberus,Arizona Black Rattlesnake,Viperidae,Crotalus
+crotalus_aquilus,Crotalus aquilus,Querétaro Dusky Rattlesnake,Viperidae,Crotalus
+cerrophidion_godmani,Cerrophidion godmani,Godman's Montane Pit Viper,Viperidae,Cerrophidion
+bitis_gabonica,Bitis gabonica,Gaboon Viper,Viperidae,Bitis
+bothrops_ammodytoides,Bothrops ammodytoides,Patagonian Lancehead,Viperidae,Bothrops
+porthidium_dunni,Porthidium dunni,Dunn's Hognose Viper,Viperidae,Porthidium
+bothrops_itapetiningae,Bothrops itapetiningae,Itapetininga Lancehead,Viperidae,Bothrops
+causus_maculatus,Causus maculatus,Spotted Night Adder,Viperidae,Causus
+bitis_nasicornis,Bitis nasicornis,Rhinoceros Viper,Viperidae,Bitis
+bothriechis_lateralis,Bothriechis lateralis,Side-striped Palm Viper,Viperidae,Bothriechis
+echis_carinatus,Echis carinatus,Saw-scaled Viper,Viperidae,Echis
+daboia_palaestinae,Daboia palaestinae,Palestine Viper,Viperidae,Daboia
+metlapilcoatlus_mexicanus,Metlapilcoatlus mexicanus,Mexican Jumping Pit Viper,Viperidae,Metlapilcoatlus
+tropidolaemus_subannulatus,Tropidolaemus subannulatus,Bornean Keeled Pit Viper,Viperidae,Tropidolaemus
+crotalus_mitchellii,Crotalus mitchellii,Speckled Rattlesnake,Viperidae,Crotalus
+crotalus_concolor,Crotalus concolor,Midget Faded Rattlesnake,Viperidae,Crotalus

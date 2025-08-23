@@ -1,0 +1,34 @@
+[
+  {
+    "scientific_name": "Crotalus atrox",
+    "common_name": "Western Diamondback Rattlesnake",
+    "image": "crotalus_atrox.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Agkistrodon contortrix",
+    "common_name": "Eastern Copperhead",
+    "image": "agkistrodon_contortrix.jpg",
+    "safety_blurb": "Copperheads are often camouflaged. Do not handle. If bitten, call 911 and keep the limb still."
+  },
+  {
+    "scientific_name": "Crotalus horridus",
+    "common_name": "Timber Rattlesnake",
+    "image": "crotalus_horridus.jpg",
+    "safety_blurb": "Back away slowly. Do not attempt capture. Seek emergency care immediately if bitten."
+  },
+  {
+    "scientific_name": "Crotalus scutulatus",
+    "common_name": "Mojave Rattlesnake",
+    "image": "crotalus_scutulatus.jpg",
+    "safety_blurb": "Neurotoxic venom possible. Maintain distance; if bitten, call 911 without delay."
+  },
+  {
+    "scientific_name": "Agkistrodon piscivorus",
+    "common_name": "Cottonmouth (Water Moccasin)",
+    "image": "agkistrodon_piscivorus.jpg",
+    "safety_blurb": "Aggressive when cornered. Do not approach. If bitten, keep calm and call 911."
+  }
+]
+
+

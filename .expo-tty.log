@@ -1,0 +1,47 @@
+^D[1G[0K⠙[1G[0K[90mStarting project at /Users/mattdougherty/Desktop/Old Projects/SnakeMobile[39m
+[2mStarting Metro Bundler[22m
+[33m[33mUnable to run simctl:[39m
+[33mError: xcrun simctl help exited with non-zero code: 72[39m[39m
+Tunnel connected.
+Tunnel ready.
+[33m[33mThe following packages should be updated for best compatibility with the installed [1mexpo[22m version:[39m[39m
+[33m[33m  [1mreact-native[22m[36m@[39m[33m[31m0.79.6[39m[33m - expected version: [32m0.79.5[39m[33m[39m[39m
+[33m[33mYour project may not work correctly until you install the expected versions of the packages.[39m[39m
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄██████▄██▄▄█ ▄▄▄▄▄ █
+█ █   █ █ ▀█ ▄    ▀ ▄ █ █   █ █
+█ █▄▄▄█ █▄ ▄▄▀█▄▄▄█▀ ▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄▀▄█▄█▄▀ ▀▄█▄▄▄▄▄▄▄█
+█   ▄▀█▄▀▄▀████ ▄  █▀▀ ▀▀ ▄ █ █
+█ ▀▄█ █▄ ▀██▀▀▀███▄█▀▀ █ █▀██▀█
+█▀▀  █▄▄▄▄ ▀ █▀▀ ▀   █▄▀██▀▄ ▀█
+█▀█▄█▄█▄▄ ▄ █ ▀▄█ █▀▄▄▄█▀ █▄ ▄█
+██ ██▀▀▄█ ██▄▀▀█ ▀▀▀▄▀▄█ ▄█▀▀▄█
+█▄█▀▄▀▄▄ █▀▄▄ ██▄█▀▄▀█ █▀▀  ▀██
+██▄██▄▄▄▄  ▀▄  ▀█▀▄██ ▄▄▄ █   █
+█ ▄▄▄▄▄ ██ ▀▄▄▄██▀▄▀▄ █▄█ ▄▄ ██
+█ █   █ █▀  ▀ █ ▀ ▄▄▀▄ ▄  █ █▀█
+█ █▄▄▄█ █ █  █▄▀▀▀▄ █ █▀▄▀ ▄▀▄█
+█▄▄▄▄▄▄▄█▄▄▄█▄█▄███▄▄▄█▄██▄█▄██
+
+› Metro waiting on [4mexp://ybtjfdg-anonymous-8081.exp.direct[24m
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Using [36mExpo Go[39m
+› Press [1ms[22m [2m│[22m switch to development build
+
+› Press [1ma[22m [2m│[22m open Android
+› Press [1mi[22m [2m│[22m open iOS simulator
+[2m› Press [1mw[22m[2m [2m│[22m[2m open web[22m
+
+› Press [1mj[22m [2m│[22m open debugger
+› Press [1mr[22m [2m│[22m reload app
+› Press [1mm[22m [2m│[22m toggle menu
+› [1mshift+m[22m [2m│[22m more tools
+› Press [1mo[22m [2m│[22m open project code in your editor
+
+› Press [1m?[22m [2m│[22m show all commands
+
+Logs for your project will appear below.[2m Press Ctrl+C to exit.[22m
+[?25l[37m⠋[39m Stopping server[2K[1G[?25h› Stopped server
+[?25h[1G[0K⠙[1G[0K

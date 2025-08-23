@@ -1,0 +1,61 @@
+{
+  "species_id": "causus_defilippii",
+  "canonical_name": "causus defilippii",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/211703882",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 30822,
+      "metadata": {
+        "observation_id": 211703882,
+        "photo_id": 374219056,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/204760745",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1395,
+      "taxon_id": 30822,
+      "metadata": {
+        "observation_id": 204760745,
+        "photo_id": 361962690,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "18450bd5c27255ab46928ce417b6929f",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/204760745",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1322,
+      "taxon_id": 30822,
+      "metadata": {
+        "observation_id": 204760745,
+        "photo_id": 361962800,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "0230cbb50e7081b202b92f30a657d9ec",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 1
+}

@@ -1,0 +1,43 @@
+{
+  "species_id": "hypnale_zara",
+  "canonical_name": "hypnale zara",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/218030101",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 103089,
+      "metadata": {
+        "observation_id": 218030101,
+        "photo_id": 385777313,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/218030099",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 103089,
+      "metadata": {
+        "observation_id": 218030099,
+        "photo_id": 385776987,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

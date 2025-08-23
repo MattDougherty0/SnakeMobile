@@ -1,0 +1,25 @@
+{
+  "species_id": "ovophis_okinavensis",
+  "canonical_name": "ovophis okinavensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/279777538",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1366,
+      "taxon_id": 31031,
+      "metadata": {
+        "observation_id": 279777538,
+        "photo_id": 502430682,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "4a6afdbaba8d30ba734d1bf2b4a220ef",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

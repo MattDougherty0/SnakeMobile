@@ -1,0 +1,25 @@
+{
+  "species_id": "bitis_rubida",
+  "canonical_name": "bitis rubida",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/203218900",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 30858,
+      "metadata": {
+        "observation_id": 203218900,
+        "photo_id": 359017023,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

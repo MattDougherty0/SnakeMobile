@@ -1,0 +1,43 @@
+{
+  "species_id": "trimeresurus_insularis",
+  "canonical_name": "trimeresurus insularis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/282090843",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 146509,
+      "metadata": {
+        "observation_id": 282090843,
+        "photo_id": 508177896,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/259550989",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1153,
+      "taxon_id": 146509,
+      "metadata": {
+        "observation_id": 259550989,
+        "photo_id": 465940138,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "e1503c85b5b430b6ad4a5b32d08fd9fb",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,25 @@
+{
+  "species_id": "bothrocophias_andianus",
+  "canonical_name": "bothrocophias andianus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/141673009",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1365,
+      "taxon_id": 539409,
+      "metadata": {
+        "observation_id": 141673009,
+        "photo_id": 242758979,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "deb7fa6cb18553590567876fe227b634",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

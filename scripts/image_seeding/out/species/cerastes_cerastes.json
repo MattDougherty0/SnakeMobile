@@ -1,0 +1,25 @@
+{
+  "species_id": "cerastes_cerastes",
+  "canonical_name": "cerastes cerastes",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/167250494",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 30810,
+      "metadata": {
+        "observation_id": 167250494,
+        "photo_id": 289710295,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

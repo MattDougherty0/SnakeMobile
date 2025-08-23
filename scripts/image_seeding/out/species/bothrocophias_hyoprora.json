@@ -1,0 +1,25 @@
+{
+  "species_id": "bothrocophias_hyoprora",
+  "canonical_name": "bothrocophias hyoprora",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/124319053",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1371,
+      "taxon_id": 30829,
+      "metadata": {
+        "observation_id": 124319053,
+        "photo_id": 210704590,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "bc8bd748b82d534dc75ee06be18f6799",
+      "score": 1.32
+    }
+  ],
+  "hero_index": 0
+}

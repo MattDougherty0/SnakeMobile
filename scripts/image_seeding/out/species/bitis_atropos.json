@@ -1,0 +1,25 @@
+{
+  "species_id": "bitis_atropos",
+  "canonical_name": "bitis atropos",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/276479682",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 30863,
+      "metadata": {
+        "observation_id": 276479682,
+        "photo_id": 496502501,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

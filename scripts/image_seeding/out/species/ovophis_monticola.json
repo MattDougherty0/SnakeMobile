@@ -1,0 +1,25 @@
+{
+  "species_id": "ovophis_monticola",
+  "canonical_name": "ovophis monticola",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/223305485",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 31024,
+      "metadata": {
+        "observation_id": 223305485,
+        "photo_id": 395651237,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.32
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,25 @@
+{
+  "species_id": "crotalus_tzabcan",
+  "canonical_name": "crotalus tzabcan",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/191131397",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1151,
+      "taxon_id": 30696,
+      "metadata": {
+        "observation_id": 191131397,
+        "photo_id": 335224151,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "9ea9bdfc047f953d604e517c4c809652",
+      "score": 1.32
+    }
+  ],
+  "hero_index": 0
+}

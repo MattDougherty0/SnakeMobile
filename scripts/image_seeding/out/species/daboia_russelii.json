@@ -1,0 +1,25 @@
+{
+  "species_id": "daboia_russelii",
+  "canonical_name": "daboia russelii",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/264437868",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1179,
+      "height": 1325,
+      "taxon_id": 30687,
+      "metadata": {
+        "observation_id": 264437868,
+        "photo_id": 474867362,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "1145ae0cc2933a8a8cda75e954e3c164",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

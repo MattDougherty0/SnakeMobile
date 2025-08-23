@@ -1,0 +1,61 @@
+{
+  "species_id": "bitis_peringueyi",
+  "canonical_name": "bitis peringueyi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/254611076",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1863,
+      "height": 2048,
+      "taxon_id": 30857,
+      "metadata": {
+        "observation_id": 254611076,
+        "photo_id": 456094662,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "4f902daf7a22ac254a0a124d0d7a9dd6",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/254611076",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1206,
+      "height": 2048,
+      "taxon_id": 30857,
+      "metadata": {
+        "observation_id": 254611076,
+        "photo_id": 456094710,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "ebf14d3bc84837386d1117edb1fe382b",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/108804274",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1362,
+      "taxon_id": 30857,
+      "metadata": {
+        "observation_id": 108804274,
+        "photo_id": 183263832,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,61 @@
+{
+  "species_id": "gloydius_halys",
+  "canonical_name": "gloydius halys",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/293722640",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1152,
+      "taxon_id": 31062,
+      "metadata": {
+        "observation_id": 293722640,
+        "photo_id": 528625726,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "266bfb1514b6051c67a13bec8a715711",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/293722640",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1147,
+      "taxon_id": 31062,
+      "metadata": {
+        "observation_id": 293722640,
+        "photo_id": 528625325,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "79aa8c018adcf5619b6dc40ec8f45c00",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/293722640",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1154,
+      "taxon_id": 31062,
+      "metadata": {
+        "observation_id": 293722640,
+        "photo_id": 528626177,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "70e231841e4bf18394b1fba0f077345a",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 2
+}

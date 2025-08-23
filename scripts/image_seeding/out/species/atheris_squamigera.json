@@ -1,0 +1,43 @@
+{
+  "species_id": "atheris_squamigera",
+  "canonical_name": "atheris squamigera",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/223286437",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1357,
+      "taxon_id": 30877,
+      "metadata": {
+        "observation_id": 223286437,
+        "photo_id": 395618580,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "d938f4af0628800e7d2630856f412d19",
+      "score": 1.32
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/223288273",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1356,
+      "taxon_id": 30877,
+      "metadata": {
+        "observation_id": 223288273,
+        "photo_id": 395621547,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "539907e118510e8bd46392b8157c9c53",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

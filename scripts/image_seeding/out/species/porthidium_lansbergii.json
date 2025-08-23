@@ -1,0 +1,43 @@
+{
+  "species_id": "porthidium_lansbergii",
+  "canonical_name": "porthidium lansbergii",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/305392095",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 31014,
+      "metadata": {
+        "observation_id": 305392095,
+        "photo_id": 550626810,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/266701403",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1152,
+      "height": 2048,
+      "taxon_id": 31014,
+      "metadata": {
+        "observation_id": 266701403,
+        "photo_id": 479197958,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "945ae9278ac5132a7f8e6358ceaef152",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

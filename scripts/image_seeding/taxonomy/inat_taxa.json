@@ -1,72 +1,30 @@
 [
   {
-    "species_id": "porthidium_lansbergii",
-    "taxon_id": 31014,
+    "species_id": "vipera_orlovi",
+    "taxon_id": 30913,
     "rank": "species",
-    "matched_name": "Porthidium lansbergii",
+    "matched_name": "Vipera orlovi",
     "exact_match": true
   },
   {
-    "species_id": "pseudocerastes_fieldi",
-    "taxon_id": 30993,
+    "species_id": "vipera_transcaucasiana",
+    "taxon_id": 74001,
     "rank": "species",
-    "matched_name": "Pseudocerastes fieldi",
+    "matched_name": "Vipera transcaucasiana",
     "exact_match": true
   },
   {
-    "species_id": "trimeresurus_gumprechti",
-    "taxon_id": 30976,
+    "species_id": "vipera_ursinii",
+    "taxon_id": 30901,
     "rank": "species",
-    "matched_name": "Trimeresurus gumprechti",
+    "matched_name": "Vipera ursinii",
     "exact_match": true
   },
   {
-    "species_id": "trimeresurus_insularis",
-    "taxon_id": 146509,
+    "species_id": "vipera_walser",
+    "taxon_id": 499107,
     "rank": "species",
-    "matched_name": "Trimeresurus insularis",
-    "exact_match": true
-  },
-  {
-    "species_id": "trimeresurus_sumatranus",
-    "taxon_id": 146513,
-    "rank": "species",
-    "matched_name": "Trimeresurus sumatranus",
-    "exact_match": true
-  },
-  {
-    "species_id": "ovophis_monticola",
-    "taxon_id": 31024,
-    "rank": "species",
-    "matched_name": "Ovophis monticola",
-    "exact_match": true
-  },
-  {
-    "species_id": "trimeresurus_vogeli",
-    "taxon_id": 30947,
-    "rank": "species",
-    "matched_name": "Trimeresurus vogeli",
-    "exact_match": true
-  },
-  {
-    "species_id": "vipera_dinniki",
-    "taxon_id": 73996,
-    "rank": "species",
-    "matched_name": "Vipera dinniki",
-    "exact_match": true
-  },
-  {
-    "species_id": "montivipera_latifii",
-    "taxon_id": 30920,
-    "rank": "species",
-    "matched_name": "Montivipera latifii",
-    "exact_match": true
-  },
-  {
-    "species_id": "ophryacus_smaragdinus",
-    "taxon_id": 540011,
-    "rank": "species",
-    "matched_name": "Ophryacus smaragdinus",
+    "matched_name": "Vipera walser",
     "exact_match": true
   }
 ]

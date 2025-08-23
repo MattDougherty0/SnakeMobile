@@ -1,0 +1,25 @@
+{
+  "species_id": "bothrops_erythromelas",
+  "canonical_name": "bothrops erythromelas",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/257996298",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1533,
+      "height": 2048,
+      "taxon_id": 539413,
+      "metadata": {
+        "observation_id": 257996298,
+        "photo_id": 462817766,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "49bb0499ae3ba0593c6d84a6af2a2552",
+      "score": 1.32
+    }
+  ],
+  "hero_index": 0
+}

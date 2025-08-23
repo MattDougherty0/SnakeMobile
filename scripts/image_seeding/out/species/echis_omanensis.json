@@ -1,0 +1,25 @@
+{
+  "species_id": "echis_omanensis",
+  "canonical_name": "echis omanensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/184927961",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 99690,
+      "metadata": {
+        "observation_id": 184927961,
+        "photo_id": 322872325,
+        "faves_count": 3,
+        "quality_grade": "research"
+      },
+      "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+      "score": 1.36
+    }
+  ],
+  "hero_index": 0
+}

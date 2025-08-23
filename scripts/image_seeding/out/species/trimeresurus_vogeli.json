@@ -1,0 +1,25 @@
+{
+  "species_id": "trimeresurus_vogeli",
+  "canonical_name": "trimeresurus vogeli",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/261439333",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 30947,
+      "metadata": {
+        "observation_id": 261439333,
+        "photo_id": 469688649,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

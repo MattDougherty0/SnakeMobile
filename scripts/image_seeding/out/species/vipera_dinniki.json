@@ -1,0 +1,25 @@
+{
+  "species_id": "vipera_dinniki",
+  "canonical_name": "vipera dinniki",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/293662702",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 73996,
+      "metadata": {
+        "observation_id": 293662702,
+        "photo_id": 528521058,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.32
+    }
+  ],
+  "hero_index": 0
+}

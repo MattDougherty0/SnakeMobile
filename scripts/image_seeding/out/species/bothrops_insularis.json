@@ -1,0 +1,25 @@
+{
+  "species_id": "bothrops_insularis",
+  "canonical_name": "bothrops insularis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/124182523",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1295,
+      "taxon_id": 539415,
+      "metadata": {
+        "observation_id": 124182523,
+        "photo_id": 210457562,
+        "faves_count": 6,
+        "quality_grade": "research"
+      },
+      "content_hash": "757fe66075b2d64c43cb3f1acc4cba8e",
+      "score": 1.42
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,25 @@
+{
+  "species_id": "bitis_armata",
+  "canonical_name": "bitis armata",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/108833635",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1362,
+      "taxon_id": 95801,
+      "metadata": {
+        "observation_id": 108833635,
+        "photo_id": 183317452,
+        "faves_count": 5,
+        "quality_grade": "research"
+      },
+      "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+      "score": 1.4000000000000001
+    }
+  ],
+  "hero_index": 0
+}

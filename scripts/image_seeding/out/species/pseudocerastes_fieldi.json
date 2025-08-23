@@ -1,0 +1,43 @@
+{
+  "species_id": "pseudocerastes_fieldi",
+  "canonical_name": "pseudocerastes fieldi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/252137156",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 30993,
+      "metadata": {
+        "observation_id": 252137156,
+        "photo_id": 451296388,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/232435526",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 30993,
+      "metadata": {
+        "observation_id": 232435526,
+        "photo_id": 412944148,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 1
+}

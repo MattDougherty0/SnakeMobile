@@ -1,0 +1,25 @@
+{
+  "species_id": "gloydius_himalayanus",
+  "canonical_name": "gloydius himalayanus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/296249812",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1179,
+      "height": 851,
+      "taxon_id": 31061,
+      "metadata": {
+        "observation_id": 296249812,
+        "photo_id": 533414398,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "203414c95ce71ea3d4bf4e21be29ab28",
+      "score": 1.2553
+    }
+  ],
+  "hero_index": 0
+}

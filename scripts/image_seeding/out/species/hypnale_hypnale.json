@@ -1,0 +1,43 @@
+{
+  "species_id": "hypnale_hypnale",
+  "canonical_name": "hypnale hypnale",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/252385514",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 68530,
+      "metadata": {
+        "observation_id": 252385514,
+        "photo_id": 451793939,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/306771562",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 920,
+      "height": 2048,
+      "taxon_id": 68530,
+      "metadata": {
+        "observation_id": 306771562,
+        "photo_id": 553252220,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "77cca89dfc46e96f47b2b0209204a8e1",
+      "score": 1.276
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,61 @@
+{
+  "species_id": "trimeresurus_gumprechti",
+  "canonical_name": "trimeresurus gumprechti",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/190974723",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1600,
+      "height": 1067,
+      "taxon_id": 30976,
+      "metadata": {
+        "observation_id": 190974723,
+        "photo_id": 334909504,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "bd4b5e2cef39ad895210e49ab57e9c0e",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/187775687",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1536,
+      "height": 2048,
+      "taxon_id": 30976,
+      "metadata": {
+        "observation_id": 187775687,
+        "photo_id": 328463922,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/187775687",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 30976,
+      "metadata": {
+        "observation_id": 187775687,
+        "photo_id": 328463988,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 1
+}

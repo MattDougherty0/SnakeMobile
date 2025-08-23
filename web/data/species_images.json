@@ -1,3 +1,1601 @@
 {
-  "items": []
+  "items": [
+    {
+      "species_id": "porthidium_lansbergii",
+      "canonical_name": "porthidium lansbergii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/305392095",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 31014,
+          "metadata": {
+            "observation_id": 305392095,
+            "photo_id": 550626810,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/266701403",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1152,
+          "height": 2048,
+          "taxon_id": 31014,
+          "metadata": {
+            "observation_id": 266701403,
+            "photo_id": 479197958,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "945ae9278ac5132a7f8e6358ceaef152",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "pseudocerastes_fieldi",
+      "canonical_name": "pseudocerastes fieldi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/252137156",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1367,
+          "taxon_id": 30993,
+          "metadata": {
+            "observation_id": 252137156,
+            "photo_id": 451296388,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/232435526",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30993,
+          "metadata": {
+            "observation_id": 232435526,
+            "photo_id": 412944148,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 1
+    },
+    {
+      "species_id": "trimeresurus_gumprechti",
+      "canonical_name": "trimeresurus gumprechti",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/190974723",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1600,
+          "height": 1067,
+          "taxon_id": 30976,
+          "metadata": {
+            "observation_id": 190974723,
+            "photo_id": 334909504,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "bd4b5e2cef39ad895210e49ab57e9c0e",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/187775687",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 30976,
+          "metadata": {
+            "observation_id": 187775687,
+            "photo_id": 328463922,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/187775687",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30976,
+          "metadata": {
+            "observation_id": 187775687,
+            "photo_id": 328463988,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 1
+    },
+    {
+      "species_id": "trimeresurus_insularis",
+      "canonical_name": "trimeresurus insularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/282090843",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 146509,
+          "metadata": {
+            "observation_id": 282090843,
+            "photo_id": 508177896,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/259550989",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1153,
+          "taxon_id": 146509,
+          "metadata": {
+            "observation_id": 259550989,
+            "photo_id": 465940138,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "e1503c85b5b430b6ad4a5b32d08fd9fb",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_sumatranus",
+      "canonical_name": "trimeresurus sumatranus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/237219532",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1366,
+          "taxon_id": 146513,
+          "metadata": {
+            "observation_id": 237219532,
+            "photo_id": 422091647,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4a6afdbaba8d30ba734d1bf2b4a220ef",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/237219517",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 146513,
+          "metadata": {
+            "observation_id": 237219517,
+            "photo_id": 422091510,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/237219517",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1365,
+          "height": 2048,
+          "taxon_id": 146513,
+          "metadata": {
+            "observation_id": 237219517,
+            "photo_id": 422091471,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b99e21966f7f6a236a855ccf2681695a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_monticola",
+      "canonical_name": "ovophis monticola",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/223305485",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 31024,
+          "metadata": {
+            "observation_id": 223305485,
+            "photo_id": 395651237,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.32
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_vogeli",
+      "canonical_name": "trimeresurus vogeli",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/261439333",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30947,
+          "metadata": {
+            "observation_id": 261439333,
+            "photo_id": 469688649,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_dinniki",
+      "canonical_name": "vipera dinniki",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/293662702",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 73996,
+          "metadata": {
+            "observation_id": 293662702,
+            "photo_id": 528521058,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.32
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_bilineatus",
+      "canonical_name": "agkistrodon bilineatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/234726109",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 534187,
+          "metadata": {
+            "observation_id": 234726109,
+            "photo_id": 417332434,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_chlorechis",
+      "canonical_name": "atheris chlorechis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/174659321",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 30882,
+          "metadata": {
+            "observation_id": 174659321,
+            "photo_id": 303456129,
+            "faves_count": 3,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.36
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/174659321",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1365,
+          "height": 2048,
+          "taxon_id": 30882,
+          "metadata": {
+            "observation_id": 174659321,
+            "photo_id": 303456142,
+            "faves_count": 3,
+            "quality_grade": "research"
+          },
+          "content_hash": "b99e21966f7f6a236a855ccf2681695a",
+          "score": 1.36
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/73894",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1432,
+          "taxon_id": 30882,
+          "metadata": {
+            "observation_id": 73894,
+            "photo_id": 110685,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "c86f63b2123e70ab87438554ffa7009f",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_squamigera",
+      "canonical_name": "atheris squamigera",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/223286437",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1357,
+          "taxon_id": 30877,
+          "metadata": {
+            "observation_id": 223286437,
+            "photo_id": 395618580,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "d938f4af0628800e7d2630856f412d19",
+          "score": 1.32
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/223288273",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1356,
+          "taxon_id": 30877,
+          "metadata": {
+            "observation_id": 223288273,
+            "photo_id": 395621547,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "539907e118510e8bd46392b8157c9c53",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_armata",
+      "canonical_name": "bitis armata",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/108833635",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1362,
+          "taxon_id": 95801,
+          "metadata": {
+            "observation_id": 108833635,
+            "photo_id": 183317452,
+            "faves_count": 5,
+            "quality_grade": "research"
+          },
+          "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+          "score": 1.4000000000000001
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_atropos",
+      "canonical_name": "bitis atropos",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/276479682",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 30863,
+          "metadata": {
+            "observation_id": 276479682,
+            "photo_id": 496502501,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_caudalis",
+      "canonical_name": "bitis caudalis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/291182779",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 95802,
+          "metadata": {
+            "observation_id": 291182779,
+            "photo_id": 523875957,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/255219077",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 95802,
+          "metadata": {
+            "observation_id": 255219077,
+            "photo_id": 457325998,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_cornuta",
+      "canonical_name": "bitis cornuta",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/156403170",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1367,
+          "taxon_id": 95803,
+          "metadata": {
+            "observation_id": 156403170,
+            "photo_id": 270450459,
+            "faves_count": 2,
+            "quality_grade": "research"
+          },
+          "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+          "score": 1.34
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_peringueyi",
+      "canonical_name": "bitis peringueyi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/254611076",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1863,
+          "height": 2048,
+          "taxon_id": 30857,
+          "metadata": {
+            "observation_id": 254611076,
+            "photo_id": 456094662,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4f902daf7a22ac254a0a124d0d7a9dd6",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/254611076",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1206,
+          "height": 2048,
+          "taxon_id": 30857,
+          "metadata": {
+            "observation_id": 254611076,
+            "photo_id": 456094710,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "ebf14d3bc84837386d1117edb1fe382b",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/108804274",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1362,
+          "taxon_id": 30857,
+          "metadata": {
+            "observation_id": 108804274,
+            "photo_id": 183263832,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_rhinoceros",
+      "canonical_name": "bitis rhinoceros",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/131996241",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 145965,
+          "metadata": {
+            "observation_id": 131996241,
+            "photo_id": 224716208,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_rubida",
+      "canonical_name": "bitis rubida",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/203218900",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30858,
+          "metadata": {
+            "observation_id": 203218900,
+            "photo_id": 359017023,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_schneideri",
+      "canonical_name": "bitis schneideri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/55234370",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1362,
+          "taxon_id": 30859,
+          "metadata": {
+            "observation_id": 55234370,
+            "photo_id": 87936651,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_nigroviridis",
+      "canonical_name": "bothriechis nigroviridis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/88403200",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1080,
+          "height": 1080,
+          "taxon_id": 95897,
+          "metadata": {
+            "observation_id": 88403200,
+            "photo_id": 145853474,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "876889b44017c31e1925318abfe4bea9",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/80047025",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 95897,
+          "metadata": {
+            "observation_id": 80047025,
+            "photo_id": 131159918,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 1
+    },
+    {
+      "species_id": "bothrocophias_andianus",
+      "canonical_name": "bothrocophias andianus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/141673009",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1365,
+          "taxon_id": 539409,
+          "metadata": {
+            "observation_id": 141673009,
+            "photo_id": 242758979,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "deb7fa6cb18553590567876fe227b634",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_hyoprora",
+      "canonical_name": "bothrocophias hyoprora",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/124319053",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1371,
+          "taxon_id": 30829,
+          "metadata": {
+            "observation_id": 124319053,
+            "photo_id": 210704590,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "bc8bd748b82d534dc75ee06be18f6799",
+          "score": 1.32
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_erythromelas",
+      "canonical_name": "bothrops erythromelas",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/257996298",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1533,
+          "height": 2048,
+          "taxon_id": 539413,
+          "metadata": {
+            "observation_id": 257996298,
+            "photo_id": 462817766,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "49bb0499ae3ba0593c6d84a6af2a2552",
+          "score": 1.32
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_insularis",
+      "canonical_name": "bothrops insularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/124182523",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1295,
+          "taxon_id": 539415,
+          "metadata": {
+            "observation_id": 124182523,
+            "photo_id": 210457562,
+            "faves_count": 6,
+            "quality_grade": "research"
+          },
+          "content_hash": "757fe66075b2d64c43cb3f1acc4cba8e",
+          "score": 1.42
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_jonathani",
+      "canonical_name": "bothrops jonathani",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/279584460",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 539048,
+          "metadata": {
+            "observation_id": 279584460,
+            "photo_id": 502067327,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/279584460",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1477,
+          "taxon_id": 539048,
+          "metadata": {
+            "observation_id": 279584460,
+            "photo_id": 502067347,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "3e2066f1bf8b8bc766de5a6a77280b0b",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_punctatus",
+      "canonical_name": "bothrops punctatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/180308016",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1203,
+          "height": 1468,
+          "taxon_id": 30836,
+          "metadata": {
+            "observation_id": 180308016,
+            "photo_id": 314053710,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b94f9f00e308b22dd1e7cbdb850d35ec",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/180308016",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1152,
+          "taxon_id": 30836,
+          "metadata": {
+            "observation_id": 180308016,
+            "photo_id": 314053745,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "266bfb1514b6051c67a13bec8a715711",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/99124165",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30836,
+          "metadata": {
+            "observation_id": 99124165,
+            "photo_id": 165175297,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 2
+    },
+    {
+      "species_id": "causus_defilippii",
+      "canonical_name": "causus defilippii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/211703882",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1367,
+          "taxon_id": 30822,
+          "metadata": {
+            "observation_id": 211703882,
+            "photo_id": 374219056,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/204760745",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1395,
+          "taxon_id": 30822,
+          "metadata": {
+            "observation_id": 204760745,
+            "photo_id": 361962690,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "18450bd5c27255ab46928ce417b6929f",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/204760745",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1322,
+          "taxon_id": 30822,
+          "metadata": {
+            "observation_id": 204760745,
+            "photo_id": 361962800,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "0230cbb50e7081b202b92f30a657d9ec",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 1
+    },
+    {
+      "species_id": "cerastes_cerastes",
+      "canonical_name": "cerastes cerastes",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/167250494",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 30810,
+          "metadata": {
+            "observation_id": 167250494,
+            "photo_id": 289710295,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerastes_gasperettii",
+      "canonical_name": "cerastes gasperettii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/250533752",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 30813,
+          "metadata": {
+            "observation_id": 250533752,
+            "photo_id": 448093998,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/248050477",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1367,
+          "taxon_id": 30813,
+          "metadata": {
+            "observation_id": 248050477,
+            "photo_id": 443136684,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_wilsoni",
+      "canonical_name": "cerrophidion wilsoni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/179455260",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 145990,
+          "metadata": {
+            "observation_id": 179455260,
+            "photo_id": 312429094,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "crotalus_morulus",
+      "canonical_name": "crotalus morulus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/204638036",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 544978,
+          "metadata": {
+            "observation_id": 204638036,
+            "photo_id": 361731087,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.32
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/204638036",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 544978,
+          "metadata": {
+            "observation_id": 204638036,
+            "photo_id": 361731109,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.32
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/240700799",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1152,
+          "height": 2048,
+          "taxon_id": 544978,
+          "metadata": {
+            "observation_id": 240700799,
+            "photo_id": 428873683,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "945ae9278ac5132a7f8e6358ceaef152",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "crotalus_tzabcan",
+      "canonical_name": "crotalus tzabcan",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/191131397",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1151,
+          "taxon_id": 30696,
+          "metadata": {
+            "observation_id": 191131397,
+            "photo_id": 335224151,
+            "faves_count": 1,
+            "quality_grade": "research"
+          },
+          "content_hash": "9ea9bdfc047f953d604e517c4c809652",
+          "score": 1.32
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "daboia_russelii",
+      "canonical_name": "daboia russelii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/264437868",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1179,
+          "height": 1325,
+          "taxon_id": 30687,
+          "metadata": {
+            "observation_id": 264437868,
+            "photo_id": 474867362,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "1145ae0cc2933a8a8cda75e954e3c164",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_leucogaster",
+      "canonical_name": "echis leucogaster",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/189673270",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 99688,
+          "metadata": {
+            "observation_id": 189673270,
+            "photo_id": 332332522,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_omanensis",
+      "canonical_name": "echis omanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/184927961",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1367,
+          "taxon_id": 99690,
+          "metadata": {
+            "observation_id": 184927961,
+            "photo_id": 322872325,
+            "faves_count": 3,
+            "quality_grade": "research"
+          },
+          "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+          "score": 1.36
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_blomhoffii",
+      "canonical_name": "gloydius blomhoffii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/301491333",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 31071,
+          "metadata": {
+            "observation_id": 301491333,
+            "photo_id": 543288050,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/182015418",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 31071,
+          "metadata": {
+            "observation_id": 182015418,
+            "photo_id": 317272534,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_halys",
+      "canonical_name": "gloydius halys",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/293722640",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1152,
+          "taxon_id": 31062,
+          "metadata": {
+            "observation_id": 293722640,
+            "photo_id": 528625726,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "266bfb1514b6051c67a13bec8a715711",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/293722640",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1147,
+          "taxon_id": 31062,
+          "metadata": {
+            "observation_id": 293722640,
+            "photo_id": 528625325,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "79aa8c018adcf5619b6dc40ec8f45c00",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/293722640",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1154,
+          "taxon_id": 31062,
+          "metadata": {
+            "observation_id": 293722640,
+            "photo_id": 528626177,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "70e231841e4bf18394b1fba0f077345a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 2
+    },
+    {
+      "species_id": "gloydius_himalayanus",
+      "canonical_name": "gloydius himalayanus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/296249812",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1179,
+          "height": 851,
+          "taxon_id": 31061,
+          "metadata": {
+            "observation_id": 296249812,
+            "photo_id": 533414398,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "203414c95ce71ea3d4bf4e21be29ab28",
+          "score": 1.2553
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "hypnale_hypnale",
+      "canonical_name": "hypnale hypnale",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/252385514",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 68530,
+          "metadata": {
+            "observation_id": 252385514,
+            "photo_id": 451793939,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/306771562",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 920,
+          "height": 2048,
+          "taxon_id": 68530,
+          "metadata": {
+            "observation_id": 306771562,
+            "photo_id": 553252220,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "77cca89dfc46e96f47b2b0209204a8e1",
+          "score": 1.276
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "hypnale_zara",
+      "canonical_name": "hypnale zara",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/218030101",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 103089,
+          "metadata": {
+            "observation_id": 218030101,
+            "photo_id": 385777313,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/218030099",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 1536,
+          "height": 2048,
+          "taxon_id": 103089,
+          "metadata": {
+            "observation_id": 218030099,
+            "photo_id": 385776987,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "b4c897ce9206aebfcc44648fa0669381",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "lachesis_acrochorda",
+      "canonical_name": "lachesis acrochorda",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/101034081",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 103915,
+          "metadata": {
+            "observation_id": 101034081,
+            "photo_id": 168689318,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/99561084",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1360,
+          "taxon_id": 103915,
+          "metadata": {
+            "observation_id": 99561084,
+            "photo_id": 165995867,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "c9ee82cfa6edb865d45fbaa2b42266e3",
+          "score": 1.3
+        },
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/99561084",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1362,
+          "taxon_id": 103915,
+          "metadata": {
+            "observation_id": 99561084,
+            "photo_id": 165995905,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "macrovipera_lebetinus",
+      "canonical_name": "macrovipera lebetinus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/193352378",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1536,
+          "taxon_id": 105083,
+          "metadata": {
+            "observation_id": 193352378,
+            "photo_id": 339648597,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_okinavensis",
+      "canonical_name": "ovophis okinavensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "original_page": "https://www.inaturalist.org/observations/279777538",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "license_url": "",
+          "width": 2048,
+          "height": 1366,
+          "taxon_id": 31031,
+          "metadata": {
+            "observation_id": 279777538,
+            "photo_id": 502430682,
+            "faves_count": 0,
+            "quality_grade": "research"
+          },
+          "content_hash": "4a6afdbaba8d30ba734d1bf2b4a220ef",
+          "score": 1.3
+        }
+      ],
+      "hero_index": 0
+    }
+  ]
 }

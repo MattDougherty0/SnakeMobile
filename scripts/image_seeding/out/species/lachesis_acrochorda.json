@@ -1,0 +1,61 @@
+{
+  "species_id": "lachesis_acrochorda",
+  "canonical_name": "lachesis acrochorda",
+  "images": [
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/101034081",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1536,
+      "taxon_id": 103915,
+      "metadata": {
+        "observation_id": 101034081,
+        "photo_id": 168689318,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "badec9af07421ca5b0e5fc83caa62a9a",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/99561084",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1360,
+      "taxon_id": 103915,
+      "metadata": {
+        "observation_id": 99561084,
+        "photo_id": 165995867,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "c9ee82cfa6edb865d45fbaa2b42266e3",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "original_page": "https://www.inaturalist.org/observations/99561084",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1362,
+      "taxon_id": 103915,
+      "metadata": {
+        "observation_id": 99561084,
+        "photo_id": 165995905,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "154179d4a8de27cfcaf1969ef9dc5bd7",
+      "score": 1.3
+    }
+  ],
+  "hero_index": 0
+}

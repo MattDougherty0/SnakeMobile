@@ -8,7 +8,8 @@ import {
   MediaCandidate, 
   SpeciesImages, 
   QAResults,
-  PipelineStats 
+  PipelineStats,
+  INatTaxon
 } from './types';
 import fs from 'fs';
 import path from 'path';
@@ -76,7 +77,7 @@ export class ImageSeedingPipeline {
       console.log(`✅ Successfully mapped ${taxa.length} species to iNaturalist taxa`);
       
       // Step 2: Harvest images from all sources
-      const allCandidates = await this.harvestFromAllSources();
+      const allCandidates = await this.harvestFromAllSources(taxa);
       
       // Step 3: Process and select images
       const speciesImages = await this.imageProcessor.processImages(

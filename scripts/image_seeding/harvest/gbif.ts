@@ -1,5 +1,5 @@
 import { HttpClient } from '../shared/httpClient';
-import { MediaCandidate, ImageSeedingConfig } from '../types';
+import { MediaCandidate, ImageSeedingConfig, INatTaxon } from '../types';
 import { parse } from 'csv-parse/sync';
 import fs from 'fs';
 import path from 'path';
@@ -35,25 +35,22 @@ export class GBIFHarvester {
     this.config = config;
   }
 
-  async harvestImages(speciesTaxonomyPath: string): Promise<MediaCandidate[]> {
+  async harvestImages(taxa: INatTaxon[]): Promise<MediaCandidate[]> {
     console.log('🌍 Harvesting images from GBIF...');
-    
-    const taxonomyData = fs.readFileSync(speciesTaxonomyPath, 'utf8');
-    const species = parse(taxonomyData, { columns: true });
     
     const allCandidates: MediaCandidate[] = [];
     
-    for (const speciesRow of species) {
+    for (const taxon of taxa) {
       try {
-        const candidates = await this.harvestSpeciesImages(speciesRow.canonical_name);
+        const candidates = await this.harvestSpeciesImages(taxon.matched_name);
         allCandidates.push(...candidates);
         
-        console.log(`  ${speciesRow.canonical_name}: ${candidates.length} images`);
+        console.log(`  ${taxon.matched_name}: ${candidates.length} images`);
         
         // Rate limiting
         await this.delay(3000);
       } catch (error) {
-        console.warn(`Failed to harvest images for ${speciesRow.canonical_name}:`, error);
+        console.warn(`Failed to harvest images for ${taxon.matched_name}:`, error);
       }
     }
     

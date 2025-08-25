@@ -1,30 +1,72 @@
 [
   {
-    "species_id": "vipera_orlovi",
-    "taxon_id": 30913,
+    "species_id": "porthidium_lansbergii",
+    "taxon_id": 31014,
     "rank": "species",
-    "matched_name": "Vipera orlovi",
+    "matched_name": "Porthidium lansbergii",
     "exact_match": true
   },
   {
-    "species_id": "vipera_transcaucasiana",
-    "taxon_id": 74001,
+    "species_id": "pseudocerastes_fieldi",
+    "taxon_id": 30993,
     "rank": "species",
-    "matched_name": "Vipera transcaucasiana",
+    "matched_name": "Pseudocerastes fieldi",
     "exact_match": true
   },
   {
-    "species_id": "vipera_ursinii",
-    "taxon_id": 30901,
+    "species_id": "trimeresurus_gumprechti",
+    "taxon_id": 30976,
     "rank": "species",
-    "matched_name": "Vipera ursinii",
+    "matched_name": "Trimeresurus gumprechti",
     "exact_match": true
   },
   {
-    "species_id": "vipera_walser",
-    "taxon_id": 499107,
+    "species_id": "trimeresurus_insularis",
+    "taxon_id": 146509,
     "rank": "species",
-    "matched_name": "Vipera walser",
+    "matched_name": "Trimeresurus insularis",
+    "exact_match": true
+  },
+  {
+    "species_id": "trimeresurus_sumatranus",
+    "taxon_id": 146513,
+    "rank": "species",
+    "matched_name": "Trimeresurus sumatranus",
+    "exact_match": true
+  },
+  {
+    "species_id": "ovophis_monticola",
+    "taxon_id": 31024,
+    "rank": "species",
+    "matched_name": "Ovophis monticola",
+    "exact_match": true
+  },
+  {
+    "species_id": "trimeresurus_vogeli",
+    "taxon_id": 30947,
+    "rank": "species",
+    "matched_name": "Trimeresurus vogeli",
+    "exact_match": true
+  },
+  {
+    "species_id": "vipera_dinniki",
+    "taxon_id": 73996,
+    "rank": "species",
+    "matched_name": "Vipera dinniki",
+    "exact_match": true
+  },
+  {
+    "species_id": "montivipera_latifii",
+    "taxon_id": 30920,
+    "rank": "species",
+    "matched_name": "Montivipera latifii",
+    "exact_match": true
+  },
+  {
+    "species_id": "ophryacus_smaragdinus",
+    "taxon_id": 540011,
+    "rank": "species",
+    "matched_name": "Ophryacus smaragdinus",
     "exact_match": true
   }
 ]

@@ -170,13 +170,17 @@ export class INaturalistHarvester {
             }
           }
           
+          // Construct medium URL from square URL
+          const squareUrl = photo.url;
+          const mediumUrl = squareUrl.replace('/square.jpg', '/medium.jpg');
+          
           const candidate: MediaCandidate = {
             source: 'inaturalist',
-            full_url: photo.large_url,
-            thumb_url: photo.small_url,
+            full_url: mediumUrl, // Use constructed medium URL
+            thumb_url: squareUrl, // Use the square URL as thumbnail
             original_page: `https://www.inaturalist.org/observations/${obs.id}`,
-            author: photo.attribution || 'Unknown',
-            license: photo.license_name || photo.license_code,
+            author: photo.attribution || 'Unknown', // Use attribution field
+            license: photo.license_code || 'Unknown',
             license_url: photo.license_url || '',
             width: photo.original_dimensions?.width,
             height: photo.original_dimensions?.height,

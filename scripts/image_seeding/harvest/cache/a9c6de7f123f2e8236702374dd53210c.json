@@ -1,7 +1,0 @@
-{
-  "timestamp": 1755942535978,
-  "data": {
-    "error": "Invalid taxon_id: undefined",
-    "status": 422
-  }
-}

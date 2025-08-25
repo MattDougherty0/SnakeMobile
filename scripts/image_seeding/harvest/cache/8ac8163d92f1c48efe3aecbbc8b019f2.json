@@ -1,5 +1,5 @@
 {
-  "timestamp": 1755986167856,
+  "timestamp": 1756149588987,
   "data": {
     "total_results": 4,
     "page": 1,
@@ -97,7 +97,7 @@
         },
         "taxon_changes_count": 2,
         "taxon_schemes_count": 4,
-        "observations_count": 237,
+        "observations_count": 236,
         "flag_counts": {
           "resolved": 0,
           "unresolved": 0
@@ -150,7 +150,7 @@
         },
         "taxon_changes_count": 1,
         "taxon_schemes_count": 4,
-        "observations_count": 42,
+        "observations_count": 43,
         "flag_counts": {
           "resolved": 0,
           "unresolved": 0

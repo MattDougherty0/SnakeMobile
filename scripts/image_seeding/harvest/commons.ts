@@ -30,6 +30,12 @@ export class WikimediaCommonsHarvester {
     
     const allCandidates: MediaCandidate[] = [];
     
+    // First, try to get some general snake images from categories
+    console.log('  🔍 Searching general snake categories...');
+    const generalSnakeImages = await this.searchSnakeCategories();
+    allCandidates.push(...generalSnakeImages);
+    console.log(`  📸 Found ${generalSnakeImages.length} general snake images`);
+    
     for (const taxon of taxa) {
       try {
         const candidates = await this.harvestSpeciesImages(taxon.matched_name);
@@ -111,41 +117,92 @@ export class WikimediaCommonsHarvester {
     if (parts.length >= 2) {
       terms.push(`${parts[0]} ${parts[1]}`); // Genus species
       terms.push(`${parts[1]} ${parts[0]}`); // species Genus
+      terms.push(parts[0]); // Just genus
+      terms.push(parts[1]); // Just species
     }
     
-    // Add snake-related terms
+    // Add snake-related terms with more variations
     terms.push(`${scientificName} snake`);
     terms.push(`${scientificName} viper`);
     terms.push(`${scientificName} rattlesnake`);
+    terms.push(`${scientificName} cobra`);
+    terms.push(`${scientificName} mamba`);
+    terms.push(`${scientificName} python`);
+    terms.push(`${scientificName} boa`);
+    
+    // Add taxonomic family searches
+    if (scientificName.includes('vipera') || scientificName.includes('crotalus') || scientificName.includes('agkistrodon')) {
+      terms.push('viperidae');
+    }
+    if (scientificName.includes('naja') || scientificName.includes('ophiophagus')) {
+      terms.push('elapidae');
+    }
+    if (scientificName.includes('python') || scientificName.includes('boa')) {
+      terms.push('boidae');
+    }
+    
+    // Add common English names for popular species
+    if (scientificName.includes('crotalus')) {
+      terms.push('rattlesnake');
+    }
+    if (scientificName.includes('naja')) {
+      terms.push('cobra');
+    }
+    if (scientificName.includes('dendroaspis')) {
+      terms.push('mamba');
+    }
     
     return terms;
   }
 
   private async searchCommonsFiles(searchTerm: string): Promise<CommonsFile[]> {
-    const searchUrl = `${this.baseUrl}?action=query&list=search&srsearch=${encodeURIComponent(searchTerm + ' snake')}&format=json&srlimit=50&srnamespace=6`;
+    const files: CommonsFile[] = [];
     
-    try {
-      const response = await this.httpClient.get(searchUrl, 'commons');
-      const searchResults = response.query?.search || [];
-      
-      const files: CommonsFile[] = [];
-      
-      for (const result of searchResults) {
-        try {
-          const fileInfo = await this.getFileInfo(result.title);
-          if (fileInfo) {
-            files.push(fileInfo);
+    // Try multiple search strategies
+    const searchStrategies = [
+      // Strategy 1: Direct search with snake suffix
+      `${searchTerm} snake`,
+      // Strategy 2: Direct search without suffix
+      searchTerm,
+      // Strategy 3: Search in file descriptions
+      `insource:"${searchTerm}"`,
+      // Strategy 4: Search in categories
+      `incategory:"${searchTerm}"`
+    ];
+    
+    for (const strategy of searchStrategies) {
+      try {
+        const searchUrl = `${this.baseUrl}?action=query&list=search&srsearch=${encodeURIComponent(strategy)}&format=json&srlimit=100&srnamespace=6`;
+        
+        const response = await this.httpClient.get(searchUrl, 'commons');
+        const searchResults = response.query?.search || [];
+        
+        console.log(`  🔍 Strategy "${strategy}": found ${searchResults.length} results`);
+        
+        for (const result of searchResults) {
+          try {
+            const fileInfo = await this.getFileInfo(result.title);
+            if (fileInfo) {
+              // Check if we already have this file
+              const exists = files.some(f => f.title === fileInfo.title);
+              if (!exists) {
+                files.push(fileInfo);
+              }
+            }
+          } catch (error) {
+            console.warn(`Failed to get file info for ${result.title}:`, error);
           }
-        } catch (error) {
-          console.warn(`Failed to get file info for ${result.title}:`, error);
         }
+        
+        // Rate limiting between strategies
+        await this.delay(1000);
+        
+      } catch (error) {
+        console.warn(`Failed to search Commons with strategy "${strategy}":`, error);
       }
-      
-      return files;
-    } catch (error) {
-      console.warn(`Failed to search Commons for "${searchTerm}":`, error);
-      return [];
     }
+    
+    return files;
   }
 
   private async getFileInfo(title: string): Promise<CommonsFile | null> {
@@ -233,14 +290,20 @@ export class WikimediaCommonsHarvester {
   private normalizeLicense(licenseText: string): string {
     const upper = licenseText.toUpperCase();
     
-    if (upper.includes('CC0') || upper.includes('PUBLIC DOMAIN')) {
+    if (upper.includes('CC0') || upper.includes('PUBLIC DOMAIN') || upper.includes('PD')) {
       return 'CC0';
     } else if (upper.includes('CC BY-SA')) {
       return 'CC BY-SA';
-    } else if (upper.includes('CC BY')) {
-      return 'CC BY';
+    } else if (upper.includes('CC BY-NC-SA')) {
+      return 'CC BY-NC-SA';
     } else if (upper.includes('CC BY-NC')) {
       return 'CC BY-NC';
+    } else if (upper.includes('CC BY')) {
+      return 'CC BY';
+    } else if (upper.includes('GNU') || upper.includes('GPL')) {
+      return 'GPL';
+    } else if (upper.includes('MIT') || upper.includes('APACHE')) {
+      return 'MIT';
     }
     
     return licenseText;
@@ -270,6 +333,67 @@ export class WikimediaCommonsHarvester {
     // Commons doesn't provide direct thumbnail URLs, so we'll use the full URL
     // In production, you might want to generate thumbnails or use a thumbnail service
     return fullUrl;
+  }
+
+  private async searchSnakeCategories(): Promise<MediaCandidate[]> {
+    const snakeCategories = [
+      'Category:Snakes',
+      'Category:Viperidae',
+      'Category:Elapidae',
+      'Category:Boidae',
+      'Category:Colubridae',
+      'Category:Venomous snakes',
+      'Category:Rattlesnakes',
+      'Category:Cobras',
+      'Category:Mambas'
+    ];
+    
+    const candidates: MediaCandidate[] = [];
+    
+    for (const category of snakeCategories) {
+      try {
+        const searchUrl = `${this.baseUrl}?action=query&list=categorymembers&cmtitle=${encodeURIComponent(category)}&cmtype=file&cmlimit=50&format=json`;
+        
+        const response = await this.httpClient.get(searchUrl, 'commons');
+        const members = response.query?.categorymembers || [];
+        
+        console.log(`    📁 Category ${category}: ${members.length} files`);
+        
+        for (const member of members) {
+          try {
+            const fileInfo = await this.getFileInfo(member.title);
+            if (fileInfo) {
+              candidates.push({
+                source: 'commons',
+                full_url: fileInfo.url,
+                thumb_url: this.generateThumbnailUrl(fileInfo.url),
+                original_page: `https://commons.wikimedia.org/wiki/${encodeURIComponent(fileInfo.title)}`,
+                author: fileInfo.author,
+                license: fileInfo.license,
+                license_url: fileInfo.license_url,
+                width: fileInfo.width,
+                height: fileInfo.height,
+                metadata: {
+                  title: fileInfo.title,
+                  description: fileInfo.description,
+                  category: category
+                }
+              });
+            }
+          } catch (error) {
+            console.warn(`Failed to get file info for ${member.title}:`, error);
+          }
+        }
+        
+        // Rate limiting between categories
+        await this.delay(1000);
+        
+      } catch (error) {
+        console.warn(`Failed to search category ${category}:`, error);
+      }
+    }
+    
+    return candidates;
   }
 
   private async delay(ms: number): Promise<void> {

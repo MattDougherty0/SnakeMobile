@@ -1,6 +1,6 @@
 {
-  "allowed_licenses": ["CC0", "CC BY", "CC BY-SA"],
-  "disallowed_licenses": ["CC BY-NC", "All Rights Reserved", "Unknown"],
+  "allowed_licenses": ["CC0", "CC BY", "CC BY-SA", "CC BY-NC", "CC BY-NC-SA"],
+  "disallowed_licenses": ["All Rights Reserved", "Unknown"],
   "concurrency": {
     "inaturalist": 3,
     "commons": 2,
@@ -21,7 +21,7 @@
     }
   },
   "image_requirements": {
-    "min_dimension": 800,
+    "min_dimension": 400,
     "desired_per_species": 3,
     "max_per_source_per_species": {
       "inaturalist": 10,
@@ -30,12 +30,12 @@
     }
   },
   "testing": {
-    "max_species_to_process": 3,
-    "enable_testing_mode": true
+    "max_species_to_process": 327,
+    "enable_testing_mode": false
   },
   "harvesting": {
-    "enable_commons": false,
-    "enable_gbif": false,
+    "enable_commons": true,
+    "enable_gbif": true,
     "commons_timeout_seconds": 30
   },
   "scoring": {

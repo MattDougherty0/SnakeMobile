@@ -38,3 +38,6 @@ yarn-error.*
 
 # image seeding cache
 scripts/image_seeding/harvest/cache/
+
+# temporary taxonomy files
+scripts/image_seeding/temp_taxonomy*.csv

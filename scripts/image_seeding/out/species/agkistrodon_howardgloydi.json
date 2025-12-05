@@ -1,0 +1,27 @@
+{
+  "species_id": "agkistrodon_howardgloydi",
+  "canonical_name": "agkistrodon howardgloydi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521031390/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/521031390/square.jpg",
+      "original_page": "https://www.inaturalist.org/observations/289675297",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 960,
+      "height": 720,
+      "taxon_id": 497678,
+      "metadata": {
+        "observation_id": 289675297,
+        "photo_id": 521031390,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "9968f77386353ddd96e83bda63e59771",
+      "score": 1.216
+    }
+  ],
+  "hero_index": 0
+}

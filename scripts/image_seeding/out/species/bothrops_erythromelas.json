@@ -4,6 +4,8 @@
   "images": [
     {
       "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817766/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817766/square.jpeg",
       "original_page": "https://www.inaturalist.org/observations/257996298",
       "author": "no rights reserved",
       "license": "cc0",
@@ -17,7 +19,47 @@
         "faves_count": 1,
         "quality_grade": "research"
       },
-      "content_hash": "49bb0499ae3ba0593c6d84a6af2a2552",
+      "content_hash": "fbc250ef53784d2a353ad9fc6dbc9c34",
+      "score": 1.32
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817778/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817778/square.jpeg",
+      "original_page": "https://www.inaturalist.org/observations/257996298",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1533,
+      "height": 2048,
+      "taxon_id": 539413,
+      "metadata": {
+        "observation_id": 257996298,
+        "photo_id": 462817778,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "4db13512d8396d4b3c2d8ab7e5e46a61",
+      "score": 1.32
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817791/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/462817791/square.jpeg",
+      "original_page": "https://www.inaturalist.org/observations/257996298",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1533,
+      "height": 2048,
+      "taxon_id": 539413,
+      "metadata": {
+        "observation_id": 257996298,
+        "photo_id": 462817791,
+        "faves_count": 1,
+        "quality_grade": "research"
+      },
+      "content_hash": "8f322388af1fd93b3bfabc0b89ae164d",
       "score": 1.32
     }
   ],

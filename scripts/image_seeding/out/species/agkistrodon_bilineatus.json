@@ -4,6 +4,8 @@
   "images": [
     {
       "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417332434/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417332434/square.jpeg",
       "original_page": "https://www.inaturalist.org/observations/234726109",
       "author": "no rights reserved",
       "license": "cc0",
@@ -17,7 +19,47 @@
         "faves_count": 0,
         "quality_grade": "research"
       },
-      "content_hash": "deb7fa6cb18553590567876fe227b634",
+      "content_hash": "69334159c5d1f6bd2d5752ecb5f69efa",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417332802/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417332802/square.jpeg",
+      "original_page": "https://www.inaturalist.org/observations/234726109",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1365,
+      "taxon_id": 534187,
+      "metadata": {
+        "observation_id": 234726109,
+        "photo_id": 417332802,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "01b517c71ed96acc4c5221f452a99a33",
+      "score": 1.3
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417333001/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/417333001/square.jpeg",
+      "original_page": "https://www.inaturalist.org/observations/234726109",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1365,
+      "taxon_id": 534187,
+      "metadata": {
+        "observation_id": 234726109,
+        "photo_id": 417333001,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "e0580d36d84264236774917bd30bfe4a",
       "score": 1.3
     }
   ],

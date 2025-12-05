@@ -1,0 +1,47 @@
+{
+  "species_id": "trimeresurus_erythrurus",
+  "canonical_name": "trimeresurus erythrurus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21901773/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21901773/square.jpg",
+      "original_page": "https://www.inaturalist.org/observations/14690274",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1024,
+      "height": 768,
+      "taxon_id": 146507,
+      "metadata": {
+        "observation_id": 14690274,
+        "photo_id": 21901773,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "c7285214a61209f5570c4186e35f424b",
+      "score": 1.2304
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21901829/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/21901829/square.jpg",
+      "original_page": "https://www.inaturalist.org/observations/14690274",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 1024,
+      "height": 768,
+      "taxon_id": 146507,
+      "metadata": {
+        "observation_id": 14690274,
+        "photo_id": 21901829,
+        "faves_count": 0,
+        "quality_grade": "research"
+      },
+      "content_hash": "2a00f8c18b0469b6a85a6f707d794356",
+      "score": 1.2304
+    }
+  ],
+  "hero_index": 0
+}

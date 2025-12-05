@@ -4,6 +4,8 @@
   "images": [
     {
       "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335224151/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335224151/square.jpeg",
       "original_page": "https://www.inaturalist.org/observations/191131397",
       "author": "no rights reserved",
       "license": "cc0",
@@ -17,7 +19,7 @@
         "faves_count": 1,
         "quality_grade": "research"
       },
-      "content_hash": "9ea9bdfc047f953d604e517c4c809652",
+      "content_hash": "0fc9f1e4548e02e2f9235eeaefc66438",
       "score": 1.32
     }
   ],

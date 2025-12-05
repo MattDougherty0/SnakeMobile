@@ -4,6 +4,8 @@
   "images": [
     {
       "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450459/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450459/square.jpg",
       "original_page": "https://www.inaturalist.org/observations/156403170",
       "author": "no rights reserved",
       "license": "cc0",
@@ -17,7 +19,47 @@
         "faves_count": 2,
         "quality_grade": "research"
       },
-      "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+      "content_hash": "51a00e99b55b98ed292977f684d48924",
+      "score": 1.34
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450474/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450474/square.jpg",
+      "original_page": "https://www.inaturalist.org/observations/156403170",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 95803,
+      "metadata": {
+        "observation_id": 156403170,
+        "photo_id": 270450474,
+        "faves_count": 2,
+        "quality_grade": "research"
+      },
+      "content_hash": "865f9137ea9d3590982f979136f9fafb",
+      "score": 1.34
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450491/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270450491/square.jpg",
+      "original_page": "https://www.inaturalist.org/observations/156403170",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 95803,
+      "metadata": {
+        "observation_id": 156403170,
+        "photo_id": 270450491,
+        "faves_count": 2,
+        "quality_grade": "research"
+      },
+      "content_hash": "781d8d8357ccd7f1e80550e9c5aa4fa3",
       "score": 1.34
     }
   ],

@@ -4,6 +4,8 @@
   "images": [
     {
       "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322872325/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322872325/square.jpeg",
       "original_page": "https://www.inaturalist.org/observations/184927961",
       "author": "no rights reserved",
       "license": "cc0",
@@ -17,7 +19,27 @@
         "faves_count": 3,
         "quality_grade": "research"
       },
-      "content_hash": "4873d1801e613d7ed270847033d9cb0a",
+      "content_hash": "e0f5a7de0f8e2a81791e66979e179b8e",
+      "score": 1.36
+    },
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322872309/square.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/322872309/square.jpeg",
+      "original_page": "https://www.inaturalist.org/observations/184927961",
+      "author": "no rights reserved",
+      "license": "cc0",
+      "license_url": "",
+      "width": 2048,
+      "height": 1367,
+      "taxon_id": 99690,
+      "metadata": {
+        "observation_id": 184927961,
+        "photo_id": 322872309,
+        "faves_count": 3,
+        "quality_grade": "research"
+      },
+      "content_hash": "92192f2a3ec98dc3be77dcfdd2a58c71",
       "score": 1.36
     }
   ],

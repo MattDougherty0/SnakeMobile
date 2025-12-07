@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_estebanensis",
+  "canonical_name": "crotalus estebanensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133850805/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133850805/square.jpg",
+      "author": "(c) Anibal Díaz de la Vega, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 594,
+      "height": 397,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

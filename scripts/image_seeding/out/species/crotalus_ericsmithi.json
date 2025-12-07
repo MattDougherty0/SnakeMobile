@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_ericsmithi",
+  "canonical_name": "crotalus ericsmithi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550112917/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/550112917/square.jpg",
+      "author": "(c) Miriam Tellez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 963,
+      "height": 1280,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

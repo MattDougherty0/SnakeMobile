@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_horridus",
+  "canonical_name": "crotalus horridus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597536367/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597536367/square.jpg",
+      "author": "(c) salty_daze, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 942,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

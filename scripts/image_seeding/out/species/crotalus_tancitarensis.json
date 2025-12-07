@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_tancitarensis",
+  "canonical_name": "crotalus tancitarensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/440774777/medium.jpeg",
+      "thumb_url": "https://static.inaturalist.org/photos/440774777/square.jpeg",
+      "author": "(c) Eric Centenero Alcalá, all rights reserved",
+      "license": "cc",
+      "width": 1200,
+      "height": 839,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

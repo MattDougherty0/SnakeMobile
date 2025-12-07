@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_ehecatl",
+  "canonical_name": "crotalus ehecatl",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562426872/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562426872/square.jpg",
+      "author": "(c) Tereso Hernández Morales, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

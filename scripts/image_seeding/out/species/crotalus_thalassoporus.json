@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_thalassoporus",
+  "canonical_name": "crotalus thalassoporus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330412090/medium.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/330412090/square.jpeg",
+      "author": "(c) Ana Gatica Colima, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_culminatus",
+  "canonical_name": "crotalus culminatus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593556980/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593556980/square.jpg",
+      "author": "(c) ernestolagarto8, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 828,
+      "height": 1792,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_atrox",
+  "canonical_name": "crotalus atrox",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597828947/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597828947/square.jpg",
+      "author": "(c) Conor and Alexandra, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1243,
+      "height": 825,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_scutulatus",
+  "canonical_name": "crotalus scutulatus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595919855/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595919855/square.jpg",
+      "author": "(c) Bradley Wagstaff, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

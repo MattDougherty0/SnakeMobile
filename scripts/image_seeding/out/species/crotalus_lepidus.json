@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_lepidus",
+  "canonical_name": "crotalus lepidus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594372264/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594372264/square.jpg",
+      "author": "(c) Dalton Logan, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1536,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

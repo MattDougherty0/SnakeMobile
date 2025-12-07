@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_lutosus",
+  "canonical_name": "crotalus lutosus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596972062/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596972062/square.jpg",
+      "author": "(c) Scott Baxter, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

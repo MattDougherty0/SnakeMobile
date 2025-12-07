@@ -1,0 +1,17 @@
+{
+  "species_id": "crotalus_ornatus",
+  "canonical_name": "crotalus ornatus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596689824/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596689824/square.jpg",
+      "author": "(c) zoe_dun, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

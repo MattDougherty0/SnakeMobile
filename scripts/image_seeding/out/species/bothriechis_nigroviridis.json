@@ -4,44 +4,14 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145853474/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/145853474/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/88403200",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 1080,
-      "height": 1080,
-      "taxon_id": 95897,
-      "metadata": {
-        "observation_id": 88403200,
-        "photo_id": 145853474,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "ef3e79a30e476f5f90f0f7b10679b1bc",
-      "score": 1.3
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131159918/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/131159918/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/80047025",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1536,
-      "taxon_id": 95897,
-      "metadata": {
-        "observation_id": 80047025,
-        "photo_id": 131159918,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "eadf0e1004546a3cc92f3c5430165427",
-      "score": 1.3
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573896020/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573896020/square.jpg",
+      "author": "(c) na.t_rex, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1280,
+      "height": 591,
+      "score": 1
     }
   ],
-  "hero_index": 1
+  "hero_index": 0
 }

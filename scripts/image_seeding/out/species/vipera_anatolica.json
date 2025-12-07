@@ -1,0 +1,17 @@
+{
+  "species_id": "vipera_anatolica",
+  "canonical_name": "vipera anatolica",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390540/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390540/square.jpg",
+      "author": "(c) Otto Bylén Claesson, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1152,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

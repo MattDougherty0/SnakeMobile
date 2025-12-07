@@ -1,0 +1,17 @@
+{
+  "species_id": "atropoides_picadoi",
+  "canonical_name": "atropoides picadoi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/586328758/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/586328758/square.jpg",
+      "author": "(c) Roberto Vargas, all rights reserved",
+      "license": "cc",
+      "width": 2048,
+      "height": 1152,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

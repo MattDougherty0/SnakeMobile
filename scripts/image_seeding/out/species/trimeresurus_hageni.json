@@ -1,0 +1,17 @@
+{
+  "species_id": "trimeresurus_hageni",
+  "canonical_name": "trimeresurus hageni",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/square.jpg",
+      "author": "(c) xrmdas351, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1080,
+      "height": 1080,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

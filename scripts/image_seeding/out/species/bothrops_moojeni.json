@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_moojeni",
+  "canonical_name": "bothrops moojeni",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597666139/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597666139/square.jpg",
+      "author": "(c) Fernando Tavares., some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 923,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

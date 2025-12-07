@@ -4,63 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618580/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618580/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/223286437",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1357,
-      "taxon_id": 30877,
-      "metadata": {
-        "observation_id": 223286437,
-        "photo_id": 395618580,
-        "faves_count": 1,
-        "quality_grade": "research"
-      },
-      "content_hash": "6ae53355a998cf02aa2fdde655052bfa",
-      "score": 1.32
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618568/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618568/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/223286437",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1357,
-      "taxon_id": 30877,
-      "metadata": {
-        "observation_id": 223286437,
-        "photo_id": 395618568,
-        "faves_count": 1,
-        "quality_grade": "research"
-      },
-      "content_hash": "b9da197ad080891d35b15ceff53a9b96",
-      "score": 1.32
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618583/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/395618583/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/223286437",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1357,
-      "taxon_id": 30877,
-      "metadata": {
-        "observation_id": 223286437,
-        "photo_id": 395618583,
-        "faves_count": 1,
-        "quality_grade": "research"
-      },
-      "content_hash": "8c13d6cd6fe1149b03179255c09adcfa",
-      "score": 1.32
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/square.jpg",
+      "author": "(c) Liz, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1970,
+      "height": 1732,
+      "score": 1
     }
   ],
   "hero_index": 0

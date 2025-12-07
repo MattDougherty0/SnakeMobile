@@ -1,0 +1,17 @@
+{
+  "species_id": "porthidium_hespere",
+  "canonical_name": "porthidium hespere",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248874221/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248874221/square.jpg",
+      "author": "(c) eddie_rivera, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1536,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

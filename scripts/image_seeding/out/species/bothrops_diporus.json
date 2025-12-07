@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_diporus",
+  "canonical_name": "bothrops diporus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/square.jpg",
+      "author": "(c) Cris_de_los_humedales, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

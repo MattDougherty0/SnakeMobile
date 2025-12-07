@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_ayerbei",
+  "canonical_name": "bothrops ayerbei",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/99644/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/99644/square.jpg",
+      "author": "(c) Rafael Alejandro Camayo Concha, all rights reserved",
+      "license": "cc",
+      "width": 2048,
+      "height": 1371,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

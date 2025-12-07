@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_marmoratus",
+  "canonical_name": "bothrops marmoratus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536331665/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536331665/square.jpg",
+      "author": "(c) James Aus/BR, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 945,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

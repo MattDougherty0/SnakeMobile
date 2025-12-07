@@ -1,0 +1,17 @@
+{
+  "species_id": "garthius_chaseni",
+  "canonical_name": "garthius chaseni",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562570556/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562570556/square.jpg",
+      "author": "(c) James Hunt, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "width": 1536,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

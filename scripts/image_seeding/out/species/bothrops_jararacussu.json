@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_jararacussu",
+  "canonical_name": "bothrops jararacussu",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595439141/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595439141/square.jpg",
+      "author": "(c) Vitor Milanese, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1638,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

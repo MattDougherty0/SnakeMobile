@@ -1,0 +1,17 @@
+{
+  "species_id": "causus_lichtensteinii",
+  "canonical_name": "causus lichtensteinii",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575078526/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575078526/square.jpg",
+      "author": "(c) fvr87, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

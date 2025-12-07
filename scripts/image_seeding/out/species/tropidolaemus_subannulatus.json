@@ -1,0 +1,17 @@
+{
+  "species_id": "tropidolaemus_subannulatus",
+  "canonical_name": "tropidolaemus subannulatus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597970098/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597970098/square.jpg",
+      "author": "(c) Melisa Qonita, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

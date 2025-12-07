@@ -953,6 +953,4460 @@
         }
       ],
       "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_bilineatus",
+      "canonical_name": "agkistrodon bilineatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592276974/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592276974/square.jpg",
+          "author": "(c) Yael Mendoza Mendoza, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 828,
+          "height": 1792,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_conanti",
+      "canonical_name": "agkistrodon conanti",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597565177/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597565177/square.jpg",
+          "author": "(c) aakashmanaswi, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 800,
+          "height": 945,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_contortrix",
+      "canonical_name": "agkistrodon contortrix",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597884351/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597884351/square.jpg",
+          "author": "(c) Grace Ballenger, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_howardgloydi",
+      "canonical_name": "agkistrodon howardgloydi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559596200/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/559596200/square.jpg",
+          "author": "(c) Josue Quino, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1903,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_laticinctus",
+      "canonical_name": "agkistrodon laticinctus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597306752/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597306752/square.jpg",
+          "author": "(c) kylenpaige20, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_piscivorus",
+      "canonical_name": "agkistrodon piscivorus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597306642/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597306642/square.jpg",
+          "author": "(c) kylenpaige20, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1765,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_russeolus",
+      "canonical_name": "agkistrodon russeolus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594995175/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594995175/square.jpg",
+          "author": "(c) Diego Puc Estrada, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "agkistrodon_taylori",
+      "canonical_name": "agkistrodon taylori",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589474738/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589474738/square.jpg",
+          "author": "(c) atrevh, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_anisolepis",
+      "canonical_name": "atheris anisolepis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/square.jpg",
+          "author": "(c) Liz, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1970,
+          "height": 1732,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_barbouri",
+      "canonical_name": "atheris barbouri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353998943/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/353998943/square.jpg",
+          "author": "(c) Ryan van Huyssteen, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1250,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_broadleyi",
+      "canonical_name": "atheris broadleyi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499170690/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499170690/square.jpeg",
+          "author": "(c) Rod Cassidy, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_ceratophora",
+      "canonical_name": "atheris ceratophora",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595800016/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595800016/square.jpg",
+          "author": "(c) defillion, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1155,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_chlorechis",
+      "canonical_name": "atheris chlorechis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591292449/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591292449/square.jpg",
+          "author": "(c) terrymarron, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_desaixi",
+      "canonical_name": "atheris desaixi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/113919024/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/113919024/square.jpg",
+          "author": "(c) Matthieu Berroneau, all rights reserved",
+          "license": "cc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_hispida",
+      "canonical_name": "atheris hispida",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321040605/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/321040605/square.jpeg",
+          "author": "(c) Nkima56, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1204,
+          "height": 1600,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_mabuensis",
+      "canonical_name": "atheris mabuensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/467569865/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/467569865/square.jpg",
+          "author": "(c) Matthieu Berroneau, all rights reserved",
+          "license": "cc",
+          "width": 1600,
+          "height": 1067,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_nitschei",
+      "canonical_name": "atheris nitschei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588800991/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588800991/square.jpg",
+          "author": "no rights reserved",
+          "license": "cc0",
+          "width": 2048,
+          "height": 1489,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_rungweensis",
+      "canonical_name": "atheris rungweensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585529452/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585529452/square.jpg",
+          "author": "(c) timoteo_b, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_squamigera",
+      "canonical_name": "atheris squamigera",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595215817/square.jpg",
+          "author": "(c) Liz, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1970,
+          "height": 1732,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atheris_subocularis",
+      "canonical_name": "atheris subocularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162181944/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162181944/square.jpeg",
+          "author": "(c) Matthew Inabinett, some rights reserved (CC BY), uploaded by Matthew Inabinett",
+          "license": "cc-by",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "atropoides_picadoi",
+      "canonical_name": "atropoides picadoi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/586328758/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/586328758/square.jpg",
+          "author": "(c) Roberto Vargas, all rights reserved",
+          "license": "cc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "azemiops_feae",
+      "canonical_name": "azemiops feae",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591607442/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591607442/square.jpg",
+          "author": "(c) echoooo, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1363,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_arietans",
+      "canonical_name": "bitis arietans",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/597987228/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/597987228/square.jpg",
+          "author": "(c) Chris Whitehouse, all rights reserved",
+          "license": "cc",
+          "width": 1200,
+          "height": 900,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_armata",
+      "canonical_name": "bitis armata",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583238995/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583238995/square.jpg",
+          "author": "(c) Janine Pyne, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1100,
+          "height": 1902,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_atropos",
+      "canonical_name": "bitis atropos",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598016978/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598016978/square.jpg",
+          "author": "(c) Dylan Leonard, some rights reserved (CC BY-SA)",
+          "license": "cc-by-sa",
+          "width": 1577,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_caudalis",
+      "canonical_name": "bitis caudalis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597440237/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597440237/square.jpg",
+          "author": "(c) kweixler, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_cornuta",
+      "canonical_name": "bitis cornuta",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/593432784/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/593432784/square.jpg",
+          "author": "(c) Jessica Kemper, all rights reserved",
+          "license": "cc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_gabonica",
+      "canonical_name": "bitis gabonica",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577324365/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577324365/square.jpg",
+          "author": "(c) Fatunmbi Akindele Olu, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1542,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_inornata",
+      "canonical_name": "bitis inornata",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589834676/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589834676/square.jpg",
+          "author": "(c) Arno Van Der Vyver, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_nasicornis",
+      "canonical_name": "bitis nasicornis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592839891/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592839891/square.jpg",
+          "author": "(c) Jim Moore (Maryland), some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_parviocula",
+      "canonical_name": "bitis parviocula",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/327838094/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/327838094/square.jpg",
+          "author": "(c) Matthias De Beenhouwer, all rights reserved",
+          "license": "cc",
+          "width": 1534,
+          "height": 1232,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_peringueyi",
+      "canonical_name": "bitis peringueyi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596571380/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596571380/square.jpg",
+          "author": "(c) keith_barnes, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1423,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_rhinoceros",
+      "canonical_name": "bitis rhinoceros",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592554483/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592554483/square.jpg",
+          "author": "(c) mathias_dezetter, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_rubida",
+      "canonical_name": "bitis rubida",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589834676/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589834676/square.jpg",
+          "author": "(c) Arno Van Der Vyver, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_schneideri",
+      "canonical_name": "bitis schneideri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592472818/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592472818/square.jpg",
+          "author": "(c) pietermier, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_worthingtoni",
+      "canonical_name": "bitis worthingtoni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380430762/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/380430762/square.jpg",
+          "author": "(c) Jeff Davis, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 780,
+          "height": 1040,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bitis_xeropaga",
+      "canonical_name": "bitis xeropaga",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527174584/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527174584/square.jpg",
+          "author": "(c) Johan Huisamen, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 458,
+          "height": 513,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_aurifer",
+      "canonical_name": "bothriechis aurifer",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594820419/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594820419/square.jpg",
+          "author": "(c) krbeucler, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_bicolor",
+      "canonical_name": "bothriechis bicolor",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595144398/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595144398/square.jpg",
+          "author": "(c) bltaylor227, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_guifarroi",
+      "canonical_name": "bothriechis guifarroi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577138715/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577138715/square.jpg",
+          "author": "(c) Josue Ramos Galdamez, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_lateralis",
+      "canonical_name": "bothriechis lateralis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597804459/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597804459/square.jpg",
+          "author": "(c) Pawel115, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_marchi",
+      "canonical_name": "bothriechis marchi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588211363/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588211363/square.jpg",
+          "author": "(c) José Alberto de la Luz G., some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_nigroviridis",
+      "canonical_name": "bothriechis nigroviridis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573896020/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573896020/square.jpg",
+          "author": "(c) na.t_rex, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1280,
+          "height": 591,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_nubestris",
+      "canonical_name": "bothriechis nubestris",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583781687/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583781687/square.jpg",
+          "author": "(c) Peter Kappes, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_rowleyi",
+      "canonical_name": "bothriechis rowleyi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527289037/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527289037/square.jpg",
+          "author": "(c) Gamaliel Romero Garcia, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_schlegelii",
+      "canonical_name": "bothriechis schlegelii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596950683/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596950683/square.jpg",
+          "author": "(c) Yeison Velasquez, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 960,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_supraciliaris",
+      "canonical_name": "bothriechis supraciliaris",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583814971/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583814971/square.jpg",
+          "author": "(c) kclinevell, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1681,
+          "height": 1694,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothriechis_thalassinus",
+      "canonical_name": "bothriechis thalassinus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577169678/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577169678/square.jpg",
+          "author": "(c) Josue Ramos Galdamez, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_andianus",
+      "canonical_name": "bothrocophias andianus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539925076/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539925076/square.jpg",
+          "author": "(c) Gino Nearns, Ph.D., some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 800,
+          "height": 600,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_campbelli",
+      "canonical_name": "bothrocophias campbelli",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573572898/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/573572898/square.jpg",
+          "author": "(c) Anderson Garcia, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1535,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_colombianus",
+      "canonical_name": "bothrocophias colombianus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596429523/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596429523/square.jpg",
+          "author": "(c) rollinkansas, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_hyoprora",
+      "canonical_name": "bothrocophias hyoprora",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594451322/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594451322/square.jpg",
+          "author": "(c) Jonathan Aguirre, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 739,
+          "height": 1600,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_lojanus",
+      "canonical_name": "bothrocophias lojanus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356898230/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356898230/square.jpeg",
+          "author": "(c) Leovigildo Cabrera, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1360,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_microphthalmus",
+      "canonical_name": "bothrocophias microphthalmus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582285903/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582285903/square.jpg",
+          "author": "(c) katherine-jimenez, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrocophias_myersi",
+      "canonical_name": "bothrocophias myersi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469880984/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469880984/square.jpg",
+          "author": "(c) Fundacion ProAves, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 960,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_alcatraz",
+      "canonical_name": "bothrops alcatraz",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562363267/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562363267/square.jpg",
+          "author": "(c) Otavio Augusto Vuolo Marques, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 720,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_alternatus",
+      "canonical_name": "bothrops alternatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597845744/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597845744/square.jpg",
+          "author": "(c) Holger Braun, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 1417,
+          "height": 945,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_ammodytoides",
+      "canonical_name": "bothrops ammodytoides",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597515380/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597515380/square.jpg",
+          "author": "(c) Gabriel Celedon, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_asper",
+      "canonical_name": "bothrops asper",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597869457/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597869457/square.jpg",
+          "author": "(c) julian_leiva, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_atrox",
+      "canonical_name": "bothrops atrox",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597869457/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597869457/square.jpg",
+          "author": "(c) julian_leiva, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_ayerbei",
+      "canonical_name": "bothrops ayerbei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/99644/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/99644/square.jpg",
+          "author": "(c) Rafael Alejandro Camayo Concha, all rights reserved",
+          "license": "cc",
+          "width": 2048,
+          "height": 1371,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_barnetti",
+      "canonical_name": "bothrops barnetti",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421830077/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421830077/square.jpeg",
+          "author": "(c) KhalerBravoCueva, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 719,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_bilineatus",
+      "canonical_name": "bothrops bilineatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595130575/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595130575/square.jpg",
+          "author": "(c) timoteo_b, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1920,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_brazili",
+      "canonical_name": "bothrops brazili",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593240582/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593240582/square.jpg",
+          "author": "(c) Dominic Marmara, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1542,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_caribbaeus",
+      "canonical_name": "bothrops caribbaeus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363571093/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/363571093/square.jpg",
+          "author": "(c) Julian Fuchs, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_chloromelas",
+      "canonical_name": "bothrops chloromelas",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527497530/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527497530/square.jpg",
+          "author": "(c) e-u, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_cotiara",
+      "canonical_name": "bothrops cotiara",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588777842/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588777842/square.jpg",
+          "author": "(c) Otavio Augusto Vuolo Marques, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 900,
+          "height": 600,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_diporus",
+      "canonical_name": "bothrops diporus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/square.jpg",
+          "author": "(c) Cris_de_los_humedales, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_erythromelas",
+      "canonical_name": "bothrops erythromelas",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594469422/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594469422/square.jpg",
+          "author": "(c) Thomaz de Carvalho Callado, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_fonsecai",
+      "canonical_name": "bothrops fonsecai",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588831183/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588831183/square.jpg",
+          "author": "(c) Alex S. Rosa, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_insularis",
+      "canonical_name": "bothrops insularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562356045/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562356045/square.jpg",
+          "author": "(c) Otavio Augusto Vuolo Marques, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 718,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_itapetiningae",
+      "canonical_name": "bothrops itapetiningae",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498819594/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/498819594/square.jpeg",
+          "author": "(c) Herpetonautas, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1918,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_jararaca",
+      "canonical_name": "bothrops jararaca",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597940691/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597940691/square.jpg",
+          "author": "(c) Pedro Lucas, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1245,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_jararacussu",
+      "canonical_name": "bothrops jararacussu",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595439141/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595439141/square.jpg",
+          "author": "(c) Vitor Milanese, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1638,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_jonathani",
+      "canonical_name": "bothrops jonathani",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549459267/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/549459267/square.jpg",
+          "author": "(c) cristinalonsovega, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_lanceolatus",
+      "canonical_name": "bothrops lanceolatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597992786/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597992786/square.jpg",
+          "author": "(c) juanmanuelscarpetta, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1612,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_leucurus",
+      "canonical_name": "bothrops leucurus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595532202/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595532202/square.jpg",
+          "author": "(c) Cleber Ribeiro, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_lutzi",
+      "canonical_name": "bothrops lutzi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520201074/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/520201074/square.jpg",
+          "author": "(c) Daniel Aragão, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 946,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_marajoensis",
+      "canonical_name": "bothrops marajoensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469134555/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/469134555/square.jpeg",
+          "author": "(c) Herpetonautas, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1126,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_marmoratus",
+      "canonical_name": "bothrops marmoratus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536331665/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/536331665/square.jpg",
+          "author": "(c) James Aus/BR, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 945,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_mattogrossensis",
+      "canonical_name": "bothrops mattogrossensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595187468/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595187468/square.jpg",
+          "author": "(c) timoteo_b, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_medusa",
+      "canonical_name": "bothrops medusa",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/59672009/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/59672009/square.jpg",
+          "author": "(c) Luis Alejandro Rodriguez J., all rights reserved, uploaded by Luis Alejandro Rodriguez J.",
+          "license": "cc",
+          "width": 378,
+          "height": 280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_monsignifer",
+      "canonical_name": "bothrops monsignifer",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539110776/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539110776/square.jpg",
+          "author": "(c) Daniela Morales Moreno, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 627,
+          "height": 674,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_moojeni",
+      "canonical_name": "bothrops moojeni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597666139/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597666139/square.jpg",
+          "author": "(c) Fernando Tavares., some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 923,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_muriciensis",
+      "canonical_name": "bothrops muriciensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338483285/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338483285/square.jpeg",
+          "author": "(c) B. Phalan, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_neuwiedi",
+      "canonical_name": "bothrops neuwiedi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596939482/square.jpg",
+          "author": "(c) Cris_de_los_humedales, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_oligobalius",
+      "canonical_name": "bothrops oligobalius",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531944203/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531944203/square.jpg",
+          "author": "(c) louis_marsaud, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1367,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_oligolepis",
+      "canonical_name": "bothrops oligolepis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/379413810/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/379413810/square.jpeg",
+          "author": "(c) alex_neugebauer, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_osbornei",
+      "canonical_name": "bothrops osbornei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592715801/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592715801/square.jpg",
+          "author": "(c) Gabriel Axelsson, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_pauloensis",
+      "canonical_name": "bothrops pauloensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597973807/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597973807/square.jpg",
+          "author": "(c) KENNEDY BORGES, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1463,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_pictus",
+      "canonical_name": "bothrops pictus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584306817/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/584306817/square.jpg",
+          "author": "(c) Jean Marcos Capcha Cantalicio, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_pirajai",
+      "canonical_name": "bothrops pirajai",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180467966/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180467966/square.jpeg",
+          "author": "(c) Paulo Paixão, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_pubescens",
+      "canonical_name": "bothrops pubescens",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597760318/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597760318/square.jpg",
+          "author": "(c) vanessabuchweitz, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_pulcher",
+      "canonical_name": "bothrops pulcher",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562802196/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562802196/square.jpg",
+          "author": "(c) Juan C. Sánchez-Nivicela, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_punctatus",
+      "canonical_name": "bothrops punctatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595245612/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595245612/square.jpg",
+          "author": "(c) Fundacion ProAves, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 780,
+          "height": 1040,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_sanctaecrucis",
+      "canonical_name": "bothrops sanctaecrucis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503855250/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503855250/square.jpg",
+          "author": "(c) Raquel Mondino, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1280,
+          "height": 960,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_sonene",
+      "canonical_name": "bothrops sonene",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/57856124/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/57856124/square.jpg",
+          "author": "(c) Guido Ayala, all rights reserved, uploaded by Guido Ayala",
+          "license": "cc",
+          "width": 1946,
+          "height": 1965,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_taeniatus",
+      "canonical_name": "bothrops taeniatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591461703/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591461703/square.jpg",
+          "author": "(c) jdiegoc, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "bothrops_venezuelensis",
+      "canonical_name": "bothrops venezuelensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595552108/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595552108/square.jpg",
+          "author": "(c) darkson10, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1459,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "calloselasma_rhodostoma",
+      "canonical_name": "calloselasma rhodostoma",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596668493/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596668493/square.jpg",
+          "author": "(c) tedybear, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_bilineatus",
+      "canonical_name": "causus bilineatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588671750/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588671750/square.jpg",
+          "author": "(c) stormcrow449, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_defilippii",
+      "canonical_name": "causus defilippii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597177549/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597177549/square.jpg",
+          "author": "(c) Said Karia, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 945,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_lichtensteinii",
+      "canonical_name": "causus lichtensteinii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575078526/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575078526/square.jpg",
+          "author": "(c) fvr87, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_maculatus",
+      "canonical_name": "causus maculatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590440918/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590440918/square.jpg",
+          "author": "(c) asanwanyi, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_resimus",
+      "canonical_name": "causus resimus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593745898/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593745898/square.jpg",
+          "author": "(c) ry_bru, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "causus_rhombeatus",
+      "canonical_name": "causus rhombeatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597937321/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597937321/square.jpg",
+          "author": "(c) Mandy Schubach, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 929,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerastes_cerastes",
+      "canonical_name": "cerastes cerastes",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597876230/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597876230/square.jpg",
+          "author": "(c) iphilbrick, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerastes_gasperettii",
+      "canonical_name": "cerastes gasperettii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595060242/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595060242/square.jpg",
+          "author": "(c) Denis Hlaváč, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerastes_vipera",
+      "canonical_name": "cerastes vipera",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592474112/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592474112/square.jpg",
+          "author": "(c) Walter Neser, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_godmani",
+      "canonical_name": "cerrophidion godmani",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594680821/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594680821/square.jpg",
+          "author": "(c) Mark B. Robbins, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 811,
+          "height": 575,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_petlalcalensis",
+      "canonical_name": "cerrophidion petlalcalensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577348597/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577348597/square.jpg",
+          "author": "(c) zahir santillan, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_sasai",
+      "canonical_name": "cerrophidion sasai",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597511810/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597511810/square.jpg",
+          "author": "(c) animalencounters, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1710,
+          "height": 1710,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_tzotzilorum",
+      "canonical_name": "cerrophidion tzotzilorum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577850380/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577850380/square.jpg",
+          "author": "(c) melcastillo, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1600,
+          "height": 1065,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "cerrophidion_wilsoni",
+      "canonical_name": "cerrophidion wilsoni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565250664/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/565250664/square.jpg",
+          "author": "(c) Laura Gabriela Rosales, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "crotalus_morulus",
+      "canonical_name": "crotalus morulus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583626199/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583626199/square.jpg",
+          "author": "(c) Marco Zozaya, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "crotalus_tzabcan",
+      "canonical_name": "crotalus tzabcan",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594872846/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594872846/square.jpg",
+          "author": "(c) Leonardo Guerrero González, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "daboia_mauritanica",
+      "canonical_name": "daboia mauritanica",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587723649/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/587723649/square.jpg",
+          "author": "(c) Koriba_Rachid, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1271,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "daboia_palaestinae",
+      "canonical_name": "daboia palaestinae",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585306472/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585306472/square.jpg",
+          "author": "(c) Iris Engel, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "daboia_russelii",
+      "canonical_name": "daboia russelii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/square.jpg",
+          "author": "(c) siva kumar, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "daboia_siamensis",
+      "canonical_name": "daboia siamensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/square.jpg",
+          "author": "(c) siva kumar, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "deinagkistrodon_acutus",
+      "canonical_name": "deinagkistrodon acutus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593055675/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593055675/square.jpg",
+          "author": "(c) inatpeshualien001, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1110,
+          "height": 1474,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_carinatus",
+      "canonical_name": "echis carinatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597206278/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597206278/square.jpg",
+          "author": "(c) rishipalguna12, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_coloratus",
+      "canonical_name": "echis coloratus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595063553/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595063553/square.jpg",
+          "author": "(c) Denis Hlaváč, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1153,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_khosatzkii",
+      "canonical_name": "echis khosatzkii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594752169/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594752169/square.jpg",
+          "author": "(c) Petr Kocarek, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_leucogaster",
+      "canonical_name": "echis leucogaster",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590679327/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590679327/square.jpg",
+          "author": "(c) krokodyle_waw, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 514,
+          "height": 913,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_ocellatus",
+      "canonical_name": "echis ocellatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562685054/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562685054/square.jpg",
+          "author": "(c) Sulaiman Inuwa Muhammad, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_omanensis",
+      "canonical_name": "echis omanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591313323/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591313323/square.jpg",
+          "author": "(c) Victoria Cuthbert, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1960,
+          "height": 1960,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_orlovi",
+      "canonical_name": "vipera orlovi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574659333/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/574659333/square.jpg",
+          "author": "(c) Mityakov DA, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_renardi",
+      "canonical_name": "vipera renardi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590374136/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590374136/square.jpg",
+          "author": "(c) почти биолог, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_seoanei",
+      "canonical_name": "vipera seoanei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596236665/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596236665/square.jpg",
+          "author": "(c) Víctor González García, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_transcaucasiana",
+      "canonical_name": "vipera transcaucasiana",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571108401/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571108401/square.jpg",
+          "author": "(c) Aurélien Grimaud, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1920,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_ursinii",
+      "canonical_name": "vipera ursinii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590374136/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590374136/square.jpg",
+          "author": "(c) почти биолог, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "echis_pyramidum",
+      "canonical_name": "echis pyramidum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/585392783/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/585392783/square.jpg",
+          "author": "(c) Wolfgang Wüster, all rights reserved",
+          "license": "cc",
+          "width": 930,
+          "height": 697,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "eristicophis_macmahoni",
+      "canonical_name": "eristicophis macmahoni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/203706/medium.JPG",
+          "thumb_url": "https://static.inaturalist.org/photos/203706/square.JPG",
+          "author": "(c) Paul Freed, all rights reserved, uploaded by Paul Freed",
+          "license": "cc",
+          "width": 730,
+          "height": 497,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "garthius_chaseni",
+      "canonical_name": "garthius chaseni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562570556/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562570556/square.jpg",
+          "author": "(c) James Hunt, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_blomhoffii",
+      "canonical_name": "gloydius blomhoffii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597394906/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597394906/square.jpg",
+          "author": "(c) しぇろん, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_brevicaudus",
+      "canonical_name": "gloydius brevicaudus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596943619/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596943619/square.jpg",
+          "author": "(c) chuck_ming0000000, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1537,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_caraganus",
+      "canonical_name": "gloydius caraganus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592172650/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592172650/square.jpg",
+          "author": "(c) Maxim Koshkin, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_caucasicus",
+      "canonical_name": "gloydius caucasicus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592799538/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592799538/square.jpg",
+          "author": "(c) Reza Mazrue, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 754,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_halys",
+      "canonical_name": "gloydius halys",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596426952/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596426952/square.jpg",
+          "author": "(c) B.Byambajav, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_himalayanus",
+      "canonical_name": "gloydius himalayanus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588998156/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588998156/square.jpg",
+          "author": "(c) Maya Lodhiyal, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_intermedius",
+      "canonical_name": "gloydius intermedius",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591760917/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591760917/square.jpg",
+          "author": "(c) Yoonjeong Heo, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_rickmersi",
+      "canonical_name": "gloydius rickmersi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71360266/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/71360266/square.jpeg",
+          "author": "(c) Lada Lisachova, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_shedaoensis",
+      "canonical_name": "gloydius shedaoensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435728485/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/435728485/square.jpeg",
+          "author": "(c) greener12, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_strauchi",
+      "canonical_name": "gloydius strauchi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5997566/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5997566/square.jpg",
+          "author": "(c) Yann Bigant, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1680,
+          "height": 1044,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_tsushimaensis",
+      "canonical_name": "gloydius tsushimaensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568800033/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/568800033/square.jpg",
+          "author": "(c) C.B.Robin, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "gloydius_ussuriensis",
+      "canonical_name": "gloydius ussuriensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597415417/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597415417/square.jpg",
+          "author": "(c) Vladimir Tretyakov, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "hypnale_hypnale",
+      "canonical_name": "hypnale hypnale",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/598016971/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/598016971/square.jpg",
+          "author": "(c) Henning Karger, all rights reserved",
+          "license": "cc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "hypnale_nepa",
+      "canonical_name": "hypnale nepa",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589262460/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589262460/square.jpg",
+          "author": "(c) Pasindu Dilshan Abegunawaradhana, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "hypnale_zara",
+      "canonical_name": "hypnale zara",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597744052/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597744052/square.jpg",
+          "author": "(c) dxsu003, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 960,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "lachesis_acrochorda",
+      "canonical_name": "lachesis acrochorda",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593450696/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593450696/square.jpg",
+          "author": "(c) Javier David Quiroga Nova, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "lachesis_melanocephala",
+      "canonical_name": "lachesis melanocephala",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563190853/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/563190853/square.jpg",
+          "author": "(c) kclinevell, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1440,
+          "height": 1425,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "lachesis_muta",
+      "canonical_name": "lachesis muta",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595418342/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595418342/square.jpg",
+          "author": "(c) alemnobre, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 774,
+          "height": 1032,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "lachesis_stenophrys",
+      "canonical_name": "lachesis stenophrys",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597344300/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597344300/square.jpg",
+          "author": "(c) debodu03, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1154,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "macrovipera_lebetinus",
+      "canonical_name": "macrovipera lebetinus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597918334/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597918334/square.jpg",
+          "author": "(c) sloeberine, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 922,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "macrovipera_schweizeri",
+      "canonical_name": "macrovipera schweizeri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/592670116/medium.jpg",
+          "thumb_url": "https://static.inaturalist.org/photos/592670116/square.jpg",
+          "author": "(c) Wolfgang Wüster, all rights reserved",
+          "license": "cc",
+          "width": 2000,
+          "height": 1500,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "metlapilcoatlus_indomitus",
+      "canonical_name": "metlapilcoatlus indomitus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577420286/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577420286/square.jpg",
+          "author": "(c) Andrea Mayen, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "metlapilcoatlus_mexicanus",
+      "canonical_name": "metlapilcoatlus mexicanus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597517912/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597517912/square.jpg",
+          "author": "(c) animalencounters, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "metlapilcoatlus_nummifer",
+      "canonical_name": "metlapilcoatlus nummifer",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582102725/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582102725/square.jpg",
+          "author": "(c) daymc, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1020,
+          "height": 765,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "metlapilcoatlus_occiduus",
+      "canonical_name": "metlapilcoatlus occiduus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527158631/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/527158631/square.jpg",
+          "author": "(c) biferperez, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "metlapilcoatlus_olmec",
+      "canonical_name": "metlapilcoatlus olmec",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530595020/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530595020/square.jpg",
+          "author": "(c) El Chivizcoyo, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "mixcoatlus_barbouri",
+      "canonical_name": "mixcoatlus barbouri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://static.inaturalist.org/photos/311687380/medium.jpeg",
+          "thumb_url": "https://static.inaturalist.org/photos/311687380/square.jpeg",
+          "author": "(c) Eric Centenero Alcalá, all rights reserved",
+          "license": "cc",
+          "width": 720,
+          "height": 480,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "mixcoatlus_browni",
+      "canonical_name": "mixcoatlus browni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239741692/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/239741692/square.jpg",
+          "author": "(c) Katiya (Yekaterina Pavlova), some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1428,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "mixcoatlus_melanurus",
+      "canonical_name": "mixcoatlus melanurus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457330888/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/457330888/square.jpg",
+          "author": "(c) hilaguel21, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montatheris_hindii",
+      "canonical_name": "montatheris hindii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487497783/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/487497783/square.jpg",
+          "author": "(c) Jeff Davis, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_albizona",
+      "canonical_name": "montivipera albizona",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390541/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390541/square.jpg",
+          "author": "(c) Otto Bylén Claesson, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1151,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_bornmuelleri",
+      "canonical_name": "montivipera bornmuelleri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592480402/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592480402/square.jpg",
+          "author": "(c) Walter Neser, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_bulgardaghica",
+      "canonical_name": "montivipera bulgardaghica",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390551/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390551/square.jpg",
+          "author": "(c) Otto Bylén Claesson, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_latifii",
+      "canonical_name": "montivipera latifii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162902289/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/162902289/square.jpeg",
+          "author": "(c) Mohammad Amin Ghaffari, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_raddei",
+      "canonical_name": "montivipera raddei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543348415/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543348415/square.jpg",
+          "author": "(c) dvit, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_wagneri",
+      "canonical_name": "montivipera wagneri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517023427/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517023427/square.jpg",
+          "author": "(c) herhangi1i, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "montivipera_xanthina",
+      "canonical_name": "montivipera xanthina",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594377994/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594377994/square.jpg",
+          "author": "(c) flavio, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2047,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ophryacus_smaragdinus",
+      "canonical_name": "ophryacus smaragdinus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534135914/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/534135914/square.jpg",
+          "author": "(c) Área de Protección de Recursos Naturales de Tlachinoltepetl, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 921,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ophryacus_sphenophrys",
+      "canonical_name": "ophryacus sphenophrys",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346810046/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/346810046/square.jpg",
+          "author": "(c) Daniel Durán Arceo, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ophryacus_undulatus",
+      "canonical_name": "ophryacus undulatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577223616/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577223616/square.jpg",
+          "author": "(c) zahir santillan, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_convictus",
+      "canonical_name": "ovophis convictus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572145786/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/572145786/square.jpg",
+          "author": "(c) Doriane Litaudon, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1148,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_makazayazaya",
+      "canonical_name": "ovophis makazayazaya",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594845504/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594845504/square.jpg",
+          "author": "(c) SIFASV from Vietnam_Nguyen Van Tan, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_monticola",
+      "canonical_name": "ovophis monticola",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594845504/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594845504/square.jpg",
+          "author": "(c) SIFASV from Vietnam_Nguyen Van Tan, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_okinavensis",
+      "canonical_name": "ovophis okinavensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595476135/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595476135/square.jpg",
+          "author": "(c) Tim Karnasuta, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "ovophis_tonkinensis",
+      "canonical_name": "ovophis tonkinensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593087407/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593087407/square.jpg",
+          "author": "(c) Mạnh Hùng, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 490,
+          "height": 1089,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_arcosae",
+      "canonical_name": "porthidium arcosae",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586717861/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586717861/square.jpg",
+          "author": "(c) kelly_swing, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1362,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_dunni",
+      "canonical_name": "porthidium dunni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595299565/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595299565/square.jpg",
+          "author": "(c) filimonios, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1153,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_hespere",
+      "canonical_name": "porthidium hespere",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248874221/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/248874221/square.jpg",
+          "author": "(c) eddie_rivera, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_lansbergii",
+      "canonical_name": "porthidium lansbergii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597382080/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597382080/square.jpg",
+          "author": "(c) karolusone, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1600,
+          "height": 719,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_nasutum",
+      "canonical_name": "porthidium nasutum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597480792/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597480792/square.jpg",
+          "author": "(c) Wolfgang Bittermann, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_ophryomegas",
+      "canonical_name": "porthidium ophryomegas",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597323790/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597323790/square.jpg",
+          "author": "(c) Jairo Moya Vargas, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 912,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_porrasi",
+      "canonical_name": "porthidium porrasi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546541159/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/546541159/square.jpg",
+          "author": "(c) f_fleming-ochoverde, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_volcanicum",
+      "canonical_name": "porthidium volcanicum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591192096/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591192096/square.jpg",
+          "author": "(c) kclinevell, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1983,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "porthidium_yucatanicum",
+      "canonical_name": "porthidium yucatanicum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592982211/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592982211/square.jpg",
+          "author": "(c) Sebastián de Jesús Herrera Buenfil, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 720,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "proatheris_superciliaris",
+      "canonical_name": "proatheris superciliaris",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590993883/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590993883/square.jpg",
+          "author": "(c) Joy Le Roux, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1009,
+          "height": 875,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_cornutus",
+      "canonical_name": "protobothrops cornutus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588635295/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588635295/square.jpg",
+          "author": "(c) shensike, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_elegans",
+      "canonical_name": "protobothrops elegans",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596916068/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596916068/square.jpg",
+          "author": "(c) lice_on_rice, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1153,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_flavoviridis",
+      "canonical_name": "protobothrops flavoviridis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593314892/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593314892/square.jpg",
+          "author": "(c) Nina, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_jerdonii",
+      "canonical_name": "protobothrops jerdonii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588090064/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588090064/square.jpg",
+          "author": "(c) guliwu_island, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_kaulbacki",
+      "canonical_name": "protobothrops kaulbacki",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548817366/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/548817366/square.jpg",
+          "author": "(c) Temjen, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_mangshanensis",
+      "canonical_name": "protobothrops mangshanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582137990/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582137990/square.jpg",
+          "author": "(c) KragiKuak, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1756,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_mucrosquamatus",
+      "canonical_name": "protobothrops mucrosquamatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597715709/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597715709/square.jpg",
+          "author": "(c) 好记性, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 952,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_sieversorum",
+      "canonical_name": "protobothrops sieversorum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586554984/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586554984/square.jpg",
+          "author": "(c) Vncreatures, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 960,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "protobothrops_xiangchengensis",
+      "canonical_name": "protobothrops xiangchengensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227526742/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/227526742/square.jpg",
+          "author": "(c) luzhuoyu, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "pseudocerastes_fieldi",
+      "canonical_name": "pseudocerastes fieldi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592479292/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592479292/square.jpg",
+          "author": "(c) Walter Neser, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "pseudocerastes_persicus",
+      "canonical_name": "pseudocerastes persicus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560981103/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/560981103/square.jpg",
+          "author": "(c) Moosa, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1071,
+          "height": 673,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "pseudocerastes_urarachnoides",
+      "canonical_name": "pseudocerastes urarachnoides",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578834546/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578834546/square.jpg",
+          "author": "(c) Kian, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_albolabris",
+      "canonical_name": "trimeresurus albolabris",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597983755/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597983755/square.jpg",
+          "author": "(c) gewara, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_andalasensis",
+      "canonical_name": "trimeresurus andalasensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567874961/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/567874961/square.jpg",
+          "author": "(c) Mélodie Caussat, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_andersonii",
+      "canonical_name": "trimeresurus andersonii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595190605/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595190605/square.jpg",
+          "author": "(c) Lukasz Ifczok, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1266,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_borneensis",
+      "canonical_name": "trimeresurus borneensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585939041/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/585939041/square.jpg",
+          "author": "(c) rigbynature, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1245,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_brongersmai",
+      "canonical_name": "trimeresurus brongersmai",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424746099/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/424746099/square.jpeg",
+          "author": "(c) Tabris Tabarsi, some rights reserved (CC BY-NC-ND)",
+          "license": "cc-by-nc-nd",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_cantori",
+      "canonical_name": "trimeresurus cantori",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466346854/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/466346854/square.jpeg",
+          "author": "(c) sheheerali, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_cardamomensis",
+      "canonical_name": "trimeresurus cardamomensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597344675/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597344675/square.jpg",
+          "author": "(c) Ash, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_erythrurus",
+      "canonical_name": "trimeresurus erythrurus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/square.jpg",
+          "author": "(c) xrmdas351, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_flavomaculatus",
+      "canonical_name": "trimeresurus flavomaculatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596952257/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596952257/square.jpg",
+          "author": "(c) yvo13, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1418,
+          "height": 1891,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_gracilis",
+      "canonical_name": "trimeresurus gracilis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591216182/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591216182/square.jpg",
+          "author": "(c) changchih-yi, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_gramineus",
+      "canonical_name": "trimeresurus gramineus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597897305/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597897305/square.jpg",
+          "author": "(c) 林錦宏, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_gumprechti",
+      "canonical_name": "trimeresurus gumprechti",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579454811/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/579454811/square.jpg",
+          "author": "(c) 遊星, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1542,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_gunaleni",
+      "canonical_name": "trimeresurus gunaleni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530264810/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/530264810/square.jpg",
+          "author": "(c) romeoliekens, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1620,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_hageni",
+      "canonical_name": "trimeresurus hageni",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/square.jpg",
+          "author": "(c) xrmdas351, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_honsonensis",
+      "canonical_name": "trimeresurus honsonensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503946361/medium.png",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/503946361/square.png",
+          "author": "(c) James Hunt, some rights reserved (CC BY)",
+          "license": "cc-by",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_insularis",
+      "canonical_name": "trimeresurus insularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597975909/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597975909/square.jpg",
+          "author": "(c) Ferra Edry Manu, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1280,
+          "height": 960,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_kanburiensis",
+      "canonical_name": "trimeresurus kanburiensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588638222/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588638222/square.jpg",
+          "author": "(c) mayoh, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_labialis",
+      "canonical_name": "trimeresurus labialis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499056403/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/499056403/square.jpeg",
+          "author": "(c) Mohit Mishra, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_macrolepis",
+      "canonical_name": "trimeresurus macrolepis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593623959/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/593623959/square.jpg",
+          "author": "(c) Zainul abid C K V, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1366,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_macrops",
+      "canonical_name": "trimeresurus macrops",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597412533/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597412533/square.jpg",
+          "author": "(c) 曾郁哲, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_malabaricus",
+      "canonical_name": "trimeresurus malabaricus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596460542/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596460542/square.jpg",
+          "author": "(c) Aditya Bari, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_malcolmi",
+      "canonical_name": "trimeresurus malcolmi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589245698/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589245698/square.jpg",
+          "author": "(c) rigbynature, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1290,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_mcgregori",
+      "canonical_name": "trimeresurus mcgregori",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517590336/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/517590336/square.jpg",
+          "author": "(c) javisark, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_nebularis",
+      "canonical_name": "trimeresurus nebularis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594378062/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594378062/square.jpg",
+          "author": "(c) DolceAmore, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_phuketensis",
+      "canonical_name": "trimeresurus phuketensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594300327/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594300327/square.jpg",
+          "author": "(c) pavelkornev, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_popeiorum",
+      "canonical_name": "trimeresurus popeiorum",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596664255/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596664255/square.jpg",
+          "author": "(c) budak, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_puniceus",
+      "canonical_name": "trimeresurus puniceus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597692116/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597692116/square.jpg",
+          "author": "(c) johanneshausharter, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_purpureomaculatus",
+      "canonical_name": "trimeresurus purpureomaculatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597993829/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597993829/square.jpg",
+          "author": "(c) caleidoskopable, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_rubeus",
+      "canonical_name": "trimeresurus rubeus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597655108/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597655108/square.jpg",
+          "author": "(c) fatih izler, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1920,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_sabahi",
+      "canonical_name": "trimeresurus sabahi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596664255/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/596664255/square.jpg",
+          "author": "(c) budak, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_salazar",
+      "canonical_name": "trimeresurus salazar",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583203841/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583203841/square.jpg",
+          "author": "(c) Mayukh Hajra, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_schultzei",
+      "canonical_name": "trimeresurus schultzei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479809056/medium.jpeg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/479809056/square.jpeg",
+          "author": "(c) javisark, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_septentrionalis",
+      "canonical_name": "trimeresurus septentrionalis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588047541/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588047541/square.jpg",
+          "author": "(c) Omkar S Damle, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_sichuanensis",
+      "canonical_name": "trimeresurus sichuanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561669786/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561669786/square.jpg",
+          "author": "(c) 咩赫得, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_stejnegeri",
+      "canonical_name": "trimeresurus stejnegeri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597897305/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597897305/square.jpg",
+          "author": "(c) 林錦宏, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1152,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_strigatus",
+      "canonical_name": "trimeresurus strigatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2580252/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2580252/square.jpg",
+          "author": "(c) indianwildlife, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1541,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_sumatranus",
+      "canonical_name": "trimeresurus sumatranus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380904/square.jpg",
+          "author": "(c) xrmdas351, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1080,
+          "height": 1080,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_tibetanus",
+      "canonical_name": "trimeresurus tibetanus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453014342/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/453014342/square.jpg",
+          "author": "(c) Alex, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1500,
+          "height": 998,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_trigonocephalus",
+      "canonical_name": "trimeresurus trigonocephalus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380968/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597380968/square.jpg",
+          "author": "(c) Lars van Dee, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_venustus",
+      "canonical_name": "trimeresurus venustus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588950335/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/588950335/square.jpg",
+          "author": "(c) noonana, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_vogeli",
+      "canonical_name": "trimeresurus vogeli",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597468840/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597468840/square.jpg",
+          "author": "(c) plsbde, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1356,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "trimeresurus_yunnanensis",
+      "canonical_name": "trimeresurus yunnanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589735525/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589735525/square.jpg",
+          "author": "(c) 陈龙, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 921,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "tropidolaemus_philippensis",
+      "canonical_name": "tropidolaemus philippensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391123211/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391123211/square.jpg",
+          "author": "(c) Jay Paul Mantuon, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1385,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "tropidolaemus_subannulatus",
+      "canonical_name": "tropidolaemus subannulatus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597970098/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597970098/square.jpg",
+          "author": "(c) Melisa Qonita, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1536,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "tropidolaemus_wagleri",
+      "canonical_name": "tropidolaemus wagleri",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597958000/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597958000/square.jpg",
+          "author": "(c) PampaSorro, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_altaica",
+      "canonical_name": "vipera altaica",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/square.jpg",
+          "author": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+          "license": "cc-by-nc",
+          "width": 950,
+          "height": 707,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_ammodytes",
+      "canonical_name": "vipera ammodytes",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597718261/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597718261/square.jpg",
+          "author": "(c) jstickley, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 946,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_anatolica",
+      "canonical_name": "vipera anatolica",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390540/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/402390540/square.jpg",
+          "author": "(c) Otto Bylén Claesson, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1152,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_aspis",
+      "canonical_name": "vipera aspis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597675163/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597675163/square.jpg",
+          "author": "(c) Jory Fuser, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_barani",
+      "canonical_name": "vipera barani",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518101226/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518101226/square.jpg",
+          "author": "(c) Celal Vulgaris, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 921,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_berus",
+      "canonical_name": "vipera berus",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598012102/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/598012102/square.jpg",
+          "author": "(c) Joshua Brockow, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 599,
+          "height": 799,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_darevskii",
+      "canonical_name": "vipera darevskii",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571962646/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/571962646/square.jpg",
+          "author": "(c) Aurélien Grimaud, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1920,
+          "height": 1280,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_dinniki",
+      "canonical_name": "vipera dinniki",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/square.jpg",
+          "author": "(c) David Khaydarov, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_eriwanensis",
+      "canonical_name": "vipera eriwanensis",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594926690/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594926690/square.jpg",
+          "author": "(c) Lennart Schmid, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1367,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_graeca",
+      "canonical_name": "vipera graeca",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575816124/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/575816124/square.jpg",
+          "author": "(c) Lennart Schmid, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_kaznakovi",
+      "canonical_name": "vipera kaznakovi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/square.jpg",
+          "author": "(c) David Khaydarov, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_latastei",
+      "canonical_name": "vipera latastei",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595847137/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595847137/square.jpg",
+          "author": "(c) José Jiménez Higuera, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 1536,
+          "height": 2048,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_lotievi",
+      "canonical_name": "vipera lotievi",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591359362/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591359362/square.jpg",
+          "author": "(c) Vladimir Tretyakov, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_monticola",
+      "canonical_name": "vipera monticola",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580122281/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/580122281/square.jpg",
+          "author": "(c) john_rochester, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
+    },
+    {
+      "species_id": "vipera_walser",
+      "canonical_name": "vipera walser",
+      "images": [
+        {
+          "source": "inaturalist",
+          "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582295120/medium.jpg",
+          "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582295120/square.jpg",
+          "author": "(c) Michael Wilms, some rights reserved (CC BY-NC)",
+          "license": "cc-by-nc",
+          "width": 2048,
+          "height": 1365,
+          "score": 1
+        }
+      ],
+      "hero_index": 0
     }
   ]
 }

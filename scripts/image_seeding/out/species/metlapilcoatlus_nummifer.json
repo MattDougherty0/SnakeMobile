@@ -1,0 +1,17 @@
+{
+  "species_id": "metlapilcoatlus_nummifer",
+  "canonical_name": "metlapilcoatlus nummifer",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582102725/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/582102725/square.jpg",
+      "author": "(c) daymc, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1020,
+      "height": 765,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

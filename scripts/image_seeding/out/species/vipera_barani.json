@@ -1,0 +1,17 @@
+{
+  "species_id": "vipera_barani",
+  "canonical_name": "vipera barani",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518101226/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/518101226/square.jpg",
+      "author": "(c) Celal Vulgaris, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 921,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

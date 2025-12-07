@@ -1,0 +1,17 @@
+{
+  "species_id": "bothriechis_nubestris",
+  "canonical_name": "bothriechis nubestris",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583781687/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/583781687/square.jpg",
+      "author": "(c) Peter Kappes, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

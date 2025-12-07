@@ -1,0 +1,17 @@
+{
+  "species_id": "trimeresurus_yunnanensis",
+  "canonical_name": "trimeresurus yunnanensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589735525/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589735525/square.jpg",
+      "author": "(c) 陈龙, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 921,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

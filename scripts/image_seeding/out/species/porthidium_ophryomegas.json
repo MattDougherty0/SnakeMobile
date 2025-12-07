@@ -1,0 +1,17 @@
+{
+  "species_id": "porthidium_ophryomegas",
+  "canonical_name": "porthidium ophryomegas",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597323790/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597323790/square.jpg",
+      "author": "(c) Jairo Moya Vargas, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 912,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

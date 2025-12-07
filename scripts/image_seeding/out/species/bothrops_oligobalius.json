@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_oligobalius",
+  "canonical_name": "bothrops oligobalius",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531944203/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/531944203/square.jpg",
+      "author": "(c) louis_marsaud, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1367,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

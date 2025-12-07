@@ -4,23 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528521058/medium.jpg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/528521058/square.jpg",
-      "original_page": "https://www.inaturalist.org/observations/293662702",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 1536,
-      "height": 2048,
-      "taxon_id": 73996,
-      "metadata": {
-        "observation_id": 293662702,
-        "photo_id": 528521058,
-        "faves_count": 1,
-        "quality_grade": "research"
-      },
-      "content_hash": "ae41021992e9e9fbe56c1e3c8e093a2b",
-      "score": 1.32
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/578348882/square.jpg",
+      "author": "(c) David Khaydarov, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
     }
   ],
   "hero_index": 0

@@ -1,0 +1,17 @@
+{
+  "species_id": "tropidolaemus_philippensis",
+  "canonical_name": "tropidolaemus philippensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391123211/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/391123211/square.jpg",
+      "author": "(c) Jay Paul Mantuon, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1385,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

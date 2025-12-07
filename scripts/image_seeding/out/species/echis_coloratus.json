@@ -1,0 +1,17 @@
+{
+  "species_id": "echis_coloratus",
+  "canonical_name": "echis coloratus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595063553/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595063553/square.jpg",
+      "author": "(c) Denis Hlaváč, some rights reserved (CC BY-NC-ND)",
+      "license": "cc-by-nc-nd",
+      "width": 2048,
+      "height": 1153,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -4,63 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456129/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456129/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/174659321",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1365,
-      "taxon_id": 30882,
-      "metadata": {
-        "observation_id": 174659321,
-        "photo_id": 303456129,
-        "faves_count": 3,
-        "quality_grade": "research"
-      },
-      "content_hash": "8303d6607859780055c4f6e99e9d0903",
-      "score": 1.36
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456142/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456142/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/174659321",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 1365,
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591292449/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591292449/square.jpg",
+      "author": "(c) terrymarron, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1536,
       "height": 2048,
-      "taxon_id": 30882,
-      "metadata": {
-        "observation_id": 174659321,
-        "photo_id": 303456142,
-        "faves_count": 3,
-        "quality_grade": "research"
-      },
-      "content_hash": "d1bcd59c1e0463718e6e6786d9aa321a",
-      "score": 1.36
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456121/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/303456121/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/174659321",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1365,
-      "taxon_id": 30882,
-      "metadata": {
-        "observation_id": 174659321,
-        "photo_id": 303456121,
-        "faves_count": 3,
-        "quality_grade": "research"
-      },
-      "content_hash": "d68524785bcd3a4bcc3430bd3c5deceb",
-      "score": 1.36
+      "score": 1
     }
   ],
   "hero_index": 0

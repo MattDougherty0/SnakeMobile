@@ -1,0 +1,17 @@
+{
+  "species_id": "atheris_mabuensis",
+  "canonical_name": "atheris mabuensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/467569865/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/467569865/square.jpg",
+      "author": "(c) Matthieu Berroneau, all rights reserved",
+      "license": "cc",
+      "width": 1600,
+      "height": 1067,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

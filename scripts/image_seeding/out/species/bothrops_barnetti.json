@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_barnetti",
+  "canonical_name": "bothrops barnetti",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421830077/medium.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/421830077/square.jpeg",
+      "author": "(c) KhalerBravoCueva, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 719,
+      "height": 1280,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

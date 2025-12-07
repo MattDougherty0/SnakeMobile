@@ -1,0 +1,17 @@
+{
+  "species_id": "vipera_altaica",
+  "canonical_name": "vipera altaica",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29836767/square.jpg",
+      "author": "(c) Алексей Эбель, some rights reserved (CC BY-NC), uploaded by Алексей Эбель",
+      "license": "cc-by-nc",
+      "width": 950,
+      "height": 707,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

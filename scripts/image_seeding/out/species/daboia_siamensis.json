@@ -4,23 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427865561/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/427865561/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/240169674",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 1075,
-      "height": 705,
-      "taxon_id": 145768,
-      "metadata": {
-        "observation_id": 240169674,
-        "photo_id": 427865561,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "a7c6cd2fa8e4b6c27f8242318303e584",
-      "score": 1.2115
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/597657429/square.jpg",
+      "author": "(c) siva kumar, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
     }
   ],
   "hero_index": 0

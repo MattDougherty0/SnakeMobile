@@ -1,0 +1,17 @@
+{
+  "species_id": "gloydius_caucasicus",
+  "canonical_name": "gloydius caucasicus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592799538/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/592799538/square.jpg",
+      "author": "(c) Reza Mazrue, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 754,
+      "height": 1080,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

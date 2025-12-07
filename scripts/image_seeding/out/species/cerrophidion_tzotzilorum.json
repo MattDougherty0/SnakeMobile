@@ -1,0 +1,17 @@
+{
+  "species_id": "cerrophidion_tzotzilorum",
+  "canonical_name": "cerrophidion tzotzilorum",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577850380/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577850380/square.jpg",
+      "author": "(c) melcastillo, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1600,
+      "height": 1065,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

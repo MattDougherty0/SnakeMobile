@@ -1,0 +1,17 @@
+{
+  "species_id": "bothriechis_thalassinus",
+  "canonical_name": "bothriechis thalassinus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577169678/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/577169678/square.jpg",
+      "author": "(c) Josue Ramos Galdamez, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

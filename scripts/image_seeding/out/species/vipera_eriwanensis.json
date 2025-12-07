@@ -1,0 +1,17 @@
+{
+  "species_id": "vipera_eriwanensis",
+  "canonical_name": "vipera eriwanensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594926690/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594926690/square.jpg",
+      "author": "(c) Lennart Schmid, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1367,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

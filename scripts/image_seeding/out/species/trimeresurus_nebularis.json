@@ -1,0 +1,17 @@
+{
+  "species_id": "trimeresurus_nebularis",
+  "canonical_name": "trimeresurus nebularis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594378062/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594378062/square.jpg",
+      "author": "(c) DolceAmore, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

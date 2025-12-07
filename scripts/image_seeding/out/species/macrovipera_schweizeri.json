@@ -1,0 +1,17 @@
+{
+  "species_id": "macrovipera_schweizeri",
+  "canonical_name": "macrovipera schweizeri",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/592670116/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/592670116/square.jpg",
+      "author": "(c) Wolfgang Wüster, all rights reserved",
+      "license": "cc",
+      "width": 2000,
+      "height": 1500,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

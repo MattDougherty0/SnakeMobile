@@ -1,0 +1,17 @@
+{
+  "species_id": "echis_pyramidum",
+  "canonical_name": "echis pyramidum",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/585392783/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/585392783/square.jpg",
+      "author": "(c) Wolfgang Wüster, all rights reserved",
+      "license": "cc",
+      "width": 930,
+      "height": 697,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

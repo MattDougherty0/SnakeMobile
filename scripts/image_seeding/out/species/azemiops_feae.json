@@ -1,0 +1,17 @@
+{
+  "species_id": "azemiops_feae",
+  "canonical_name": "azemiops feae",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591607442/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591607442/square.jpg",
+      "author": "(c) echoooo, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1363,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "causus_maculatus",
+  "canonical_name": "causus maculatus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590440918/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/590440918/square.jpg",
+      "author": "(c) asanwanyi, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "porthidium_volcanicum",
+  "canonical_name": "porthidium volcanicum",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591192096/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/591192096/square.jpg",
+      "author": "(c) kclinevell, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1983,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

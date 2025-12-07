@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrocophias_lojanus",
+  "canonical_name": "bothrocophias lojanus",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356898230/medium.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/356898230/square.jpeg",
+      "author": "(c) Leovigildo Cabrera, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1360,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

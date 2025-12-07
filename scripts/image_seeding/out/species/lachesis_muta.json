@@ -1,0 +1,17 @@
+{
+  "species_id": "lachesis_muta",
+  "canonical_name": "lachesis muta",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595418342/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595418342/square.jpg",
+      "author": "(c) alemnobre, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 774,
+      "height": 1032,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

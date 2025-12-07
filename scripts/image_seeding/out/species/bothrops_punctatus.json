@@ -4,64 +4,14 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314053710/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314053710/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/180308016",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 1203,
-      "height": 1468,
-      "taxon_id": 30836,
-      "metadata": {
-        "observation_id": 180308016,
-        "photo_id": 314053710,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "5be62564db522e1fe806a6ff582d8ac2",
-      "score": 1.3
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314053745/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/314053745/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/180308016",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1152,
-      "taxon_id": 30836,
-      "metadata": {
-        "observation_id": 180308016,
-        "photo_id": 314053745,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "9c4ec17f60179902872b3adbe80fbb14",
-      "score": 1.3
-    },
-    {
-      "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165175297/medium.jpg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165175297/square.jpg",
-      "original_page": "https://www.inaturalist.org/observations/99124165",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1536,
-      "taxon_id": 30836,
-      "metadata": {
-        "observation_id": 99124165,
-        "photo_id": 165175297,
-        "faves_count": 0,
-        "quality_grade": "research"
-      },
-      "content_hash": "74afcecbd553782ee2b0e4ec096ba232",
-      "score": 1.3
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595245612/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/595245612/square.jpg",
+      "author": "(c) Fundacion ProAves, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 780,
+      "height": 1040,
+      "score": 1
     }
   ],
-  "hero_index": 2
+  "hero_index": 0
 }

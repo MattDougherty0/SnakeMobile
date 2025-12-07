@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_muriciensis",
+  "canonical_name": "bothrops muriciensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338483285/medium.jpeg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/338483285/square.jpeg",
+      "author": "(c) B. Phalan, some rights reserved (CC BY)",
+      "license": "cc-by",
+      "width": 2048,
+      "height": 2048,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

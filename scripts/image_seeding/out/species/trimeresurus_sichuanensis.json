@@ -1,0 +1,17 @@
+{
+  "species_id": "trimeresurus_sichuanensis",
+  "canonical_name": "trimeresurus sichuanensis",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561669786/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/561669786/square.jpg",
+      "author": "(c) 咩赫得, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1536,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

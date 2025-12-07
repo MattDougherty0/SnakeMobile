@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_monsignifer",
+  "canonical_name": "bothrops monsignifer",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539110776/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/539110776/square.jpg",
+      "author": "(c) Daniela Morales Moreno, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 627,
+      "height": 674,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

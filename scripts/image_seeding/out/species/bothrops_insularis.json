@@ -4,23 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210457562/medium.jpg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/210457562/square.jpg",
-      "original_page": "https://www.inaturalist.org/observations/124182523",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
-      "width": 2048,
-      "height": 1295,
-      "taxon_id": 539415,
-      "metadata": {
-        "observation_id": 124182523,
-        "photo_id": 210457562,
-        "faves_count": 6,
-        "quality_grade": "research"
-      },
-      "content_hash": "1f8c5f7a37f5f9f6b583ff2f2c663f71",
-      "score": 1.42
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562356045/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/562356045/square.jpg",
+      "author": "(c) Otavio Augusto Vuolo Marques, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 1080,
+      "height": 718,
+      "score": 1
     }
   ],
   "hero_index": 0

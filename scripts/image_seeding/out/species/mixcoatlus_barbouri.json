@@ -1,0 +1,17 @@
+{
+  "species_id": "mixcoatlus_barbouri",
+  "canonical_name": "mixcoatlus barbouri",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/311687380/medium.jpeg",
+      "thumb_url": "https://static.inaturalist.org/photos/311687380/square.jpeg",
+      "author": "(c) Eric Centenero Alcalá, all rights reserved",
+      "license": "cc",
+      "width": 720,
+      "height": 480,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

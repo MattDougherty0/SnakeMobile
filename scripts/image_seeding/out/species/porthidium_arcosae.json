@@ -1,0 +1,17 @@
+{
+  "species_id": "porthidium_arcosae",
+  "canonical_name": "porthidium arcosae",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586717861/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586717861/square.jpg",
+      "author": "(c) kelly_swing, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 2048,
+      "height": 1362,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

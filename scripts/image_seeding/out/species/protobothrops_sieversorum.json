@@ -1,0 +1,17 @@
+{
+  "species_id": "protobothrops_sieversorum",
+  "canonical_name": "protobothrops sieversorum",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586554984/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/586554984/square.jpg",
+      "author": "(c) Vncreatures, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 960,
+      "height": 1280,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

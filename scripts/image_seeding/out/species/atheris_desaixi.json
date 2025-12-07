@@ -1,0 +1,17 @@
+{
+  "species_id": "atheris_desaixi",
+  "canonical_name": "atheris desaixi",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/113919024/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/113919024/square.jpg",
+      "author": "(c) Matthieu Berroneau, all rights reserved",
+      "license": "cc",
+      "width": 2048,
+      "height": 1365,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

@@ -1,0 +1,17 @@
+{
+  "species_id": "bothrops_medusa",
+  "canonical_name": "bothrops medusa",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/59672009/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/59672009/square.jpg",
+      "author": "(c) Luis Alejandro Rodriguez J., all rights reserved, uploaded by Luis Alejandro Rodriguez J.",
+      "license": "cc",
+      "width": 378,
+      "height": 280,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

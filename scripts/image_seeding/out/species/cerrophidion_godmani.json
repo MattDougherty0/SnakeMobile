@@ -1,0 +1,17 @@
+{
+  "species_id": "cerrophidion_godmani",
+  "canonical_name": "cerrophidion godmani",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594680821/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594680821/square.jpg",
+      "author": "(c) Mark B. Robbins, some rights reserved (CC BY-NC)",
+      "license": "cc-by-nc",
+      "width": 811,
+      "height": 575,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

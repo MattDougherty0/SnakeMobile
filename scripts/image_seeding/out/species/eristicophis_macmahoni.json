@@ -1,0 +1,17 @@
+{
+  "species_id": "eristicophis_macmahoni",
+  "canonical_name": "eristicophis macmahoni",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/203706/medium.JPG",
+      "thumb_url": "https://static.inaturalist.org/photos/203706/square.JPG",
+      "author": "(c) Paul Freed, all rights reserved, uploaded by Paul Freed",
+      "license": "cc",
+      "width": 730,
+      "height": 497,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

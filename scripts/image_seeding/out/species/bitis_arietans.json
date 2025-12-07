@@ -1,0 +1,17 @@
+{
+  "species_id": "bitis_arietans",
+  "canonical_name": "bitis arietans",
+  "images": [
+    {
+      "source": "inaturalist",
+      "full_url": "https://static.inaturalist.org/photos/597987228/medium.jpg",
+      "thumb_url": "https://static.inaturalist.org/photos/597987228/square.jpg",
+      "author": "(c) Chris Whitehouse, all rights reserved",
+      "license": "cc",
+      "width": 1200,
+      "height": 900,
+      "score": 1
+    }
+  ],
+  "hero_index": 0
+}

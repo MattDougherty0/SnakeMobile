@@ -4,23 +4,13 @@
   "images": [
     {
       "source": "inaturalist",
-      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335224151/square.jpeg",
-      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335224151/square.jpeg",
-      "original_page": "https://www.inaturalist.org/observations/191131397",
-      "author": "no rights reserved",
-      "license": "cc0",
-      "license_url": "",
+      "full_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594872846/medium.jpg",
+      "thumb_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/594872846/square.jpg",
+      "author": "(c) Leonardo Guerrero González, some rights reserved (CC BY-NC-ND)",
+      "license": "cc-by-nc-nd",
       "width": 2048,
-      "height": 1151,
-      "taxon_id": 30696,
-      "metadata": {
-        "observation_id": 191131397,
-        "photo_id": 335224151,
-        "faves_count": 1,
-        "quality_grade": "research"
-      },
-      "content_hash": "0fc9f1e4548e02e2f9235eeaefc66438",
-      "score": 1.32
+      "height": 1365,
+      "score": 1
     }
   ],
   "hero_index": 0

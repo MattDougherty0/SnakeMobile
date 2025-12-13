@@ -604,5 +604,1307 @@
     "common_name": "Totonacan Rattlesnake",
     "image": "crotalus_totonacus.jpg",
     "safety_blurb": "Totonacan rattlesnake. Keep distance. If bitten, immobilize and seek medical help."
+  },
+  {
+    "scientific_name": "Crotalus angelensis",
+    "common_name": "Crotalus Angelensis",
+    "image": "crotalus_angelensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus armstrongi",
+    "common_name": "Crotalus Armstrongi",
+    "image": "crotalus_armstrongi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus brunneus",
+    "common_name": "Crotalus Brunneus",
+    "image": "crotalus_brunneus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus campbelli",
+    "common_name": "Crotalus Campbelli",
+    "image": "crotalus_campbelli.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus catalinensis",
+    "common_name": "Crotalus Catalinensis",
+    "image": "crotalus_catalinensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus culminatus",
+    "common_name": "Crotalus Culminatus",
+    "image": "crotalus_culminatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus ehecatl",
+    "common_name": "Crotalus Ehecatl",
+    "image": "crotalus_ehecatl.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus ericsmithi",
+    "common_name": "Crotalus Ericsmithi",
+    "image": "crotalus_ericsmithi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus estebanensis",
+    "common_name": "Crotalus Estebanensis",
+    "image": "crotalus_estebanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus lannomi",
+    "common_name": "Crotalus Lannomi",
+    "image": "crotalus_lannomi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus mictlantecuhtli",
+    "common_name": "Crotalus Mictlantecuhtli",
+    "image": "crotalus_mictlantecuhtli.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus pusillus",
+    "common_name": "Crotalus Pusillus",
+    "image": "crotalus_pusillus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus stejnegeri",
+    "common_name": "Crotalus Stejnegeri",
+    "image": "crotalus_stejnegeri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus tlaloci",
+    "common_name": "Crotalus Tlaloci",
+    "image": "crotalus_tlaloci.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus transversus",
+    "common_name": "Crotalus Transversus",
+    "image": "crotalus_transversus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus unicolor",
+    "common_name": "Crotalus Unicolor",
+    "image": "crotalus_unicolor.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Agkistrodon howardgloydi",
+    "common_name": "Agkistrodon Howardgloydi",
+    "image": "agkistrodon_howardgloydi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Agkistrodon russeolus",
+    "common_name": "Agkistrodon Russeolus",
+    "image": "agkistrodon_russeolus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Agkistrodon taylori",
+    "common_name": "Agkistrodon Taylori",
+    "image": "agkistrodon_taylori.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris anisolepis",
+    "common_name": "Atheris Anisolepis",
+    "image": "atheris_anisolepis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris barbouri",
+    "common_name": "Atheris Barbouri",
+    "image": "atheris_barbouri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris ceratophora",
+    "common_name": "Atheris Ceratophora",
+    "image": "atheris_ceratophora.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris chlorechis",
+    "common_name": "Atheris Chlorechis",
+    "image": "atheris_chlorechis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris desaixi",
+    "common_name": "Atheris Desaixi",
+    "image": "atheris_desaixi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris mabuensis",
+    "common_name": "Atheris Mabuensis",
+    "image": "atheris_mabuensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris nitschei",
+    "common_name": "Atheris Nitschei",
+    "image": "atheris_nitschei.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris rungweensis",
+    "common_name": "Atheris Rungweensis",
+    "image": "atheris_rungweensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atropoides picadoi",
+    "common_name": "Atropoides Picadoi",
+    "image": "atropoides_picadoi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Azemiops feae",
+    "common_name": "Azemiops Feae",
+    "image": "azemiops_feae.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis armata",
+    "common_name": "Bitis Armata",
+    "image": "bitis_armata.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis cornuta",
+    "common_name": "Bitis Cornuta",
+    "image": "bitis_cornuta.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis inornata",
+    "common_name": "Bitis Inornata",
+    "image": "bitis_inornata.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis parviocula",
+    "common_name": "Bitis Parviocula",
+    "image": "bitis_parviocula.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis peringueyi",
+    "common_name": "Bitis Peringueyi",
+    "image": "bitis_peringueyi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis rhinoceros",
+    "common_name": "Bitis Rhinoceros",
+    "image": "bitis_rhinoceros.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis rubida",
+    "common_name": "Bitis Rubida",
+    "image": "bitis_rubida.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis schneideri",
+    "common_name": "Bitis Schneideri",
+    "image": "bitis_schneideri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis worthingtoni",
+    "common_name": "Bitis Worthingtoni",
+    "image": "bitis_worthingtoni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bitis xeropaga",
+    "common_name": "Bitis Xeropaga",
+    "image": "bitis_xeropaga.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis aurifer",
+    "common_name": "Bothriechis Aurifer",
+    "image": "bothriechis_aurifer.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis bicolor",
+    "common_name": "Bothriechis Bicolor",
+    "image": "bothriechis_bicolor.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis guifarroi",
+    "common_name": "Bothriechis Guifarroi",
+    "image": "bothriechis_guifarroi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis marchi",
+    "common_name": "Bothriechis Marchi",
+    "image": "bothriechis_marchi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis nubestris",
+    "common_name": "Bothriechis Nubestris",
+    "image": "bothriechis_nubestris.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis rowleyi",
+    "common_name": "Bothriechis Rowleyi",
+    "image": "bothriechis_rowleyi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis supraciliaris",
+    "common_name": "Bothriechis Supraciliaris",
+    "image": "bothriechis_supraciliaris.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothriechis thalassinus",
+    "common_name": "Bothriechis Thalassinus",
+    "image": "bothriechis_thalassinus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias andianus",
+    "common_name": "Bothrocophias Andianus",
+    "image": "bothrocophias_andianus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias campbelli",
+    "common_name": "Bothrocophias Campbelli",
+    "image": "bothrocophias_campbelli.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias colombianus",
+    "common_name": "Bothrocophias Colombianus",
+    "image": "bothrocophias_colombianus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias hyoprora",
+    "common_name": "Bothrocophias Hyoprora",
+    "image": "bothrocophias_hyoprora.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias myersi",
+    "common_name": "Bothrocophias Myersi",
+    "image": "bothrocophias_myersi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops alcatraz",
+    "common_name": "Bothrops Alcatraz",
+    "image": "bothrops_alcatraz.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops ammodytoides",
+    "common_name": "Bothrops Ammodytoides",
+    "image": "bothrops_ammodytoides.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops ayerbei",
+    "common_name": "Bothrops Ayerbei",
+    "image": "bothrops_ayerbei.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops caribbaeus",
+    "common_name": "Bothrops Caribbaeus",
+    "image": "bothrops_caribbaeus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops chloromelas",
+    "common_name": "Bothrops Chloromelas",
+    "image": "bothrops_chloromelas.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops cotiara",
+    "common_name": "Bothrops Cotiara",
+    "image": "bothrops_cotiara.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops insularis",
+    "common_name": "Bothrops Insularis",
+    "image": "bothrops_insularis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops jonathani",
+    "common_name": "Bothrops Jonathani",
+    "image": "bothrops_jonathani.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops lanceolatus",
+    "common_name": "Bothrops Lanceolatus",
+    "image": "bothrops_lanceolatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops lutzi",
+    "common_name": "Bothrops Lutzi",
+    "image": "bothrops_lutzi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops marmoratus",
+    "common_name": "Bothrops Marmoratus",
+    "image": "bothrops_marmoratus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops mattogrossensis",
+    "common_name": "Bothrops Mattogrossensis",
+    "image": "bothrops_mattogrossensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops medusa",
+    "common_name": "Bothrops Medusa",
+    "image": "bothrops_medusa.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops monsignifer",
+    "common_name": "Bothrops Monsignifer",
+    "image": "bothrops_monsignifer.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops moojeni",
+    "common_name": "Bothrops Moojeni",
+    "image": "bothrops_moojeni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops oligobalius",
+    "common_name": "Bothrops Oligobalius",
+    "image": "bothrops_oligobalius.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops osbornei",
+    "common_name": "Bothrops Osbornei",
+    "image": "bothrops_osbornei.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops pauloensis",
+    "common_name": "Bothrops Pauloensis",
+    "image": "bothrops_pauloensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops pictus",
+    "common_name": "Bothrops Pictus",
+    "image": "bothrops_pictus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops pulcher",
+    "common_name": "Bothrops Pulcher",
+    "image": "bothrops_pulcher.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops punctatus",
+    "common_name": "Bothrops Punctatus",
+    "image": "bothrops_punctatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops sanctaecrucis",
+    "common_name": "Bothrops Sanctaecrucis",
+    "image": "bothrops_sanctaecrucis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops sonene",
+    "common_name": "Bothrops Sonene",
+    "image": "bothrops_sonene.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops taeniatus",
+    "common_name": "Bothrops Taeniatus",
+    "image": "bothrops_taeniatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops venezuelensis",
+    "common_name": "Bothrops Venezuelensis",
+    "image": "bothrops_venezuelensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Causus bilineatus",
+    "common_name": "Causus Bilineatus",
+    "image": "causus_bilineatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Causus defilippii",
+    "common_name": "Causus Defilippii",
+    "image": "causus_defilippii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Causus lichtensteinii",
+    "common_name": "Causus Lichtensteinii",
+    "image": "causus_lichtensteinii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Causus maculatus",
+    "common_name": "Causus Maculatus",
+    "image": "causus_maculatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Causus resimus",
+    "common_name": "Causus Resimus",
+    "image": "causus_resimus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerastes gasperettii",
+    "common_name": "Cerastes Gasperettii",
+    "image": "cerastes_gasperettii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerastes vipera",
+    "common_name": "Cerastes Vipera",
+    "image": "cerastes_vipera.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerrophidion godmani",
+    "common_name": "Cerrophidion Godmani",
+    "image": "cerrophidion_godmani.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerrophidion petlalcalensis",
+    "common_name": "Cerrophidion Petlalcalensis",
+    "image": "cerrophidion_petlalcalensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerrophidion sasai",
+    "common_name": "Cerrophidion Sasai",
+    "image": "cerrophidion_sasai.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Cerrophidion wilsoni",
+    "common_name": "Cerrophidion Wilsoni",
+    "image": "cerrophidion_wilsoni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Daboia mauritanica",
+    "common_name": "Daboia Mauritanica",
+    "image": "daboia_mauritanica.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Daboia siamensis",
+    "common_name": "Daboia Siamensis",
+    "image": "daboia_siamensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Deinagkistrodon acutus",
+    "common_name": "Deinagkistrodon Acutus",
+    "image": "deinagkistrodon_acutus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Echis khosatzkii",
+    "common_name": "Echis Khosatzkii",
+    "image": "echis_khosatzkii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Echis leucogaster",
+    "common_name": "Echis Leucogaster",
+    "image": "echis_leucogaster.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Echis ocellatus",
+    "common_name": "Echis Ocellatus",
+    "image": "echis_ocellatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Echis omanensis",
+    "common_name": "Echis Omanensis",
+    "image": "echis_omanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera orlovi",
+    "common_name": "Vipera Orlovi",
+    "image": "vipera_orlovi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera transcaucasiana",
+    "common_name": "Vipera Transcaucasiana",
+    "image": "vipera_transcaucasiana.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Echis pyramidum",
+    "common_name": "Echis Pyramidum",
+    "image": "echis_pyramidum.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Garthius chaseni",
+    "common_name": "Garthius Chaseni",
+    "image": "garthius_chaseni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius blomhoffii",
+    "common_name": "Gloydius Blomhoffii",
+    "image": "gloydius_blomhoffii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius brevicaudus",
+    "common_name": "Gloydius Brevicaudus",
+    "image": "gloydius_brevicaudus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius caraganus",
+    "common_name": "Gloydius Caraganus",
+    "image": "gloydius_caraganus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius caucasicus",
+    "common_name": "Gloydius Caucasicus",
+    "image": "gloydius_caucasicus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius halys",
+    "common_name": "Gloydius Halys",
+    "image": "gloydius_halys.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius himalayanus",
+    "common_name": "Gloydius Himalayanus",
+    "image": "gloydius_himalayanus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius strauchi",
+    "common_name": "Gloydius Strauchi",
+    "image": "gloydius_strauchi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius tsushimaensis",
+    "common_name": "Gloydius Tsushimaensis",
+    "image": "gloydius_tsushimaensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Hypnale nepa",
+    "common_name": "Hypnale Nepa",
+    "image": "hypnale_nepa.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Hypnale zara",
+    "common_name": "Hypnale Zara",
+    "image": "hypnale_zara.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Lachesis acrochorda",
+    "common_name": "Lachesis Acrochorda",
+    "image": "lachesis_acrochorda.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Lachesis melanocephala",
+    "common_name": "Lachesis Melanocephala",
+    "image": "lachesis_melanocephala.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Lachesis stenophrys",
+    "common_name": "Lachesis Stenophrys",
+    "image": "lachesis_stenophrys.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Macrovipera schweizeri",
+    "common_name": "Macrovipera Schweizeri",
+    "image": "macrovipera_schweizeri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Metlapilcoatlus indomitus",
+    "common_name": "Metlapilcoatlus Indomitus",
+    "image": "metlapilcoatlus_indomitus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Metlapilcoatlus occiduus",
+    "common_name": "Metlapilcoatlus Occiduus",
+    "image": "metlapilcoatlus_occiduus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Metlapilcoatlus olmec",
+    "common_name": "Metlapilcoatlus Olmec",
+    "image": "metlapilcoatlus_olmec.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Mixcoatlus browni",
+    "common_name": "Mixcoatlus Browni",
+    "image": "mixcoatlus_browni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Mixcoatlus melanurus",
+    "common_name": "Mixcoatlus Melanurus",
+    "image": "mixcoatlus_melanurus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montatheris hindii",
+    "common_name": "Montatheris Hindii",
+    "image": "montatheris_hindii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera albizona",
+    "common_name": "Montivipera Albizona",
+    "image": "montivipera_albizona.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera bornmuelleri",
+    "common_name": "Montivipera Bornmuelleri",
+    "image": "montivipera_bornmuelleri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera bulgardaghica",
+    "common_name": "Montivipera Bulgardaghica",
+    "image": "montivipera_bulgardaghica.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera raddei",
+    "common_name": "Montivipera Raddei",
+    "image": "montivipera_raddei.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera wagneri",
+    "common_name": "Montivipera Wagneri",
+    "image": "montivipera_wagneri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera xanthina",
+    "common_name": "Montivipera Xanthina",
+    "image": "montivipera_xanthina.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ophryacus smaragdinus",
+    "common_name": "Ophryacus Smaragdinus",
+    "image": "ophryacus_smaragdinus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ophryacus sphenophrys",
+    "common_name": "Ophryacus Sphenophrys",
+    "image": "ophryacus_sphenophrys.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ovophis convictus",
+    "common_name": "Ovophis Convictus",
+    "image": "ovophis_convictus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ovophis makazayazaya",
+    "common_name": "Ovophis Makazayazaya",
+    "image": "ovophis_makazayazaya.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ovophis monticola",
+    "common_name": "Ovophis Monticola",
+    "image": "ovophis_monticola.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ovophis okinavensis",
+    "common_name": "Ovophis Okinavensis",
+    "image": "ovophis_okinavensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Ovophis tonkinensis",
+    "common_name": "Ovophis Tonkinensis",
+    "image": "ovophis_tonkinensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Porthidium arcosae",
+    "common_name": "Porthidium Arcosae",
+    "image": "porthidium_arcosae.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Porthidium dunni",
+    "common_name": "Porthidium Dunni",
+    "image": "porthidium_dunni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Porthidium hespere",
+    "common_name": "Porthidium Hespere",
+    "image": "porthidium_hespere.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Porthidium porrasi",
+    "common_name": "Porthidium Porrasi",
+    "image": "porthidium_porrasi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Porthidium volcanicum",
+    "common_name": "Porthidium Volcanicum",
+    "image": "porthidium_volcanicum.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Proatheris superciliaris",
+    "common_name": "Proatheris Superciliaris",
+    "image": "proatheris_superciliaris.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops cornutus",
+    "common_name": "Protobothrops Cornutus",
+    "image": "protobothrops_cornutus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops elegans",
+    "common_name": "Protobothrops Elegans",
+    "image": "protobothrops_elegans.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops flavoviridis",
+    "common_name": "Protobothrops Flavoviridis",
+    "image": "protobothrops_flavoviridis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops jerdonii",
+    "common_name": "Protobothrops Jerdonii",
+    "image": "protobothrops_jerdonii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops kaulbacki",
+    "common_name": "Protobothrops Kaulbacki",
+    "image": "protobothrops_kaulbacki.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops mangshanensis",
+    "common_name": "Protobothrops Mangshanensis",
+    "image": "protobothrops_mangshanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops sieversorum",
+    "common_name": "Protobothrops Sieversorum",
+    "image": "protobothrops_sieversorum.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Protobothrops xiangchengensis",
+    "common_name": "Protobothrops Xiangchengensis",
+    "image": "protobothrops_xiangchengensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Pseudocerastes fieldi",
+    "common_name": "Pseudocerastes Fieldi",
+    "image": "pseudocerastes_fieldi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Pseudocerastes persicus",
+    "common_name": "Pseudocerastes Persicus",
+    "image": "pseudocerastes_persicus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Pseudocerastes urarachnoides",
+    "common_name": "Pseudocerastes Urarachnoides",
+    "image": "pseudocerastes_urarachnoides.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus andalasensis",
+    "common_name": "Trimeresurus Andalasensis",
+    "image": "trimeresurus_andalasensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus andersonii",
+    "common_name": "Trimeresurus Andersonii",
+    "image": "trimeresurus_andersonii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus borneensis",
+    "common_name": "Trimeresurus Borneensis",
+    "image": "trimeresurus_borneensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus cardamomensis",
+    "common_name": "Trimeresurus Cardamomensis",
+    "image": "trimeresurus_cardamomensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus erythrurus",
+    "common_name": "Trimeresurus Erythrurus",
+    "image": "trimeresurus_erythrurus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus gracilis",
+    "common_name": "Trimeresurus Gracilis",
+    "image": "trimeresurus_gracilis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus gramineus",
+    "common_name": "Trimeresurus Gramineus",
+    "image": "trimeresurus_gramineus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus gumprechti",
+    "common_name": "Trimeresurus Gumprechti",
+    "image": "trimeresurus_gumprechti.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus gunaleni",
+    "common_name": "Trimeresurus Gunaleni",
+    "image": "trimeresurus_gunaleni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus hageni",
+    "common_name": "Trimeresurus Hageni",
+    "image": "trimeresurus_hageni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus kanburiensis",
+    "common_name": "Trimeresurus Kanburiensis",
+    "image": "trimeresurus_kanburiensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus macrolepis",
+    "common_name": "Trimeresurus Macrolepis",
+    "image": "trimeresurus_macrolepis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus macrops",
+    "common_name": "Trimeresurus Macrops",
+    "image": "trimeresurus_macrops.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus malcolmi",
+    "common_name": "Trimeresurus Malcolmi",
+    "image": "trimeresurus_malcolmi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus mcgregori",
+    "common_name": "Trimeresurus Mcgregori",
+    "image": "trimeresurus_mcgregori.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus nebularis",
+    "common_name": "Trimeresurus Nebularis",
+    "image": "trimeresurus_nebularis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus phuketensis",
+    "common_name": "Trimeresurus Phuketensis",
+    "image": "trimeresurus_phuketensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus popeiorum",
+    "common_name": "Trimeresurus Popeiorum",
+    "image": "trimeresurus_popeiorum.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus puniceus",
+    "common_name": "Trimeresurus Puniceus",
+    "image": "trimeresurus_puniceus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus rubeus",
+    "common_name": "Trimeresurus Rubeus",
+    "image": "trimeresurus_rubeus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus sabahi",
+    "common_name": "Trimeresurus Sabahi",
+    "image": "trimeresurus_sabahi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus salazar",
+    "common_name": "Trimeresurus Salazar",
+    "image": "trimeresurus_salazar.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus septentrionalis",
+    "common_name": "Trimeresurus Septentrionalis",
+    "image": "trimeresurus_septentrionalis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus sichuanensis",
+    "common_name": "Trimeresurus Sichuanensis",
+    "image": "trimeresurus_sichuanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus strigatus",
+    "common_name": "Trimeresurus Strigatus",
+    "image": "trimeresurus_strigatus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus sumatranus",
+    "common_name": "Trimeresurus Sumatranus",
+    "image": "trimeresurus_sumatranus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus tibetanus",
+    "common_name": "Trimeresurus Tibetanus",
+    "image": "trimeresurus_tibetanus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus venustus",
+    "common_name": "Trimeresurus Venustus",
+    "image": "trimeresurus_venustus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus vogeli",
+    "common_name": "Trimeresurus Vogeli",
+    "image": "trimeresurus_vogeli.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus yunnanensis",
+    "common_name": "Trimeresurus Yunnanensis",
+    "image": "trimeresurus_yunnanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Tropidolaemus philippensis",
+    "common_name": "Tropidolaemus Philippensis",
+    "image": "tropidolaemus_philippensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera altaica",
+    "common_name": "Vipera Altaica",
+    "image": "vipera_altaica.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera anatolica",
+    "common_name": "Vipera Anatolica",
+    "image": "vipera_anatolica.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera barani",
+    "common_name": "Vipera Barani",
+    "image": "vipera_barani.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera darevskii",
+    "common_name": "Vipera Darevskii",
+    "image": "vipera_darevskii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera dinniki",
+    "common_name": "Vipera Dinniki",
+    "image": "vipera_dinniki.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera eriwanensis",
+    "common_name": "Vipera Eriwanensis",
+    "image": "vipera_eriwanensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera graeca",
+    "common_name": "Vipera Graeca",
+    "image": "vipera_graeca.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera kaznakovi",
+    "common_name": "Vipera Kaznakovi",
+    "image": "vipera_kaznakovi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera lotievi",
+    "common_name": "Vipera Lotievi",
+    "image": "vipera_lotievi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera monticola",
+    "common_name": "Vipera Monticola",
+    "image": "vipera_monticola.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Vipera walser",
+    "common_name": "Vipera Walser",
+    "image": "vipera_walser.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops itapetiningae",
+    "common_name": "Bothrops Itapetiningae",
+    "image": "bothrops_itapetiningae.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops marajoensis",
+    "common_name": "Bothrops Marajoensis",
+    "image": "bothrops_marajoensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops muriciensis",
+    "common_name": "Bothrops Muriciensis",
+    "image": "bothrops_muriciensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops pirajai",
+    "common_name": "Bothrops Pirajai",
+    "image": "bothrops_pirajai.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrocophias lojanus",
+    "common_name": "Bothrocophias Lojanus",
+    "image": "bothrocophias_lojanus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus cantori",
+    "common_name": "Trimeresurus Cantori",
+    "image": "trimeresurus_cantori.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus polisi",
+    "common_name": "Crotalus Polisi",
+    "image": "crotalus_polisi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus thalassoporus",
+    "common_name": "Crotalus Thalassoporus",
+    "image": "crotalus_thalassoporus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus exiguus",
+    "common_name": "Crotalus Exiguus",
+    "image": "crotalus_exiguus.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Mixcoatlus barbouri",
+    "common_name": "Mixcoatlus Barbouri",
+    "image": "mixcoatlus_barbouri.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris hispida",
+    "common_name": "Atheris Hispida",
+    "image": "atheris_hispida.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus lorenzoensis",
+    "common_name": "Crotalus Lorenzoensis",
+    "image": "crotalus_lorenzoensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius shedaoensis",
+    "common_name": "Gloydius Shedaoensis",
+    "image": "gloydius_shedaoensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus schultzei",
+    "common_name": "Trimeresurus Schultzei",
+    "image": "trimeresurus_schultzei.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus brongersmai",
+    "common_name": "Trimeresurus Brongersmai",
+    "image": "trimeresurus_brongersmai.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Montivipera latifii",
+    "common_name": "Montivipera Latifii",
+    "image": "montivipera_latifii.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris broadleyi",
+    "common_name": "Atheris Broadleyi",
+    "image": "atheris_broadleyi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus honsonensis",
+    "common_name": "Trimeresurus Honsonensis",
+    "image": "trimeresurus_honsonensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Gloydius rickmersi",
+    "common_name": "Gloydius Rickmersi",
+    "image": "gloydius_rickmersi.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops barnetti",
+    "common_name": "Bothrops Barnetti",
+    "image": "bothrops_barnetti.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus tancitarensis",
+    "common_name": "Crotalus Tancitarensis",
+    "image": "crotalus_tancitarensis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Bothrops oligolepis",
+    "common_name": "Bothrops Oligolepis",
+    "image": "bothrops_oligolepis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Eristicophis macmahoni",
+    "common_name": "Eristicophis Macmahoni",
+    "image": "eristicophis_macmahoni.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Trimeresurus labialis",
+    "common_name": "Trimeresurus Labialis",
+    "image": "trimeresurus_labialis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Crotalus vegrandis",
+    "common_name": "Crotalus Vegrandis",
+    "image": "crotalus_vegrandis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
+  },
+  {
+    "scientific_name": "Atheris subocularis",
+    "common_name": "Atheris Subocularis",
+    "image": "atheris_subocularis.jpg",
+    "safety_blurb": "Keep distance. Hemotoxic venom. If bitten, stay calm, immobilize limb, and call 911."
   }
 ]
